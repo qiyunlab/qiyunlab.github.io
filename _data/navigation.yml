@@ -9,5 +9,7 @@ main:
     url: papers
   - title: Software
     url: software
+  - title: Teaching
+    url: teaching
   - title: Contact
     url: contact
