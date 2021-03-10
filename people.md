@@ -37,7 +37,7 @@ postdoc:
 
 phd:
   - title: Henry Secaira Morocho
-    image_path: assets/images/people/HenryPhoto.jpeg
+    image_path: assets/images/people/HenryPhoto_crop.jpeg
     excerpt: >
       I will join Qiyun lab in the 2021 Fall for my Ph.D. research. I am a biologist with a multidisciplinary background, which has shaped my interests at the interface of evolution, bioinformatics, microbiology, and systems biology. Currently, I am Bioinformatics and Computational Biology master's student in Spain, and I am working on a research project that focuses on the network analysis of deep sequencing data to understand the adaptive responses of viral populations to varying environments under the supervision of [Dr. Susanna Manrubia.](https://auditore.cab.inta-csic.es/manrubia/)
       <br /><br />
