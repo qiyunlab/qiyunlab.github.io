@@ -45,6 +45,17 @@ phd:
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/HSecaira)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)&nbsp;&nbsp;
       [<i class='ai ai-cv-square ai-2x'></i>](assets/files/Secaira_Henrry_CV.pdf) 
+
+Undergraduate:
+  - title: Zhu Xing
+    image_path: assets/images/people/zx_labphoto.jpg
+    excerpt: >
+      I am an undergraduate student majoring in Biological Science(Genetics, Cell and Developmental Biology) and Global Health. I am a new member of the Qiyun lab. I am interested to learn about microbiology and bioinformatics. I am still exploring possible future careers with an interest in biomedical science. Currently, I am assisting Daniel with the Cydrasil project. 
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:zxing16@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Zhu288)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/zhu-xing-a734661b5/)&nbsp;&nbsp;
+      [<i class='ai ai-cv-square ai-2x'></i>](assets/files/Zhu_Xing_resume2021.pdf)
 ---
 
 
