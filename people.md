@@ -48,6 +48,17 @@ undergrad:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/zhu-xing-a734661b5/)&nbsp;&nbsp;
       [<i class='ai ai-cv-square ai-2x'></i>](assets/files/Zhu_Xing_resume2021.pdf)
 
+high school student:
+  - title: Abhinav Chede
+    image_path: assets/images/people/zx_labphoto.jpg
+    excerpt: >
+      I am an high school student at BASIS Chandler in Chandler, AZ. I am a new member of the Qiyun lab. I am interested to learn about microbiology and bioinformatics. I am still exploring possible future careers with an interest in biomedical science.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:abhinavchede@gmail.com)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/AbhinavChede)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/abhinav-chede-012777206/)&nbsp;&nbsp;
+      [<i class='ai ai-cv-square ai-2x'></i>](assets/files/Zhu_Xing_resume2021.pdf)
+
 alumni:
   - title: Julian Yu
     image_path: assets/images/people/JulianYu.jpg
