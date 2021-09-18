@@ -50,7 +50,7 @@ undergrad:
 
 high school student:
   - title: Abhinav Chede
-    image_path: assets/images/people/zx_labphoto.jpg
+    image_path: assets/images/people/Abhinav_Picture.png
     excerpt: >
       I am an high school student at BASIS Chandler in Chandler, AZ. I am a new member of the Qiyun lab. I am interested to learn about microbiology and bioinformatics. I am still exploring possible future careers with an interest in biomedical science.
       <br /><br />
