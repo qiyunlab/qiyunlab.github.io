@@ -86,10 +86,15 @@ alumni:
 
 {% include feature_row id="undergrad" type="left" %}
 
+## High School Students
+
+{% include feature_row id="high" type="left" %}
 
 ## Alumni
 
 {% include feature_row id="alumni" %}
+
+
 
 
 ## Open Positions
