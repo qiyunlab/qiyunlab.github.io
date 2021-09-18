@@ -48,7 +48,7 @@ undergrad:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/zhu-xing-a734661b5/)&nbsp;&nbsp;
       [<i class='ai ai-cv-square ai-2x'></i>](assets/files/Zhu_Xing_resume2021.pdf)
 
-high school student:
+high:
   - title: Abhinav Chede
     image_path: assets/images/people/Abhinav_Picture.png
     excerpt: >
