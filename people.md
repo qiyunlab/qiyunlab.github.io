@@ -11,7 +11,7 @@ pi:
         [<i class='ai ai-orcid-square ai-2x'></i>](http://orcid.org/0000-0003-0490-1175)&nbsp;&nbsp;
         [<i class='fab fa-github-square fa-2x'></i>](https://github.com/qiyunzhu/)&nbsp;&nbsp;
         [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/qiyunzhu/)&nbsp;&nbsp;
-        [<i class='ai ai-cv-square ai-2x'></i>](assets/files/QiyunZhu_CV_Aug2020.pdf)
+        [<i class='ai ai-cv-square ai-2x'></i>](assets/files/QiyunZhu_CV_Mar2022.pdf)
 
 postdoc:
   - title: Daniel Roush
