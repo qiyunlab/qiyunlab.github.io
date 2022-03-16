@@ -12,7 +12,7 @@ header:
   overlay_image: /assets/images/splash.jpg
   actions:
     - label: Join Us!
-      url: people#open-positions
+      url: people#join-us
   caption: Image by <a href="https://pixabay.com/users/TheDigitalArtist-202249/">TheDigitalArtist</a> from <a href="https://pixabay.com/illustrations/spores-bug-bacteria-bacterium-1487802/">Pixabay</a>
 excerpt: Microbiome Data Science
 ---

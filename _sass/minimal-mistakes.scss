@@ -73,6 +73,21 @@ h4 {
 
 
 /**
+ * Make image caption more visible.
+ */
+
+.page__hero-caption,
+.archive__item-caption {
+  opacity: 0.75;
+  font-family: $global-font-family;
+  font-size: $type-size-6;
+  a {
+    text-decoration: inherit;
+  }
+}
+
+
+/**
  * Make notice text larger.
  */
 @mixin notice($notice-color) {

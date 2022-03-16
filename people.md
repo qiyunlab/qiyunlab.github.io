@@ -11,7 +11,7 @@ pi:
         [<i class='ai ai-orcid-square ai-2x'></i>](http://orcid.org/0000-0003-0490-1175)&nbsp;&nbsp;
         [<i class='fab fa-github-square fa-2x'></i>](https://github.com/qiyunzhu/)&nbsp;&nbsp;
         [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/qiyunzhu/)&nbsp;&nbsp;
-        [<i class='ai ai-cv-square ai-2x'></i>](assets/files/QiyunZhu_CV_Mar2022.pdf)
+        [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/QiyunZhu_CV_Mar2022.pdf)
 
 postdoc:
   - title: Daniel Roush
@@ -24,7 +24,7 @@ postdoc:
         [<i class='ai ai-orcid-square ai-2x'></i>](https://orcid.org/0000-0001-8025-2117)&nbsp;&nbsp;
         [<i class='fab fa-github-square fa-2x'></i>](https://github.com/droush)&nbsp;&nbsp;
         [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/dwroush/)&nbsp;&nbsp;
-        [<i class='ai ai-cv-square ai-2x'></i>](assets/files/roush-cv-aug-2020-qiyun-lab.pdf)
+        [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/roush-cv-aug-2020-qiyun-lab.pdf)
 
 graduate:
   - title: Henry Secaira Morocho
@@ -35,7 +35,7 @@ graduate:
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:hsecaira@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/HSecaira)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)&nbsp;&nbsp;
-      [<i class='ai ai-cv-square ai-2x'></i>](assets/files/Secaira_Henrry_CV.pdf) 
+      [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/Secaira_Henrry_CV.pdf) 
 
 undergrad:
   - title: Zhu Xing
@@ -46,7 +46,7 @@ undergrad:
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:zxing16@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Zhu288)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/zhu-xing-a734661b5/)&nbsp;&nbsp;
-      [<i class='ai ai-cv-square ai-2x'></i>](assets/files/Zhu_Xing_resume2021.pdf)
+      [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/Zhu_Xing_resume2021.pdf)
 
 high:
   - title: Abhinav Chede
@@ -57,7 +57,7 @@ high:
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:abhinavchede@gmail.com)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/AbhinavChede)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/abhinav-chede-012777206/)&nbsp;&nbsp;
-      [<i class='ai ai-cv-square ai-2x'></i>](assets/files/AbhinavChede_Resume.pdf)
+      [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/AbhinavChede_Resume.pdf)
 
 alumni:
   - title: Julian Yu
@@ -68,14 +68,6 @@ alumni:
       [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=PT0_hHYAAAAJ)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/yujulian0168)
 
-join:
-  - title: Join Us!
-    image_path: assets/images/photos/Lab_2021.jpg
-    image_caption: Lab party (Oct 2021)
-    excerpt: >
-        We welcome undergraduate and graduate students with an interest in microbiomes and bioinformatics to join our highly motivated and collaborative team. You will conduct research on one or several projects that both advance the field and fit your specific interest. You will receive training in quantitative skills, big data analytics, software development, hypothesis testing, scientific communication, and other valuable aspects of scientific research.
-        <br /><br />
-        Please contact **Dr. Qiyun Zhu** at Qiyun.Zhu[at]asu.edu to discuss about the opportunity.
 ---
 
 ## Principal Investigator
@@ -102,6 +94,15 @@ join:
 
 {% include feature_row id="alumni" %}
 
-## Open Positions
+## Join Us
 
-{% include feature_row id="join" type="right" %}
+<!-- ![image-left](assets/images/photos/Lab_2021.jpg){: .align-right} -->
+
+<figure style="float: right; width: 600px; text-align: center; margin: 0.5em; padding: 0.5em;">
+  <img src="assets/images/photos/Lab_2021.jpg" alt="this is a placeholder image">
+  <figcaption>Lab party, 2021</figcaption>
+</figure>
+
+We welcome undergraduate and graduate students with an interest in microbiomes and bioinformatics to join our highly motivated and collaborative team. You will conduct research on one or several projects that both advance the field and fit your specific interest. You will receive training in quantitative skills, big data analytics, software development, hypothesis testing, scientific communication, and other valuable aspects of scientific research.
+
+Please contact **Dr. Qiyun Zhu** at Qiyun.Zhu[at]asu.edu to discuss about the opportunity.
