@@ -1,15 +1,15 @@
 main:
-  - title: Home
-    url: /
-  - title: People
+  - title: Team
     url: people
   - title: Research
     url: research
-  - title: Papers
-    url: papers
-  - title: Software
-    url: software
   - title: Teaching
     url: teaching
+  - title: Papers
+    url: papers
+  - title: Code
+    url: software
+  - title: Photos
+    url: photos
   - title: Contact
     url: contact
