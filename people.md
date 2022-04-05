@@ -47,6 +47,10 @@ undergrad:
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Zhu288)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/zhu-xing-a734661b5/)&nbsp;&nbsp;
       [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/Zhu_Xing_resume2021.pdf)
+  - title: Noah Pacheco
+    image_path: assets/images/people/Noah_Pacheco.jpg
+    excerpt: >
+      I am an undergraduate student majoring in biochemistry (medicinal chemistry). I am a new member of the Qiyun laboratory. I am interested in phylogenetics using computational tools and also in medicine development. I am exploring a career in biomedical sciences and I will attend the Idaho National Laboratory as an intern where I will be working on  projects that deal with paper recycling, agricultural residue utilization, algae fuel production and fuel production from municipal solid waste.
 
 high:
   - title: Abhinav Chede
