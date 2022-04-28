@@ -63,6 +63,15 @@ high:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/abhinav-chede-012777206/)&nbsp;&nbsp;
       [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/AbhinavChede_Resume.pdf)
 
+intern:
+  - title: Ping-Han Huang
+    image_path: assets/images/people/Ping-Han_Huang.jpg
+    excerpt: >
+      I am a PhD student in Statistics at ASU School of Mathematical and Statistical Sciences. My area of focus is functional data analysis and experimental design. In addition to my work in statistics, I have research experience in analyzing gene expression data and investigating the relationship between metastatic cancer and human endogenous retrovirus. I am looking forward to expanding my horizons in bioinformatics and exploring the gene-disease associations through various statistical models.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:Ping-Han.Huang@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](www.linkedin.com/in/ping-han-huang)
+
 alumni:
   - title: Julian Yu
     image_path: assets/images/people/Julian_Yu.jpg
@@ -93,6 +102,10 @@ alumni:
 ## High School Students
 
 {% include feature_row id="high" type="left" %}
+
+## Summer Intern Students
+
+{% include feature_row id="intern" type="left" %}
 
 ## Alumni
 
