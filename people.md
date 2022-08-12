@@ -24,7 +24,6 @@ postdoc:
         [<i class='ai ai-orcid-square ai-2x'></i>](https://orcid.org/0000-0001-8025-2117)&nbsp;&nbsp;
         [<i class='fab fa-github-square fa-2x'></i>](https://github.com/droush)&nbsp;&nbsp;
         [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/dwroush/)&nbsp;&nbsp;
-        [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/roush-cv-aug-2020-qiyun-lab.pdf)
 
 graduate:
   - title: Henry Secaira Morocho
@@ -35,7 +34,14 @@ graduate:
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:hsecaira@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/HSecaira)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)&nbsp;&nbsp;
-      [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/Secaira_Henrry_CV.pdf) 
+  - title: Wanxiang Liu
+    image_path: assets/images/people/Wanxiang_Liu.jpg
+    excerpt: >
+      I started to be an Evolutionary Biology Ph.D. student in Fall 2022.I have wet lab and dry lab background before joining Qiyun's lab. I am enthusiastic about improving biological discovery by analyzing omics data, such as microbiome sequencing data. Currently, I am studying tree-structured feature engineering for prediction.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:wliu176@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Johnxiaoming)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/wanxiang-liu-273673b8/)
 
 undergrad:
   - title: Zhu Xing
@@ -46,7 +52,6 @@ undergrad:
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:zxing16@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Zhu288)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/zhu-xing-a734661b5/)&nbsp;&nbsp;
-      [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/Zhu_Xing_resume2021.pdf)
   - title: Noah Pacheco
     image_path: assets/images/people/Noah_Pacheco.jpg
     excerpt: >
@@ -61,16 +66,6 @@ high:
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:abhinavchede@gmail.com)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/AbhinavChede)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/abhinav-chede-012777206/)&nbsp;&nbsp;
-      [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/AbhinavChede_Resume.pdf)
-
-intern:
-  - title: Ping-Han Huang
-    image_path: assets/images/people/Ping-Han_Huang.jpg
-    excerpt: >
-      I am a PhD student in Statistics at ASU School of Mathematical and Statistical Sciences. My area of focus is functional data analysis and experimental design. In addition to my work in statistics, I have research experience in analyzing gene expression data and investigating the relationship between metastatic cancer and human endogenous retrovirus. I am looking forward to expanding my horizons in bioinformatics and exploring the gene-disease associations through various statistical models.
-      <br /><br />
-      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:Ping-Han.Huang@asu.edu)&nbsp;&nbsp;
-      [<i class='fab fa-linkedin fa-2x'></i>](www.linkedin.com/in/ping-han-huang)
 
 alumni:
   - title: Julian Yu
@@ -80,6 +75,14 @@ alumni:
       <br /><br />
       [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=PT0_hHYAAAAJ)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/yujulian0168)
+  - title: Ping-Han Huang
+    image_path: assets/images/people/Ping-Han_Huang.jpg
+    excerpt: >
+      Ping-Han (intern, summer 2022) is a PhD student in Statistics at ASU School of Mathematical and Statistical Sciences. Her area of focus is functional data analysis and experimental design. In addition to her work in statistics, She has research experience in analyzing gene expression data and investigating the relationship between metastatic cancer and human endogenous retrovirus. She looks forward to expanding horizons in bioinformatics and exploring the gene-disease associations through various statistical models.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:Ping-Han.Huang@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](www.linkedin.com/in/ping-han-huang)
+
 
 ---
 
@@ -102,10 +105,6 @@ alumni:
 ## High School Students
 
 {% include feature_row id="high" type="left" %}
-
-## Summer Intern Students
-
-{% include feature_row id="intern" type="left" %}
 
 ## Alumni
 
