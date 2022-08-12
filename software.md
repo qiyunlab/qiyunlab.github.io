@@ -1,18 +1,30 @@
 ---
 title: Software
-wol:
+main:
   - title: Web of Life (WoL)
-    url: https://biocore.github.io/wol/
     image_path: assets/images/software/wol.png
+    url: https://biocore.github.io/wol/
+    btn_label: "Learn More"
+    btn_class: "btn--info"
     excerpt: >
         WoL is a highly collaborative project aiming at building a reference phylogeny which accurately defines the evolutionary relationships among all microbes. In Phase I of the project, we built a phylogeny of 10,575 genomes using 381 marker genes, making this the single largest dataset upon which de novo phylogenetic trees have been built, yet the bioinformatic approaches we adopted or invented are significantly more robust than previous works. We made the resource publicly available to benefit the research community. It means to serve as a reference for researchers to explore the evolution and diversity of microbes, and to improve the study of microbial communities. <br/><br/>
         [Zhu et al., _Nat Commun_, 2019](https://www.nature.com/articles/s41467-019-13443-4)
-woltka:
   - title: Woltka
-    url: https://github.com/qiyunzhu/woltka
     image_path: assets/images/software/woltka.png
+    url: https://github.com/qiyunzhu/woltka
+    btn_label: "Learn More"
+    btn_class: "btn--info"
     excerpt: >
-        Woltka is a bioinformatics package for shotgun metagenomic data analysis. It highlights: 1) fine-grain community ecology featuring individual reference genomes; 2) tree-based, rank-free classification to maximize resolution and flexibility; 3) combined taxonomic & functional analysis through one alignment to ensure consistency and accuracy. It takes full advantage of, but not limited by, the [WoL](https://biocore.github.io/wol/) reference phylogeny. It comes with an interface for the [QIIME 2](https://qiime2.org/) package, and has been integrated into the [Qiita](https://qiita.ucsd.edu/) web server.
+        Woltka is a bioinformatics package for shotgun metagenomic data analysis. It highlights: 1) fine-grain community ecology featuring individual reference genomes; 2) tree-based, rank-free classification to maximize resolution and flexibility; 3) combined taxonomic & functional analysis through one alignment to ensure consistency and accuracy. It takes full advantage of, but not limited by, the [WoL](https://biocore.github.io/wol/) reference phylogeny. It comes with an interface for the [QIIME 2](https://qiime2.org/) package, and has been integrated into the [Qiita](https://qiita.ucsd.edu/) web server. <br/><br/>
+        [Zhu et al., _mSystems_, 2022](https://journals.asm.org/doi/10.1128/msystems.00167-22)
+  - title: BinaRena
+    image_path: assets/images/software/binarena.jpg
+    url: https://github.com/qiyunlab/binarena
+    btn_label: "Learn More"
+    btn_class: "btn--info"
+    excerpt: >
+        Binarena ("bin arena") is an interactive visualizer and operator of metagenomic contigs to facilitate discovery of biological patterns and recovery of metagenome-assembled genomes (MAGs). It is dedicated to **human-guided** research in order to complement algorithmic workflows. It is engineered with a strong focus on human factors, letting the user conveniently observe various characteristics of large metagenomic datasets, efficiently manipulate contig-bin assignments, and calculate bin quality metrics in real time. BinaRena is an installation-free, client-end web application. Here is a [live demo](https://qiyunlab.github.io/binarena/demo.html). <br/><br/>
+        [Pavia et al., _bioRxiv_, 2022](https://www.biorxiv.org/content/10.1101/2022.06.28.498025v1)
 others:
   - title: HGTector
     url: https://github.com/DittmarLab/HGTector
@@ -59,8 +71,7 @@ Check out our software projects at <i class='fab fa-github fa-lg'></i> [GitHub](
 
 ## Projects we lead
 
-{% include feature_row id="wol" type="left" %}
-{% include feature_row id="woltka" type="center" %}
+{% include feature_row id="main" type="left" %}
 {% include feature_row id="others" %}
 
 ## Projects we contribute to
