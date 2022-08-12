@@ -10,6 +10,7 @@ wol:
 woltka:
   - title: Woltka
     url: https://github.com/qiyunzhu/woltka
+    image_path: assets/images/software/woltka.png
     excerpt: >
         Woltka is a bioinformatics package for shotgun metagenomic data analysis. It highlights: 1) fine-grain community ecology featuring individual reference genomes; 2) tree-based, rank-free classification to maximize resolution and flexibility; 3) combined taxonomic & functional analysis through one alignment to ensure consistency and accuracy. It takes full advantage of, but not limited by, the [WoL](https://biocore.github.io/wol/) reference phylogeny. It comes with an interface for the [QIIME 2](https://qiime2.org/) package, and has been integrated into the [Qiita](https://qiita.ucsd.edu/) web server.
 others:
@@ -65,3 +66,5 @@ Check out our software projects at <i class='fab fa-github fa-lg'></i> [GitHub](
 ## Projects we contribute to
 
 {% include feature_row id="contrib" %}
+
+<!-- Note: feature images should be 640x426 px. -->
