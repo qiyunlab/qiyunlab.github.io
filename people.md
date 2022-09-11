@@ -56,6 +56,14 @@ undergrad:
     image_path: assets/images/people/Noah_Pacheco.jpg
     excerpt: >
       I am an undergraduate student majoring in biochemistry (medicinal chemistry). I am a new member of the Qiyun laboratory. I am interested in phylogenetics using computational tools and also in medicine development. I am exploring a career in biomedical sciences and I will attend the Idaho National Laboratory as an intern where I will be working on  projects that deal with paper recycling, agricultural residue utilization, algae fuel production and fuel production from municipal solid waste.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:nrpache1@asu.edu)
+  - title: Hasti Asrari
+    image_path: assets/images/people/Hasti_Asrari.jpg
+    excerpt: >
+      I am an undergraduate student at the West campus majoring in Biology and pursuing two certificates in Biomedical Research and Computational Life Sciences. I plan to begin my PhD in Fall 2023 with a focus in microbial ecology for a future career in research. I am passionate about the intersection between microbes, the natural environment, and climate change, specifically how microbial life is shaped under extreme conditions. Besides wet lab work, I find incredible power in bioinformatics tools for analyzing mass microbiome data, utilizing it for my own research. Currently, I am studying black widow microbiomes under the supervision of Dr. Chad Johnson. As a new member in the Qiyun Lab, I am excited to expand my bioinformatics and database skills to study human diseases.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:hasrari@asu.edu)
 
 high:
   - title: Abhinav Chede
