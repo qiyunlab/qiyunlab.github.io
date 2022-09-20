@@ -11,6 +11,7 @@ pi:
         [<i class='ai ai-orcid-square ai-2x'></i>](http://orcid.org/0000-0003-0490-1175)&nbsp;&nbsp;
         [<i class='fab fa-github-square fa-2x'></i>](https://github.com/qiyunzhu/)&nbsp;&nbsp;
         [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/qiyunzhu/)&nbsp;&nbsp;
+        [<i class='fa fa-twitter-square fa-2x'></i>](https://twitter.com/zhuqiyun/)&nbsp;&nbsp;
         [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/QiyunZhu_CV_Mar2022.pdf)
 
 postdoc:
@@ -23,7 +24,7 @@ postdoc:
         [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=oNXQvWkAAAAJ)&nbsp;&nbsp;
         [<i class='ai ai-orcid-square ai-2x'></i>](https://orcid.org/0000-0001-8025-2117)&nbsp;&nbsp;
         [<i class='fab fa-github-square fa-2x'></i>](https://github.com/droush)&nbsp;&nbsp;
-        [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/dwroush/)&nbsp;&nbsp;
+        [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/dwroush/)
 
 graduate:
   - title: Henry Secaira Morocho
@@ -33,7 +34,7 @@ graduate:
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:hsecaira@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/HSecaira)&nbsp;&nbsp;
-      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)
   - title: Wanxiang Liu
     image_path: assets/images/people/Wanxiang_Liu.jpg
     excerpt: >
@@ -51,7 +52,7 @@ undergrad:
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:zxing16@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Zhu288)&nbsp;&nbsp;
-      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/zhu-xing-a734661b5/)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/zhu-xing-a734661b5/)
   - title: Noah Pacheco
     image_path: assets/images/people/Noah_Pacheco.jpg
     excerpt: >
@@ -63,7 +64,10 @@ undergrad:
     excerpt: >
       I am an undergraduate student at the West campus majoring in Biology and pursuing two certificates in Biomedical Research and Computational Life Sciences. I plan to begin my PhD in Fall 2023 with a focus in microbial ecology for a future career in research. I am passionate about the intersection between microbes, the natural environment, and climate change, specifically how microbial life is shaped under extreme conditions. Besides wet lab work, I find incredible power in bioinformatics tools for analyzing mass microbiome data, utilizing it for my own research. Currently, I am studying black widow microbiomes under the supervision of Dr. Chad Johnson. As a new member in the Qiyun Lab, I am excited to expand my bioinformatics and database skills to study human diseases.
       <br /><br />
-      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:hasrari@asu.edu)
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:hasrari@asu.edu)&nbsp;&nbsp;
+      [<i class='fa fa-twitter-square fa-2x'></i>](https://twitter.com/ha_microworld)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Hasrari)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/hastiasrari/)
 
 high:
   - title: Abhinav Chede
@@ -71,9 +75,9 @@ high:
     excerpt: >
       I am an high school student at BASIS Chandler in Chandler, AZ. I am a new member of the Qiyun lab. I am interested to learn about microbiology and bioinformatics. I am still exploring possible future careers with an interest in biomedical science.
       <br /><br />
-      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:abhinavchede@gmail.com)&nbsp;&nbsp;
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:achede@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/AbhinavChede)&nbsp;&nbsp;
-      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/abhinav-chede-012777206/)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/abhinav-chede-012777206/)
 
 alumni:
   - title: Julian Yu
