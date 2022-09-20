@@ -11,7 +11,7 @@ pi:
         [<i class='ai ai-orcid-square ai-2x'></i>](http://orcid.org/0000-0003-0490-1175)&nbsp;&nbsp;
         [<i class='fab fa-github-square fa-2x'></i>](https://github.com/qiyunzhu/)&nbsp;&nbsp;
         [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/qiyunzhu/)&nbsp;&nbsp;
-        [<i class='fa fa-twitter-square fa-2x'></i>](https://twitter.com/zhuqiyun/)&nbsp;&nbsp;
+        [<i class='fab fa-twitter-square fa-2x'></i>](https://twitter.com/zhuqiyun/)&nbsp;&nbsp;
         [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/QiyunZhu_CV_Mar2022.pdf)
 
 postdoc:
@@ -65,7 +65,7 @@ undergrad:
       I am an undergraduate student at the West campus majoring in Biology and pursuing two certificates in Biomedical Research and Computational Life Sciences. I plan to begin my PhD in Fall 2023 with a focus in microbial ecology for a future career in research. I am passionate about the intersection between microbes, the natural environment, and climate change, specifically how microbial life is shaped under extreme conditions. Besides wet lab work, I find incredible power in bioinformatics tools for analyzing mass microbiome data, utilizing it for my own research. Currently, I am studying black widow microbiomes under the supervision of Dr. Chad Johnson. As a new member in the Qiyun Lab, I am excited to expand my bioinformatics and database skills to study human diseases.
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:hasrari@asu.edu)&nbsp;&nbsp;
-      [<i class='fa fa-twitter-square fa-2x'></i>](https://twitter.com/ha_microworld)&nbsp;&nbsp;
+      [<i class='fab fa-twitter-square fa-2x'></i>](https://twitter.com/ha_microworld)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Hasrari)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/hastiasrari/)
 
