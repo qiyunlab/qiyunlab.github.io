@@ -68,6 +68,12 @@ undergrad:
       [<i class='fab fa-twitter-square fa-2x'></i>](https://twitter.com/ha_microworld)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Hasrari)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/hastiasrari/)
+  - title: Matt Aton
+    image_path: assets/images/people/Matt_Aton.jpg
+    excerpt: >
+      I am an undergraduate student majoring in Molecular Biosciences and Biotechnology and minoring in Data Science. I am interested in developing my bioinformatics skillset specifically with regards to software development, statistical analysis, and machine learning. My future is wide open, and I am currently working on a project involving feature engineering for machine learning applied to microbiome datasets.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:maton@asu.edu)
 
 high:
   - title: Abhinav Chede
