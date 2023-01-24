@@ -35,14 +35,6 @@ graduate:
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:hsecaira@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/HSecaira)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)
-  - title: Wanxiang Liu
-    image_path: assets/images/people/Wanxiang_Liu.jpg
-    excerpt: >
-      I started to be an Evolutionary Biology Ph.D. student in Fall 2022.I have wet lab and dry lab background before joining Qiyun's lab. I am enthusiastic about improving biological discovery by analyzing omics data, such as microbiome sequencing data. Currently, I am studying tree-structured feature engineering for prediction.
-      <br /><br />
-      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:wliu176@asu.edu)&nbsp;&nbsp;
-      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Johnxiaoming)&nbsp;&nbsp;
-      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/wanxiang-liu-273673b8/)
 
 undergrad:
   - title: Zhu Xing
@@ -74,6 +66,13 @@ undergrad:
       I am an undergraduate student majoring in Molecular Biosciences and Biotechnology and minoring in Data Science. I am interested in developing my bioinformatics skillset specifically with regards to software development, statistical analysis, and machine learning. My future is wide open, and I am currently working on a project involving feature engineering for machine learning applied to microbiome datasets.
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:maton@asu.edu)
+  - title: Seth Rice Nulty
+    image_path: assets/images/people/Seth_Rice_Nulty.jpg
+    excerpt: >
+      While I am currently pursuing Neuroscience and Computer Science undergraduate degrees at ASU, I gravitated towards microbiome research in the context of the complex role of the microbiome-gut-brain axis in brain function and neurodegenerative disease. After taking Dr. Zhu's Introduction to Computational Molecular Biology, I was shown the power of applying computational approaches to address biological problems involving large-scale data analysis and I developed a strong interest in the field of bioinformatics. With the Qiyun lab, I am currently gaining experience in building machine learning software packages that bring efficiency to the process of analyzing metagenomic data.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:sricenul@asu.edu)
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/seth-rn/)
 
 high:
   - title: Abhinav Chede
@@ -89,18 +88,25 @@ alumni:
   - title: Julian Yu
     image_path: assets/images/people/Julian_Yu.jpg
     excerpt: >
-      Julian (postdoc, 2020-2021) did her PhD work with [Dr. C Ryan Penton](https://biodesign.asu.edu/c-ryan-penton) at ASU. Her work in the Qiyun Lab included the development of a bioinformatics approach for community analysis of metagenomic data, the analysis of honey bee metagenomes, and the setup of a molecular biology lab. Julian is currently a Bioinformatician and Microbiome Scientist at Heliae Development, LLC.
+      Julian (postdoc, fall 2020 - spring 2021) did her Ph.D. work with [Dr. C Ryan Penton](https://biodesign.asu.edu/c-ryan-penton) at ASU. Her work in the Qiyun Lab included the development of a bioinformatics approach for community analysis of metagenomic data, the analysis of honey bee metagenomes, and the setup of a molecular biology lab. She became a Bioinformatician and Microbiome Scientist at Heliae Development, LLC.
       <br /><br />
       [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=PT0_hHYAAAAJ)&nbsp;&nbsp;
-      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/yujulian0168)
-  - title: Ping-Han Huang
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/yujulian0168)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/julian-yu-38836a141)
+- title: Ping-Han Huang
     image_path: assets/images/people/Ping-Han_Huang.jpg
     excerpt: >
-      Ping-Han (intern, summer 2022) is a PhD student in Statistics at ASU School of Mathematical and Statistical Sciences. Her area of focus is functional data analysis and experimental design. In addition to her work in statistics, She has research experience in analyzing gene expression data and investigating the relationship between metastatic cancer and human endogenous retrovirus. She looks forward to expanding horizons in bioinformatics and exploring the gene-disease associations through various statistical models.
+      Ping-Han (intern, summer 2022) is a Ph.D. student in Statistics at ASU School of Mathematical and Statistical Sciences. Her area of focus is functional data analysis and experimental design. In addition to her work in statistics, She has research experience in analyzing gene expression data and investigating the relationship between metastatic cancer and human endogenous retrovirus. She looks forward to expanding horizons in bioinformatics and exploring the gene-disease associations through various statistical models.
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:Ping-Han.Huang@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](www.linkedin.com/in/ping-han-huang)
-
+  - title: Wanxiang Liu
+    image_path: assets/images/people/Wanxiang_Liu.jpg
+    excerpt: >
+      Wanxiang (graduate, fall 2022) obtained an M.S. in Bioinformatics and Computational Biology at Saint Louis University. He performed sequence data processing, microbiome community analysis and host trait prediction using a phylogenetic tree. He continued to explore opportunities in the Evolutionary Biology Ph.D. program at ASU.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:wliu176@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/wanxiang-liu-273673b8/)
 
 ---
 
