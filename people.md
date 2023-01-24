@@ -71,7 +71,7 @@ undergrad:
     excerpt: >
       While I am currently pursuing Neuroscience and Computer Science undergraduate degrees at ASU, I gravitated towards microbiome research in the context of the complex role of the microbiome-gut-brain axis in brain function and neurodegenerative disease. After taking Dr. Zhu's Introduction to Computational Molecular Biology, I was shown the power of applying computational approaches to address biological problems involving large-scale data analysis and I developed a strong interest in the field of bioinformatics. With the Qiyun lab, I am currently gaining experience in building machine learning software packages that bring efficiency to the process of analyzing metagenomic data.
       <br /><br />
-      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:sricenul@asu.edu)
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:sricenul@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/seth-rn/)
 
 high:
@@ -93,7 +93,7 @@ alumni:
       [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=PT0_hHYAAAAJ)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/yujulian0168)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/julian-yu-38836a141)
-- title: Ping-Han Huang
+  - title: Ping-Han Huang
     image_path: assets/images/people/Ping-Han_Huang.jpg
     excerpt: >
       Ping-Han (intern, summer 2022) is a Ph.D. student in Statistics at ASU School of Mathematical and Statistical Sciences. Her area of focus is functional data analysis and experimental design. In addition to her work in statistics, She has research experience in analyzing gene expression data and investigating the relationship between metastatic cancer and human endogenous retrovirus. She looks forward to expanding horizons in bioinformatics and exploring the gene-disease associations through various statistical models.
