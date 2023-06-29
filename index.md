@@ -13,7 +13,7 @@ header:
   actions:
     - label: Join Us!
       url: people#join-us
-  caption: Image by <a href="https://pixabay.com/users/TheDigitalArtist-202249/">TheDigitalArtist</a> from <a href="https://pixabay.com/illustrations/spores-bug-bacteria-bacterium-1487802/">Pixabay</a>
+  caption: Image by <a href="https://www.freepik.com/free-ai-image/scientist-analyzing-bacterium-high-scale-magnification-generated-by-ai_41668202.htm">vecstock</a>
 excerpt: Microbiome Data Science
 ---
 
