@@ -33,6 +33,13 @@ graduate:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)
 
 undergrad:
+  - title: Hibah Usmani
+    image_path: assets/images/people/Hibah_Usmani.jpg
+    excerpt: >
+      I am an undergraduate student studying Mathematics and pursuing a certificate in Computational Life Sciences. As a part of this lab, I hope to expand my knowledge on bioinformatics and apply it to my honors thesis. This thesis is related to the evolution of halogenases in cyanobacteria with [Dr. Brett Neilan](https://www.newcastle.edu.au/profile/brett-neilan) from the University of Newcastle.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:husmani@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/hibah-usmani/)
   - title: Ruhie Bakshi
     image_path: assets/images/people/grey.png
     excerpt: >
