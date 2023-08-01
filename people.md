@@ -41,9 +41,9 @@ undergrad:
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:husmani@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/hibah-usmani/)
   - title: Ruhie Bakshi
-    image_path: assets/images/people/grey.png
+    image_path: assets/images/people/Ruhie_Bakshi.jpg
     excerpt: >
-      (to add...)
+      I am an undergraduate student pursuing degrees in Molecular Biosciences and Biotechnology, as well as Data Science. I am also minoring in Sustainability. I am thrilled to be part of this lab, where I am conducting research for my honors thesis. It has allowed me to dive deeper into my multidisciplinary background to use data-driven methods to address complex biological problems.
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:rbakshi3@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/ruhie-bakshi-10a16020a/)
