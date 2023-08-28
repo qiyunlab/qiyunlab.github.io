@@ -19,7 +19,7 @@ main:
         Woltka is a bioinformatics package for shotgun metagenomic data analysis. It highlights: 1) fine-grain community ecology featuring individual reference genomes; 2) tree-based, rank-free classification to maximize resolution and flexibility; 3) combined taxonomic & functional analysis through one alignment to ensure consistency and accuracy. It takes full advantage of, but not limited by, the [WoL](https://biocore.github.io/wol/) reference phylogeny. It comes with an interface for the [QIIME 2](https://qiime2.org/) package, and has been integrated into the [Qiita](https://qiita.ucsd.edu/) web server.
   - title: BinaRena
     image_path: assets/images/software/binarena.jpg
-    image_caption: "[Pavia et al., _bioRxiv_, 2022](https://www.biorxiv.org/content/10.1101/2022.06.28.498025v1)"
+    image_caption: "[Pavia et al., _Microbiome_, 2023](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01625-8)"
     url: https://github.com/qiyunlab/binarena
     btn_label: "Learn More"
     btn_class: "btn--info"
@@ -33,10 +33,19 @@ main:
     btn_class: "btn--info"
     excerpt: >
         HGTector is a pipeline for genome-wide detection of putative horizontal gene transfer (HGT) events based on sequence homology search hit distribution statistics. HGTector2 is a completely re-engineered software tool, featuring a fully automated analytical pipeline with smart determination of parameters which requires minimum human involvement, a re-designed command-line interface which facilitates standardized scientific computing, and a high-quality Python 3 codebase.
+  - title: Utilities
+    url: https://github.com/qiyunzhu/utils
+    btn_label: "Learn More"
+    btn_class: "btn--info"
+    excerpt: >
+        A collection of single-file scripts written by Dr. Qiyun Zhu, that could be useful to people.
+
 contrib:
   - title: QIIME 2
     url: https://qiime2.org/
     image_path: assets/images/software/qiime2.png
+    btn_label: "Learn More"
+    btn_class: "btn--info"
     excerpt: >
         QIIME 2 is an integrated software package for microbiome data analysis. It provides a complete and flexible solution from raw sequencing data to publication-grade tables and figures. It highlights transparent and reproducible science. It has been the most widely-used bioinformatics tool in the field of microbiomics. <br/><br/>
         [Estaki et al., _Curr Protoc Bioinformatics_, 2020](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpbi.100) <br/>
@@ -44,12 +53,16 @@ contrib:
   - title: Qiita
     url: https://qiita.ucsd.edu/
     image_path: assets/images/software/qiita.png
+    btn_label: "Learn More"
+    btn_class: "btn--info"
     excerpt: >
         Qiita is a web server for managing microbiome studies, datasets and analyses. It implements a wide range of state-of-the-art programs and databases for the analysis of amplicon, metagenomic and metabolomic data. It enables meta-analysis of an extremely large volume of datasets across many studies. <br />
         [Gonzalez et al., _Nat Methods_, 2018](https://www.nature.com/articles/s41592-018-0141-9)
   - title: scikit-bio
     url: http://scikit-bio.org/
     image_path: assets/images/software/skbio.png
+    btn_label: "Learn More"
+    btn_class: "btn--info"
     excerpt: >
         scikit-bio is an open-source Python package for bioinformatics researchers and developers. It provides algorithms and data structures for sequence alignments, phylogenetic trees, distance matrices, ordinations and diversity metrics. It powers QIIME 2, Qiita and multiple other bioinformatics tools.
 ---

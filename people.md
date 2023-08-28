@@ -63,12 +63,6 @@ undergrad:
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:maton@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/mataton)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/mattaton/)
-  - title: Noah Pacheco
-    image_path: assets/images/people/Noah_Pacheco.jpg
-    excerpt: >
-      I am an undergraduate student majoring in biochemistry (medicinal chemistry). I am a new member of the Qiyun laboratory. I am interested in phylogenetics using computational tools and also in medicine development. I am exploring a career in biomedical sciences and I will attend the Idaho National Laboratory as an intern where I will be working on  projects that deal with paper recycling, agricultural residue utilization, algae fuel production and fuel production from municipal solid waste.
-      <br /><br />
-      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:nrpache1@asu.edu)
 
 alumni:
   - title: Daniel Roush
@@ -101,6 +95,10 @@ alumni:
       [<i class='fab fa-twitter-square fa-2x'></i>](https://twitter.com/ha_microworld)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Hasrari)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/hastiasrari/)
+  - title: Noah Pacheco
+    image_path: assets/images/people/Noah_Pacheco.jpg
+    excerpt: >
+      Noah (undergraduate student, Spring – Fall 2022) majored in biochemistry (medicinal chemistry). He studied the methodology of molecular phylogenetics. He was exploring a career in biomedical sciences.
   - title: Ping-Han Huang
     image_path: assets/images/people/Ping-Han_Huang.jpg
     excerpt: >
