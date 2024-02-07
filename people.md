@@ -38,6 +38,7 @@ undergrad:
     excerpt: >
       I am an undergraduate student majoring in Mathematics and interested in the application of combinatorics and algebra to computational biology and bioinformatics. I am excited to be a part of this lab, where I plan to study the relationship between combinatorial structures and optimization problems in phylogenetics. Currently, I am working on the implementation of algorithms used for phylogenetic inference.
       <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:ctapo@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/christapo)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/chris-tapo-2a08a42b2/)
   - title: Hibah Usmani
