@@ -15,10 +15,17 @@ pi:
         [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/QiyunZhu_CV_Mar2022.pdf)
 
 graduate:
+  - title: Sai Jahnavi Vemula
+    image_path: assets/images/people/Sai_Jahnavi_Vemula.jpg
+    excerpt: >
+      I am a Master's candidate in the Qiyun Lab, where I am combining my expertise in biomedical informatics and applied microbiology to tackle diseases through the microbiome lens. I am interested in uncovering how microbial factors influence health conditions, aiming to pave the way for new therapeutic insights. My work exemplifies a seamless blend of technology and biology, driven by a passion for making a difference in healthcare.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:svemul28@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/saijahnavivemula/)
   - title: Zhu Xing
     image_path: assets/images/people/Zhu_Xing.jpg
     excerpt: >
-      I am an undergraduate student majoring in Biological Science (Genetics, Cell and Developmental Biology) and Global Health. I am a new member of the Qiyun lab. I am interested to learn about microbiology and bioinformatics. I am still exploring possible future careers with an interest in biomedical science. Currently, I am assisting Daniel with the Cydrasil project. 
+      I am an undergraduate student majoring in Biological Science (Genetics, Cell and Developmental Biology) and Global Health. I am a new member of the Qiyun lab. I am interested to learn about microbiology and bioinformatics. I am still exploring possible future careers with an interest in biomedical science. Currently, I am assisting Daniel with the Cydrasil project.
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:zxing16@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Zhu288)&nbsp;&nbsp;
