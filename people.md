@@ -4,7 +4,7 @@ pi:
   - title: Qiyun Zhu
     image_path: assets/images/people/Qiyun_Zhu.jpg
     excerpt: >
-        This is Qiyun (pronounced as "chee-yeun"), an Assistant Professor at the School of Life Sciences, Arizona State University, since August 2020. Prior to this appointment, I completed postdoctoral training at UC San Diego with Dr. Rob Knight. My academic background is multidisciplinary, with research experience and interest in bioinformatics, phylogenetics, microbiology, comparative genomics and molecular biology. I study both computational and biological questions, and strive to expand understanding of the microbial world through its multiple levels: genes, genomes, lineages, communities, hosts, and environments.
+        This is Qiyun (pronounced as "chee-yeun"), an Assistant Professor at the School of Life Sciences, Arizona State University, since August 2020. Prior to this appointment, I completed postdoctoral training at UC San Diego with [Dr. Rob Knight](https://knightlab.ucsd.edu/). My academic background is multidisciplinary, with research experience and interest in bioinformatics, phylogenetics, microbiology, comparative genomics and molecular biology. I study both computational and biological questions, and strive to expand understanding of the microbial world through its multiple levels: genes, genomes, lineages, communities, hosts, and environments.
         <br /><br />
         [<i class='fa fa-envelope-square fa-2x'></i>](mailto:Qiyun.Zhu@asu.edu)&nbsp;&nbsp;
         [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=mjkV0pUAAAAJ)&nbsp;&nbsp;
