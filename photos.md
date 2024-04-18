@@ -17,6 +17,13 @@ title: Photos of the Lab
 </figure>
 
 <figure style="float: left; width: 600px; margin: 10px;">
+  <a href="assets/images/photos/Hibah_defense.jpg">
+    <img src="assets/images/photos/Hibah_defense.jpg" alt="Hibah defense">
+  </a>
+  <figcaption>Hibah Usmani defending her Honors thesis (Mar 2024)</figcaption>
+</figure>
+
+<figure style="float: left; width: 600px; margin: 10px;">
   <a href="assets/images/photos/Henry_club_2024.jpg">
     <img src="assets/images/photos/Henry_club_2024.jpg" alt="Journal club">
   </a>
