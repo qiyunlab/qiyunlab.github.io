@@ -21,7 +21,3 @@ excerpt: Computational Microbiomics
 ## We study microbiomes
 
 We are the **Qiyun Lab** at the Biodesign Center for Fundamental and Applied Microbiomics ([CFAM](https://biodesign.asu.edu/cfam)) at Arizona State University ([ASU](https://www.asu.edu/)). We study computational microbiomics. We are interested in the development of computational tools and resources to improve microbiome data analytics, the study of various host and environmental microbiomes and their influence on human health, and the investigation of the evolution of microbes and their hosts, with a focus on vertical and horizontal genetic connections between organisms. We strive to expand understanding of the microbial world through its multiple levels: genes, genomes, lineages, communities, hosts, and environments.
-
-## News
-
-July 27, 2020: [Undaunted: ASU Science forges ahead, despite worldwide crisis](https://biodesign.asu.edu/news/undaunted-asu-science-forges-ahead-despite-worldwide-crisis)

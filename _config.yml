@@ -1,5 +1,5 @@
 # Qiyun Lab website configuration
-remote_theme: mmistakes/minimal-mistakes@4.20.1
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: default
 plugins:
   - jekyll-paginate
@@ -9,7 +9,7 @@ plugins:
   - jekyll-include-cache
 
 title: Qiyun Lab
-subtitle: Microbiome Data Science
+subtitle: Computational Microbiomics
 description: Arizona State University
 url: https://qiyunlab.github.io/
 locale: en-US

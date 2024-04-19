@@ -25,15 +25,23 @@
           <!-- refer to: https://github.com/mmistakes/minimal-mistakes/issues/1626 -->
           {% if f.title %}
             {% if f.url %}
-                <h2 class="archive__item-title"><a href="{{ f.url | relative_url }}">{{ f.title }}</a></h2>
+              <h2 class="archive__item-title"><a href="{{ f.url | relative_url }}">{{ f.title }}</a></h2>
             {% else %}
-                <h2 class="archive__item-title">{{ f.title }}</h2>
+              <h2 class="archive__item-title">{{ f.title }}</h2>
             {% endif %}
           {% endif %}
 
           <!-- {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %} -->
+
+          <!-- added subtitle -->
+          <!-- refer to: https://github.com/mmistakes/minimal-mistakes/discussions/3103 -->
+          {% if f.subtitle %}
+            <div class="comment__date">
+              {{ f.subtitle }}
+            </div>
+          {% endif %}
 
           {% if f.excerpt %}
             <div class="archive__item-excerpt">
