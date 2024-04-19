@@ -10,7 +10,6 @@ Find our papers at <i class='ai ai-google-scholar ai-lg'></i> [Google Scholar](h
 - Jiang Y, **Aton M**, **Zhu Q**, Lu YY. [MIOSTONE: Modeling microbiome-trait associations with taxonomy-adaptive neural networks.](https://www.biorxiv.org/content/10.1101/2023.11.04.565596v1)
 - Martino C, Kellman BP, Sandoval DR, Clausen TM, Marotz CA, Song SJ, Wandro S, Zaramela LS, Salido RA, **Zhu Q**, Armingol E, Vázquez-Baeza Y, McDonald D, Sorrentino JT, Taylor B, Belda-Ferre P, Liang C, Zhang Y, Schifanella L, Klatt NR, Havulinna AS, Jousilahti P, Huang S, Haiminen N, Parida L, Kim HC, Swafford AD, Zengler K, Cheng S, Inouye M, Niiranen T, Jain M, Salomaa V, Esko JD, Lewis NE, Knight R. [Bacterial modification of the host glycosaminoglycan heparan sulfate modulates SARS-CoV-2 infectivity.](https://www.biorxiv.org/content/10.1101/2020.08.17.238444v1)
 
-
 ## 2024
 
 - Griffiths JA, Yoo BB, Thuy-Boun PS, Cantu V, Weldon KC, Challis C, Sweredoski MJ, Chan KY, Thron TM, Sharon G, Moradian A, Humphrey G, **Zhu Q**, Shaffer J, Wolan DW, Dorrestein PC, Knight R, Gradinaru V, Mazmanian SK. [Peripheral Neuronal Activation Shapes the Microbiome and Alters Gut Physiology.](https://www.sciencedirect.com/science/article/pii/S221112472400281X) **_Cell Reports_**. 2024. 43(4):113953.
