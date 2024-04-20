@@ -1,119 +1,495 @@
 ---
 title: Papers
+
+preprints:
+
+  - title: An evolutionary optimum amid moderate heritability in prokaryotic cell size
+    url: https://www.biorxiv.org/content/10.1101/2023.12.18.571935v1
+    subtitle: <b>Secaira-Morocho H</b>, <b>Chede A</b>, Gonzalez-de-Salceda L, Garcia-Pichel F, <b>Zhu Q</b>
+
+  - title: "MIOSTONE: Modeling microbiome-trait associations with taxonomy-adaptive neural networks"
+    url: https://www.biorxiv.org/content/10.1101/2023.11.04.565596v1
+    subtitle: Jiang Y, <b>Aton M</b>, <b>Zhu Q</b>, Lu YY
+
+  - title: Bacterial modification of the host glycosaminoglycan heparan sulfate modulates SARS-CoV-2 infectivity
+    url: https://www.biorxiv.org/content/10.1101/2020.08.17.238444v1
+    subtitle: Martino C, Kellman BP, Sandoval DR, Clausen TM, Marotz CA, Song SJ, Wandro S, Zaramela LS, Salido RA, <b>Zhu Q</b>, Armingol E, Vázquez-Baeza Y, McDonald D, Sorrentino JT, Taylor B, Belda-Ferre P, Liang C, Zhang Y, Schifanella L, Klatt NR, Havulinna AS, Jousilahti P, Huang S, Haiminen N, Parida L, Kim HC, Swafford AD, Zengler K, Cheng S, Inouye M, Niiranen T, Jain M, Salomaa V, Esko JD, Lewis NE, Knight R
+
+year2024:
+
+  - title: Peripheral Neuronal Activation Shapes the Microbiome and Alters Gut Physiology
+    url: https://www.sciencedirect.com/science/article/pii/S221112472400281X
+    kicker: Cell Reports
+    subtitle: Griffiths JA, Yoo BB, Thuy-Boun PS, Cantu V, Weldon KC, Challis C, Sweredoski MJ, Chan KY, Thron TM, Sharon G, Moradian A, Humphrey G, <b>Zhu Q</b>, Shaffer J, Wolan DW, Dorrestein PC, Knight R, Gradinaru V, Mazmanian SK
+
+  - title: Integration of polygenic and gut metagenomic risk prediction for common diseases
+    url: https://www.nature.com/articles/s43587-024-00590-7
+    kicker: Nature Aging
+    subtitle: Liu Y, Ritchie S, Teo SM, Ruuskanen MO, Kambur O, <b>Zhu Q</b>, Sanders J, Vazquez-Baeza Y, Verspoor K, Jousilahti P, Lahti L, Niiranen T, Salomaa V, Havulinna A, Knight R, Méric G, Inouye M
+
+  - title: Robustness of cancer microbiome signals over a broad range of methodological variation
+    url: https://www.nature.com/articles/s41388-024-02974-w
+    kicker: Oncogene
+    subtitle: Sepich-Poore GD, McDonald D, Kopylova E, Guccione C, <b>Zhu Q</b>, Austin G, Carpenter C, Fraraccio S, Wandro S, Kosciolek T, Janssen S, Metcalf JL, Song SJ, Kanbar J, Miller-Montgomery S, Heaton R, Mckay R, Patel SP, Swafford AD, Korem T, Knight R
+
+  - title: A conserved interdomain microbial network underpins cadaver decomposition despite environmental variables
+    url: https://www.nature.com/articles/s41564-023-01580-y
+    kicker: Nature Microbiology (cover paper)
+    subtitle: Burcham Z, Belk AD, McGivern BB, Bouslimani A, Ghadermazi P, Martino C, Shenhav L, Zhang AR, Shi Z, Emmons A, Deel HL, Xu ZZ, Nieciecki V, <b>Zhu Q</b>, Shaffer M, Panitchpakdi M, Weldon KC, Cantrell K, Ben-Hur A, Reed SC, Humphry GC, Ackermann G, McDonald D, Chan SHJ, Conner M, Boyd D, Smith J, Watson JMS, Vidoli G, Steadman D, Lynne AM, Bucheli S, Dorrestein PC, Wrighton KC, Carter DO, Knight R, Metcalf JL
+    excerpt: Featured in [Decomposer communities are universal in death](https://www.nature.com/articles/s41564-023-01576-8) by Strickland MS and Lynch L
+
+year2023:
+
+  - title: Paired microbiome and metabolome analyses associate bile acid changes with colorectal cancer progression
+    url: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01008-2
+    kicker: Cell Reports
+    subtitle: Fu T, Huan T, Rahman G, Zhi H, Xu Z, Oh TG, Guo J, Coulter S, Tripathi A, Martino C, McCarville JL, <b>Zhu Q</b>, Cayabyab F, He M, Xing S, Vargas F, Yu RT, Atkins AR, Liddle C, Ayres J, Raffatellu M, Dorrestein PC, Downes M, Knight R, Evans RM
+
+  - title: "BinaRena: a dedicated interactive platform for human-guided exploration and binning of metagenomes"
+    url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01625-8
+    kicker: Microbiome
+    subtitle: Pavia MJ, <b>Chede A</b>, Wu Z, Cadillo-Quiroz H, <b>Zhu Q</b>
+
+  - title: Generation of accurate, expandable phylogenomic trees with uDANCE
+    url: https://www.nature.com/articles/s41587-023-01868-8
+    kicker: Nature Biotechnology
+    subtitle: Balaban M, Jiang Y, <b>Zhu Q</b>, McDonald D, Knight R, Mirarab S
+
+  - title: Greengenes2 unifies microbial data in a single reference tree
+    url: https://www.nature.com/articles/s41587-023-01845-1
+    kicker: Nature Biotechnology
+    subtitle: McDonald D, Jiang Y, Balaban M, Cantrell K, <b>Zhu Q</b>, Gonzalez A, Morton JT, Nicolaou G, Parks DH, Karst SM, Albertsen M, Hugenholtz P, DeSantis T, Song SJ, Bartko A, Havulinna AS, Jousilahti P, Cheng S, Inouye M, Niiranen T, Jain M, Salomaa V, Lahti L, Mirarab S, Knight R
+
+  - title: Metagenomics reveals novel microbial signatures of farm exposures in house dust
+    url: https://www.frontiersin.org/articles/10.3389/fmicb.2023.1202194/full
+    kicker: Frontiers in Microbiology
+    subtitle: Wang Z, Dalton KR, Lee M, Parks CG, Beane Freeman LE, <b>Zhu Q</b>, González A, Knight R, Zhao S, Motsinger-Reif AA, London SJ
+
+  - title: Multi-level analysis of the gut–brain axis shows autism spectrum disorder-associated molecular and microbial profiles
+    url: https://www.frontiersin.org/articles/10.3389/fmicb.2023.1202194/full
+    kicker: Nature Neuroscience
+    subtitle: Morton JT, Jin DM, Mills RH, Shao Y, Rahman G, McDonald D, <b>Zhu Q</b>, Balaban M, Jiang Y, Cantrell K, Gonzalez A, Carmel J, Frankiensztajn LM, Martin-Brevet S, Berding K, Needham BD, Zurita MF, David M, Averina OV, Kovtun AS, Noto A, Mussap M, Wang M, Frank DN, Li E, Zhou W, Fanos V, Danilenko VN, Wall DP, Cárdenas P, Baldeón ME, Jacquemont S, Koren O, Elliott E, Xavier RJ, Mazmanian SK, Knight R, Gilbert JA, Donovan SM, Lawley TD, Carpenter B, Bonneau R, Taroncher-Oldenburg G
+    excerpt: Featured in [Microbiome alterations in autism spectrum disorder](https://www.nature.com/articles/s41564-023-01455-2) by Coley-O'Rourke & Hsaio
+
+  - title: Distinct Nausea Profiles Are Associated With Gastrointestinal Symptoms In Oncology Patients Receiving Chemotherapy
+    url: https://journals.lww.com/cancernursingonline/Abstract/9000/Distinct_Nausea_Profiles_Are_Associated_With.98738.aspx
+    kicker: Cancer Nursing
+    subtitle: Singh K, Pituch P, <b>Zhu Q</b>, Gu H, Ernst B, Tofthagen C, Brewer M, Kober KM, Cooper BA, Paul SM, Conley YP, Hammer M, Levine JD, Miaskowski C
+
+  - title: "DEPP: Deep Learning Enables Extending Species Trees using Single Genes"
+    url: https://academic.oup.com/sysbio/article/72/1/17/6575921
+    kicker: Systematic Biology
+    subtitle: Jiang Y, Balaban M, <b>Zhu Q</b>, Mirarab S
+
+year2022:
+
+  - title: The gut microbiome is a significant risk factor for future chronic lung disease
+    url: https://www.sciencedirect.com/science/article/pii/S0091674922025775
+    subtitle: Liu Y, Teo SM, Meric G, Tang HHF, <b>Zhu Q</b>, Sanders JG, Vazquez-Baeza Y, Verspoor K, Vartiainen VA, Jousilahti P, Lahti L, Niiranen T, Havulinna AS, Knight R, Salomaa V, Inouye M
+    kicker: Journal of Allergy and Clinical Immunology
+
+  - title: Standardized multi-omics of Earth’s microbiomes reveals microbial and metabolite diversity
+    url: https://www.nature.com/articles/s41564-022-01266-x
+    subtitle: Shaffer JP, Nothias LF, Thompson LR, Sanders JG, Salido RA, Couvillion SP, Brejnrod AD, Lejzerowicz F, Haiminen N, Huang S, Lutz HL, <b>Zhu Q</b>, Martino C, Morton JT, Karthikeyan S, Nothias-Esposito M, Dührkop K, Böcker S, Kim HW, Aksenov AA, Bittremieux W, Minich JJ, Marotz C, Bryant MM, Sanders K, Schwartz T, Humphrey G, Vásquez-Baeza Y, Tripathi A, Parida L, Carrieri AP, Beck KL, Das P, González A, McDonald D, Karst SM, Albertsen M, Ackermann G, DeReus J, Thomas T, Petras D, Shade A, Stegen J, Song SJ, Metz TO, Swafford AD, Dorrestein PC, Jansson JK, Gilbert JA, Knight R; Earth Microbiome Project 500 (EMP500) Consortium
+    kicker: Nature Microbiology
+
+  - title: Pan-cancer analyses reveal cancer type-specific fungal ecologies and bacteriome interactions
+    url: https://www.sciencedirect.com/science/article/pii/S0092867422011278
+    subtitle: Haziza LN, Sepich-Poore GD, Livyatan I, Asraf O, Martino C, Nejman D, Gavert N, Stajich JE, Amit G, González A, Wandro S, Perry G, Ariel R, Meltser A, Shaffer JP, <b>Zhu Q</b>, Balint-Lahat N, Barshack I, Dadiani M, Gal-Yam EN, Patel SP, Bashan A, Swafford AD, Pilpel Y, Knight R, Straussman R
+    kicker: Cell (cover paper)
+
+  - title: "Zebra: Static and Dynamic Genome Cover Thresholds with Overlapping References"
+    url: https://journals.asm.org/doi/10.1128/msystems.00758-22
+    subtitle: Hakim D, Wandro S, Zengler K, Zaramela L, Nowinski B, Swafford A, <b>Zhu Q</b>, Song SJ, González A, McDonald D, Knight R
+    kicker: mSystems
+
+  - title: Location-Specific Signatures of Crohn’s Disease at a Multi-omics Scale
+    url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01331-x
+    subtitle: Gonzalez CG, Mills RH, <b>Zhu Q</b>, Sauceda C, Knight R, Dulai PS, Gonzalez DJ
+    kicker: Microbiome
+
+  - title: Enhancing untargeted metabolomics using metadata-based source annotation
+    url: https://www.nature.com/articles/s41587-022-01368-1
+    subtitle: Gauglitz JM, West KA, Bittremieux W, Williams CL, Weldon KC, Panitchpakdi M, Di Ottavio F, Aceves CM, Brown E, Sikora NC, Jarmusch AK, Martino C, Tripathi A, Meehan MJ, Dorrestein K, Shaffer JP, Coras R, Vargas F, Goldasich LD, Schwartz T, Bryant M, Humphrey G, Johnson AJ, Spengler K, Belda-Ferre P, Diaz E, McDonald D, <b>Zhu Q</b>, Elijah EO, Wang M, Marotz C, Sprecher KE, Vargas-Robles D, Withrow D, Ackermann G, Herrera L, Bradford BJ, Marques LMM, Amaral JG, Silva RM, Veras FP, Cunha TM, Oliveira RDR, Louzada-Junior P, Mills RH, Piotrowski PK, Servetas SL, Da Silva SM, Jones CM, Lin NJ, Lippa KA, Jackson SA, Daouk RK, Galasko D, Dulai PS, Kalashnikova TI, Wittenberg C, Terkeltaub R, Doty MM, Kim JH, Rhee KE, Beauchamp-Walters J, Wright KP Jr, Dominguez-Bello MG, Manary M, Oliveira MF, Boland BS, Lopes NP, Guma M, Swafford AD, Dutton RJ, Knight R, Dorrestein PC
+    kicker: Nature Biotechnology
+
+  - title: Phylogeny-aware analysis of metagenome community ecology based on matched reference genomes while bypassing taxonomy
+    url: https://journals.asm.org/doi/10.1128/msystems.00167-22
+    subtitle: <b>Zhu Q</b> (<b>co-corresponding</b>), Huang S, Gonzalez A, McGrath I, McDonald M, Haiminen N, Armstrong G, Vázquez-Baeza Y, <b>Yu J</b>, Kuczynski J, Sepich-Poore GD, Swafford AD, Das P, Shaffer JP, Lejzerowicz F, Belda-Ferre P, Havulinna AS, Méric G, Niiranen T, Lahti L, Salomaa V, Kim HC, Jain M, Inouye M, Gilbert JA, Knight R
+    kicker: mSystems
+
+  - title: Swapping metagenomics preprocessing pipeline components offers speed and sensitivity increases
+    url: https://journals.asm.org/doi/full/10.1128/msystems.01378-21
+    subtitle: Armstrong G, Martino C, Morris J, Khaleghi B, Kang J, Dereus J, <b>Zhu Q</b>, <b>Roush D</b>, McDonald D, Gonzalez A, Shaffer J, Carpenter C, Estaki M, Wandro S, Eilert S, Akel A, Eno J, Curewitz K, Swafford A, Moshiri N, Rosing T, Knight R
+    kicker: mSystems
+
+  - title: Early prediction of incident liver disease using conventional risk factors and gut microbiome-augmented gradient boosting
+    url: https://www.sciencedirect.com/science/article/pii/S1550413122000900
+    subtitle: Liu Y, Meric G, Havulinna AS, Teo SM, Aberg F, Ruuskanen M, Sanders J, <b>Zhu Q</b>, Tripathi A, Verspoor K, Cheng S, Jain M, Jousilahti P, Vazquez-Baeza Y, Loomba R, Lahti L, Niiranen T, Salomaa V, Knight R, Inouye M
+    kicker: Cell Metabolism
+
+  - title: The Host-Microbiome Response to Hyperbaric Oxygen Therapy in Ulcerative Colitis Patients
+    url: https://www.sciencedirect.com/science/article/pii/S2352345X22000601
+    subtitle: Gonzalez CG, Mills RH, Kordahi M, Carrillo-Terrazas M, <b>Secaira-Morocho H</b>, Widjaja CE, Tsai MS, Mittal Y, Yee BA, Vargas F, Weldon K, Gauglitz JM, Delaroque C, Sauceda C, Rossitto LA, Ackermann G, Humphrey G, Swafford AD, Siegel CA, Buckey Jr JC, Raffals LE, Sadler C, Lindholm P, Fisch KM, Valaseck M, Suriawinata A, Yeo GW, Ghosh P, Chang JT, Chu H, Dorrestein P, <b>Zhu Q</b>, Chassaing B, Knight R, Gonzalez DJ, Dulai PS
+    kicker: Cellular and Molecular Gastroenterology and Hepatology
+
+  - title: Microbiome and metabolome profiles of high screen time in a cohort of healthy college students
+    url: https://www.nature.com/articles/s41598-022-07381-3
+    subtitle: Jasbi P, Mohr AE, Shi X, Mahmood T, <b>Zhu Q</b>, Bruening M, Gu H, Whisner C
+    kicker: Scientific Reports
+
+  - title: A gut-derived metabolite alters brain activity and anxiety behavior in mice
+    url: https://www.nature.com/articles/s41586-022-04396-8
+    subtitle: Needham BD, Funabashi M, Adame MD, Wang Z, Boktor JC, Haney J, Wu WL, Rabut C, Ladinsky MS, Hwang SJ, Guo Y, <b>Zhu Q</b>, Griffiths JA, Knight R, Bjorkman PJ, Shapiro MG, Geschwind DH, Holschneider DP, Fischbach MA, Mazmanian SK
+    kicker: Nature
+
+  - title: Combined effects of host genetics and diet on human gut microbiota and incident disease in a single population cohort
+    url: https://www.nature.com/articles/s41588-021-00991-z
+    subtitle: Qin Y, Havulinna AS, Liu Y, Jousilahti P, Ritchie SC, Tokolyi A, Sanders JG, Valsta L, Brożyńska M, <b>Zhu Q</b>, Tripathi A, Vázquez-Baeza Y, Loomba R, Cheng S, Jain M, Niiranen T, Lahti L, Knight R, Salomaa V, Inouye M, Méric G
+    kicker: Nature Genetics
+
+  - title: Multi-omics analyses of the ulcerative colitis gut microbiome link _Bacteroides vulgatus_ proteases with disease severity
+    url: https://www.nature.com/articles/s41564-021-01050-3
+    subtitle: Mills RH, Dulai PS, Vázquez-Baeza Y, Sauceda C, Daniel N, Gerner RR, Batachari LE, Malfavon M, <b>Zhu Q</b>, Weldon K, Humphrey G, Carrillo-Terrazas M, Goldasich LD, Bryant M, Raffatellu M, Quinn RA, Gewirtz AT, Chassaing B, Chu H, Sandborn WJ, Dorrestein PC, Knight R, Gonzalez DJ
+    kicker: Nature Microbiology
+
+  - title: Fast and Accurate Distance‐based Phylogenetic Placement using Divide and Conquer
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13527
+    subtitle: Balaban M, Jiang Y, <b>Roush D</b>, <b>Zhu Q</b>, Mirarab S
+    kicker: Molecular Ecology Resources
+
+  - title: Multiple Gastrointestinal Symptoms Are Associated With Chemotherapy-Induced Nausea In Patients With Breast Cancer
+    url: https://journals.lww.com/cancernursingonline/Abstract/9000/Multiple_Gastrointestinal_Symptoms_Are_Associated.98832.aspx
+    subtitle: Singh KP, Kober KM, Ernst B, Sachdev J, Brewer M, <b>Zhu Q</b>, Gu H, Melisko M, Paul SM, Cooper BA, Hammer M, Conley YP, Levine JD, Miaskowski C
+    kicker: Cancer Nursing
+
+year2021:
+
+  - title: Efficient computation of Faith’s phylogenetic diversity with applications in characterizing microbiomes
+    url: https://genome.cshlp.org/content/early/2021/09/03/gr.275777.121
+    subtitle: Armstrong G, Cantrell K, Huang S, McDonald D, Haiminen N, Carrieri AP, <b>Zhu Q</b>, Gonzalez A, McGrath I, Beck K, Hakim D, Havulinna AS, Méric G, Niiranen T, Lahti L, Salomaa V, Jain M, Inouye M, Swafford AD, Kim HC, Parida L, Vázquez-Baeza Y, Knight R
+    kicker: Genome Research
+
+  - title: Compositional and genetic alterations in Graves’ disease gut microbiome reveal specific diagnostic biomarkers
+    url: https://www.nature.com/articles/s41396-021-01016-7
+    subtitle: <b>Zhu Q</b>, Hou Q, Huang S, Ou Q, Huo D, Vázquez-Baeza Y, Cen C, Cantu V, Estaki M, Chang H, Belda-Ferre P, Kim HC, Chen K, Knight R, Zhang J
+    kicker: The ISME Journal
+
+  - title: Candidate probiotic <i>Lactiplantibacillus plantarum</i> HNU082 rapidly and convergently evolves within human, mice, and zebrafish gut but differentially influences the resident microbiome
+    url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01102-0
+    subtitle: Huang S, Jiang S, Huo D, Allaband C, Estaki M, Cantu V, Belda-Ferre P, Vázquez-Baeza Y, <b>Zhu Q</b>, Ma C, Li C, Zarrinpar A, Liu YY, Knight R, Zhang J
+    kicker: Microbiome
+
+  - title: Challenges in Benchmarking Metagenomic Profilers
+    url: https://www.nature.com/articles/s41592-021-01141-3
+    subtitle: Sun Z, Huang S, Zhang M, <b>Zhu Q</b>, Haiminen M, Carrieri AP, Vázquez-Baeza Y, Parida L, Kim HC, Knight R, Liu YY
+    kicker: Nature Methods
+
+  - title: Insight into the function and evolution of Wood-Ljungdahl pathway in Actinobacteria
+    url: https://www.nature.com/articles/s41396-021-00935-9
+    subtitle: Jiao JY, Fu L, Hua ZS, Liu L, Salam N, Liu PF, Lv AP, Wu G, Xian WD, <b>Zhu Q</b>, Zhou EM, Fang BZ, Oren A, Hedlund BP, Jiang HC, Knight R, Cheng L, Li WJ
+    kicker: The ISME Journal
+
+  - title: High-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing
+    url: https://www.nature.com/articles/s41592-020-01041-y
+    subtitle: Karst SM, Ziels RM, Kirkegaard RH, Sørensen EA, McDonald D, <b>Zhu Q</b>, Knight R, Albertsen M
+    kicker: Nature Methods
+
+  - title: Chemically informed analyses of metabolomics mass spectrometry data with Qemistree
+    url: https://www.nature.com/articles/s41589-020-00677-3
+    subtitle: Tripathi A, Vazquez-Baeza Y, Gauglitz JM, Wang M, Duhrkop K, Esposito-Nothias M, Acharya DD, Ernst M, van der Hooft JJ, <b>Zhu Q</b>, McDonald D, Brejnrod AD, Gonzalez A, Handelsman J, Fleischauer M, Ludwig M, Böcker S, Nothias LF, Knight R, Dorrestein PC
+    kicker: Nature Chemical Biology
+
+  - title: EMPress Enables Tree-Guided, Interactive, and Exploratory Analyses of Multi-omic Data Sets
+    url: https://journals.asm.org/doi/10.1128/msystems.01216-20
+    subtitle: Cantrell K, Fedarko MW, Rahman G, McDonald D, Yang Y, Zaw T, Gonzalez A, Janssen S, Estaki M, Haiminen N, Beck KL, <b>Zhu Q</b>, Sayyari E, Morton JT, Armstrong G, Tripathi A, Gauglitz JM, Marotz C, Matteson NL, Martino C, Sanders JG, Carrieri AP, Song SJ, Swafford AD, Dorrestein PC, Andersen KG, Parida L, Kim HC, Vázquez-Baeza Y, Knight R
+    kicker: mSystems
+
+  - title: Exploring the Composition and Functions of Plastic Microbiome Using Whole-Genome Sequencing
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.est.0c07952
+    subtitle: Bhagwat G, <b>Zhu Q</b>, O'Connor W, Subashchandrabose S, Grainge, I, Knight R, Palanisami T
+    kicker: Environmental Science & Technology
+
+  - title: A Multi-Omics Characterization of the Natural Product Potential of Tropical Filamentous Marine Cyanobacteria
+    url: https://www.mdpi.com/1660-3397/19/1/20
+    subtitle: Leão T, Wang M, Moss N, da Silva R, Sanders J, Nurk S, Gurevich A, Humphrey G, Reher R, <b>Zhu Q</b>, Belda-Ferre P, Glukhov E, Whitner S, Alexander KL, Rex R, Pevzner P, Dorrestein PC, Knight R, Bandeira N, Gerwick WH, Gerwick L
+    kicker: Marine Drugs
+
+year2020:
+
+  - title: Expanding magnetic organelle biogenesis in the domain Bacteria
+    url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00931-9
+    subtitle: Lin W, Zhang W, Paterson GA, <b>Zhu Q</b>, Zhao X, Knight R, Bazylinski DA, Roberts AP, Pan Y
+    kicker: Microbiome
+
+  - title: Precise phylogenetic analysis of microbial isolates and genomes from metagenomes using PhyloPhlAn 3.0
+    url: https://www.nature.com/articles/s41467-020-16366-7
+    subtitle: Asnicar F, Thomas AM, Beghini F, Mengoni C, Manara S, Manghi P, <b>Zhu Q</b>, Bolzan M, Cumbo F, May U, Sanders JG, Zolfo M, Kopylova E, Pasolli E, Knight R, Mirarab S, Huttenhower C, Segata N
+    kicker: Nature Communications
+
+  - title: "SHOGUN: a modular, accurate, and scalable framework for microbiome quantification"
+    url: https://academic.oup.com/bioinformatics/article-abstract/36/13/4088/5828930
+    subtitle: Hillmann B, Al-Ghalith GA, Shields-Cutler RR, <b>Zhu Q</b>, Knight R, Knights D
+    kicker: Bioinformatics
+
+  - title: QIIME 2 enables comprehensive end-to-end analysis of diverse microbiome data and comparative studies with publicly available data
+    url: https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpbi.100
+    subtitle: Estaki M, Jiang L, Bokulich NA, McDonald D, González A, Kosciolek T, Martino C, <b>Zhu Q</b>, Birmingham A, Vázquez-Baeza Y, Dillon MR, Bolyen E, Caporaso JG, Knight R
+    kicker: Current Protocols in Bioinformatics
+
+  - title: Microbiome analyses of blood and tissues suggest cancer diagnostic approach
+    url: https://www.nature.com/articles/s41586-020-2095-1
+    subtitle: Poore GD, Kopylova E, <b>Zhu Q</b>, Carpenter C, Fraraccio S, Wandro S, Kosciolek T, Janssen S, Metcalf J, Song SJ, Kanbar J, Miller-Montgomery S, Heaton R, Mckay R, Patel SP, Swafford AD, Patel SP, Knight R
+    kicker: Nature
+
+  - title: Home chemical and microbial transitions across urbanization
+    url: https://www.nature.com/articles/s41564-019-0593-4
+    subtitle: McCall L, Callewaert C, <b>Zhu Q</b> (<b>co-first</b>), Song SJ, Bouslimani A, Minich JJ, Ernst M, Ruiz-Calderon JF, Cavallin H, Pereira HS, Novoselac A, Hernandez J, Rios R, Branch OH, Blaser MJ, Paulino LC, Dorrestein PC, Knight R, Dominguez-Bello MG
+    kicker: Nature Microbiology
+
+year2019:
+
+  - title: Phylogenomics of 10,575 genomes reveals evolutionary proximity between domains Bacteria and Archaea
+    url: https://www.nature.com/articles/s41467-019-13443-4
+    subtitle: <b>Zhu Q</b>, Mai U, Pfeiffer W, Janssen S, Asnicar F, Sanders JG, Belda-Ferre P, Al-Ghalith GA, Kopylova E, McDonald D, Kosciolek T, Yin JB, Huang S, Salam N, Jiao J, Wu Z, Xu ZZ, Sayyari E, Morton JT, Podell S, Knights D, Li W, Huttenhower C, Segata N, Smarr L, Mirarab S, Knight R
+    kicker: Nature Communications
+
+  - title: Optimizing sequencing protocols for leaderboard metagenomics by combining long and short reads
+    url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1834-9
+    subtitle: Sanders JG, Nurk S, Salido RA, Minich J, Xu ZZ, <b>Zhu Q</b>, Martino C, Fedarko M, Arthur TD, Chen F, Boland BS, Humphrey GC, Brennan C, Sanders K, Gaffney J, Jepsen K, Khosroheidari M, Green C, Liyanage M, Dang JW, Phelan VV, Quinn RA, Bankevich A, Chang JT, Rana TM, Conrad DJ, Sandborn WJ, Smarr L, Dorrestein PC, Pevzner PA, Knight R
+    kicker: Genome Biology
+
+  - title: Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2
+    url: https://www.nature.com/articles/s41587-019-0209-9
+    subtitle: Bolyen E, Rideout JR, Dillon MR, Bokulich NA, Abnet CC, Al-Ghalith GA, Alexander H, Alm EJ, Arumugam M, Asnicar F, Bai Y, Bisanz JE, Bittinger K, Brejnrod A, Brislawn CJ, Brown CT, Callahan BJ, Caraballo-Rodríguez AM, Chase J, Cope EK, Da Silva R, Diener C, Dorrestein PC, Douglas GM, Durall DM, Duvallet C, Edwardson CF, Ernst M, Estaki M, Fouquier J, Gauglitz JM, Gibbons SM, Gibson DL, Gonzalez A, Gorlick K, Guo J, Hillmann B, Holmes S, Holste H, Huttenhower C, Huttley GA, Janssen S, Jarmusch AK, Jiang L, Kaehler BD, Kang KB, Keefe CR, Keim P, Kelley ST, Knights D, Koester I, Kosciolek T, Kreps J, Langille MGI, Lee J, Ley R, Liu YX, Loftfield E, Lozupone C, Maher M, Marotz C, Martin BD, McDonald D, McIver LJ, Melnik AV, Metcalf JL, Morgan SC, Morton JT, Naimey AT, Navas-Molina JA, Nothias LF, Orchanian SB, Pearson T, Peoples SL, Petras D, Preuss ML, Pruesse E, Rasmussen LB, Rivers A, Robeson MS nd, Rosenthal P, Segata N, Shaffer M, Shiffer A, Sinha R, Song SJ, Spear JR, Swafford AD, Thompson LR, Torres PJ, Trinh P, Tripathi A, Turnbaugh PJ, Ul-Hasan S, van der Hooft JJJ, Vargas F, Vázquez-Baeza Y, Vogtmann E, von Hippel M, Walters W, Wan Y, Wang M, Warren J, Weber KC, Williamson CHD, Willis AD, Xu ZZ, Zaneveld JR, Zhang Y, <b>Zhu Q</b>, Knight R, Caporaso JG
+    kicker: Nature Biotechnology
+
+  - title: FXR Regulates Intestinal Cancer Stem Cell Proliferation
+    url: https://www.cell.com/cell/fulltext/S0092-8674(19)30099-6
+    subtitle: Fu T, Coulter S, Yoshihara E, Oh TG, Fang S, Cayabyab F, <b>Zhu Q</b>, Zhang T, Leblanc M, Liu S, He M, Waizenegger W, Gasser E, Schnabl B, Atkins AR, Yu RT, Knight R, Liddle C, Downes M, Evans RM
+    kicker: Cell
+
+  - title: Evaluating Metagenomic Prediction of the Metaproteome in a 4.5-Year Study of a Patient with Crohn's Disease
+    url: https://journals.asm.org/doi/10.1128/msystems.00337-18
+    subtitle: Mills RH, Vázquez-Baeza Y, <b>Zhu Q</b>, Jiang L, Gaffney J, Humphrey G, Smarr L, Knight R, Gonzalez DJ
+    kicker: mSystems
+
+  - title: "Calour: an Interactive, Microbe-Centric Analysis Tool"
+    url: https://journals.asm.org/doi/10.1128/msystems.00269-18
+    subtitle: Xu ZZ, Amir A, Sanders J, <b>Zhu Q</b>, Morton JT, Bletz MC, Tripathi A, Huang S, McDonald D, Jiang L, Knight R
+    kicker: mSystems
+
+year2018:
+
+  - title: Visualization-assisted binning of metagenome assemblies reveals potential new pathogenic profiles in idiopathic travelers' diarrhea
+    url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0579-0
+    subtitle: <b>Zhu Q</b>, Dupont CL, Jones MB, Pham KM, Jiang ZD, DuPont HL, Highlander SK
+    kicker: Microbiome
+
+  - title: Metagenomics-based, strain-level analysis of Escherichia coli from a time-series of microbiome samples from a Crohn’s disease patient
+    url: https://www.frontiersin.org/articles/10.3389/fmicb.2018.02559/full
+    subtitle: Fang X, Monk J, Nurk S, Akseshina M, <b>Zhu Q</b>, Gemmell C, Gianetto-Hill C, Leung N, Szubin R, Sanders J, Beck PL, Li W, Sandborn WJ, Gray-Owen SD, Knight R, Allen-Vercoe E, Palsson BO, Smarr L
+    kicker: Frontiers in Microbiology
+
+  - title: Evaluating the information content of shallow shotgun metagenomics
+    url: https://msystems.asm.org/content/3/6/e00069-18
+    subtitle: Hillmann B, Al-Ghalith G, Shields-Cutler R, <b>Zhu Q</b>, Gohl D, Beckman K, Knight R, Knights D
+    kicker: mSystems
+
+  - title: Microbial effects of livestock manure fertilization on freshwater aquaculture ponds rearing tilapia (<i>Oreochromis shiranus</i>) and North African catfish (<i>Clarias gariepinus</i>)
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/mbo3.716
+    subtitle: Minich JJ, <b>Zhu Q</b>, Xu ZZ, Amir A, Ngochera M, Simwaka M, Allen EE, Zidana H, Knight R
+    kicker: MicrobiologyOpen
+
+  - title: Are microbiome studies ready for hypothesis-driven research?
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1369527418300511
+    subtitle: Tripathi A, Marotz C, Gonzalez A, Vázquez-Baeza Y, Song SJ, Bouslimani A, McDonald D, <b>Zhu Q</b>, Sanders JG, Smarr L, Dorrestein PC, Knight R
+    kicker: Current Opinion in Microbiology
+
+  - title: Genomic inference of the metabolism and evolution of the archaeal phylum Aigarchaeota
+    url: https://www.nature.com/articles/s41467-018-05284-4
+    subtitle: Hua ZS, Qu YN, <b>Zhu Q</b>, Zhou EM, Qi YL, Yin YR, Rao YZ, Tian Y, Li YX, Liu L, Castelle CJ, Hedlund BP, Shu WS, Knight R, Li WJ
+    kicker: Nature Communications
+
+  - title: "American Gut: an Open Platform for Citizen Science Microbiome Research"
+    url: https://journals.asm.org/doi/10.1128/msystems.00031-18
+    subtitle: McDonald D, Hyde E, Debelius JW, Morton JT, Gonzalez A, Ackermann G, Aksenov AA, Behsaz B, Brennan C, Chen Y, Goldasich LD, Dorrestein PC, Dunn RR, Fahimipour AK, Gaffney J, Gilbert JA, Gogul G, Green JL, Hugenholtz P, Humphrey G, Huttenhower C, Jackson MA, Janssen S, Jeste DV, Jiang L, Kelley ST, Knights D, Kosciolek T, Ladau J, Leach J, Marotz C, Meleshko D, Melnik AV, Metcalf JL, Mohimani H, Montassier E, Navas-Molina J, Nguyen TT, Peddada S, Pevzner P, Pollard KS, Rahnavard G, Robbins-Pianka A, Sangwan N, Shorenstein J, Smarr L, Song SJ, Spector T, Swafford AD, Thackray VG, Thompson LR, Tripathi A, Vázquez-Baeza Y, Vrbanac A, Wischmeyer P, Wolfe E, <b>Zhu Q</b>, The American Gut Consortium, Knight R
+    kicker: mSystems
+
+  - title: Gut microbiome and magnetic resonance spectroscopy study of subjects at ultra-high risk for psychosis may support the membrane hypothesis
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0924933818301068
+    subtitle: He Y, Kosciolek T, Tang J, Zhou Y, Li Z, Ma X, <b>Zhu Q</b>, Yuan N, Yuan L, Li C, Jin K, Knight R, Tsuang MT, Chen X
+    kicker: European Psychiatry
+
+  - title: Methods for phylogenetic analysis of microbiome data
+    url: https://www.nature.com/articles/s41564-018-0156-0
+    subtitle: Washburne AD, Morton JT, Sanders J, McDonald D, <b>Zhu Q</b>, Oliverio AM, Knight R
+    kicker: Nature Microbiology
+
+  - title: Best practices for analysing microbiomes
+    url: https://www.nature.com/articles/s41579-018-0029-9
+    subtitle: Knight R, Vrbanac A, Taylor BC, Aksenov A, Callewaert C, Debelius J, Gonzalez A, Kosciolek T, McCall LI, McDonald D, Melnik AV, Morton JT, Navas J, Quinn RA, Sanders JG, Swafford AD, Thompson LR, Tripathi A, Xu ZZ, Zaneveld JR, <b>Zhu Q</b>, Caporaso JG, Dorrestein PC
+    kicker: Nature Reviews Microbiology
+
+  - title: KatharoSeq Enables High-Throughput Microbiome Analysis from Low-Biomass Samples
+    url: https://journals.asm.org/doi/10.1128/msystems.00218-17
+    subtitle: Minich JJ, <b>Zhu Q</b>, Janssen S, Hendrickson R, Amir A, Vetter R, Hyde J, Doty MM, Stillwell K, Benardini J, Kim JH, Allen EE, Venkateswaran K, Knight R
+    kicker: mSystems
+
+  - title: Creating a 3D microbial and chemical snapshot of a human habitat
+    url: https://www.nature.com/articles/s41598-018-21541-4
+    subtitle: Kapono CA, Morton JT, Bouslimani A, Melnik AV, Orlinsky K, Knaan TL, Garg N, Vázquez-Baeza Y, Protsyuk I, Janssen S, <b>Zhu Q</b>, Alexandrov T, Smarr L, Knight R, Dorrestein PC
+    kicker: Scientific Reports
+
+year2017-n-before:
+
+  - title: A communal catalogue reveals Earth’s multiscale microbial diversity
+    url: https://www.nature.com/articles/nature24621
+    subtitle: Thompson LR, Sanders JG, McDonald D, Amir A, Ladau J, Locey KJ, Prill RJ, Tripathi A, Gibbons SM, Ackermann G, Navas-Molina JA, Janssen S, Kopylova E, Vázquez-Baeza Y, González A, Morton JT, Mirarab S, Zech Xu Z, Jiang L, Haroon MF, Kanbar J, <b>Zhu Q</b>, Jin Song S, Kosciolek T, Bokulich NA, Lefler J, Brislawn CJ, Humphrey G, Owens SM, Hampton-Marcell J, Berg-Lyons D, McKenzie V, Fierer N, Fuhrman JA, Clauset A, Stevens RL, Shade A, Pollard KS, Goodwin KD, Jansson JK, Gilbert JA, Knight R, The Earth Microbiome Project Consortium
+    kicker: 2017, Nature
+
+  - title: Origin of microbial biomineralization and magnetotaxis during the Archean
+    url: https://www.pnas.org/content/114/9/2171
+    subtitle: Lin W, Paterson GA, <b>Zhu Q</b>, Wang Y, Kopylov E, Li Y, Knight R, Bazylinski DA, Zhu R, Kirschvink JL, Pan Y
+    kicker: 2017, Proceedings of the National Academy of Sciences
+
+  - title: The origin of Chinese domestic horses revealed with novel mtDNA variants
+    url: https://www.onlinelibrary.wiley.com/doi/abs/10.1111/asj.12583
+    subtitle: Yang Y, <b>Zhu Q</b>, Liu S, Zhao C, Wu C
+    kicker: 2017, Animal Science Journal
+
+  - title: Web-based bioinformatics workflows for end-to-end RNA-seq data computation and analysis in agricultural animal species
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3118-z
+    subtitle: Li W, Richter RA, Jung Y, <b>Zhu Q</b>, Li RW
+    kicker: 2016, BMC Genomics
+
+  - title: On the probability of dinosaur fleas
+    url: https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-015-0568-x
+    subtitle: Dittmar K, <b>Zhu Q</b>, Hastriter MW, Whiting MF
+    kicker: 2016, BMC Evolutionary Biology
+
+  - title: Home storage significantly impairs Bifidobacteria survival in powered formula for infants and young children in the Chinese market
+    url: https://www.onlinelibrary.wiley.com/doi/10.1111/1471-0307.12262
+    subtitle: Liu Y, Yu Y, Duan W, Qu Q, Zhang Q, Zhao M, <b>Zhu Q</b>
+    kicker: 2015, International Journal of Dairy Technology
+
+  - title: "RNA: an expanding view of function and evolution"
+    url: https://journals.sagepub.com/doi/full/10.4137/EBO.S38105
+    subtitle: Han X, Chen Y, Wang L, Fang W, Zhang N, <b>Zhu Q</b>
+    kicker: 2015, Evolutionary Bioinformatics
+
+  - title: Fleas (Siphonaptera) are Cretaceous, and evolved with Theria
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1055790315001293
+    subtitle: <b>Zhu Q</b>, Hastriter MW, Whiting MF, Dittmar K
+    kicker: 2015, Molecular Phylogenetics and Evolution
+
+  - title: <i>Bartonella</i> spp. in fruit bats and blood-feeding ectoparasites in Madagascar
+    url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003532
+    subtitle: Brook CE, Bai Y, Dobson AP, Osikowicz LM, Ranaivoson HC, <b>Zhu Q</b>, Kosoy MY, Dittmar K
+    kicker: 2015, PLOS Neglected Tropical Diseases
+
+  - title: "HGTector: an automated method facilitating genome-wide discovery of putative horizontal gene transfers"
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-717
+    subtitle: <b>Zhu Q</b> (<b>co-corresponding</b>), Kosoy M, Dittmar K
+    kicker: 2014, BMC Genomics
+
+  - title: Horizontal transfers and gene losses in the phospholipid pathway of <i>Bartonella</i> reveal clues about early ecological niches
+    url: https://academic.oup.com/gbe/article/6/8/2156/2939846
+    subtitle: <b>Zhu Q</b> (<b>co-corresponding</b>), Kosoy M, Olival KJ, Dittmar K
+    kicker: 2014, Genome Biology and Evolution
+
+  - title: Improved accuracy of supervised CRM discovery with interpolated Markov models and cross-species comparison
+    url: https://academic.oup.com/nar/article/39/22/9463/2409012
+    subtitle: Kazemian M, <b>Zhu Q</b>, Halfon MS, Sinha S
+    kicker: 2011, Nucleic Acids Research
+
+  - title: Motif-blind, genome-wide discovery of <i>cis</i>-regulatory modules in <i>Drosophila</i> and mouse
+    url: https://www.sciencedirect.com/science/article/pii/S1534580709003840
+    subtitle: Kantorovitz MR, Kazemian M, Kinston S, Miranda-Saavedra D, <b>Zhu Q</b>, Robinson GE, Göttgens B, Halfon MS, Sinha S
+    kicker: 2009, Developmental Cell
+
+  - title: Recent duplication and positive selection of the <i>GAGE</i> gene family
+    url: https://link.springer.com/article/10.1007/s10709-007-9179-9
+    subtitle: Liu Y, <b>Zhu Q</b> (<b>co-first</b>), Zhu N
+    kicker: 2008, Genetica
+
+  - title: Rapid HLA-DR fluorotyping based on melting curve analysis
+    url: https://www.tandfonline.com/doi/full/10.1080/08820130701366425
+    subtitle: Liu Y, <b>Zhu Q</b>, Zhu N
+    kicker: 2007, Immunological Investigations
+
+book-chapters:
+
+  - title: Assembling a Reference Phylogenomic Tree of Bacteria and Archaea by Summarizing Many Gene Phylogenies
+    url: https://link.springer.com/protocol/10.1007/978-1-0716-2691-7_7
+    subtitle: <b>Zhu Q</b> (<b>corresponding</b>), Mirarab S
+    kicker: 2022, <i>Environmental Microbial Evolution - Methods in Molecular Biology</i>. Ed. Luo H. pp. 137-165. Humana, New York, NY
+
+  - title: "Evolutionary history of Siphonaptera: fossils, origins, vectors"
+    url: https://www.amazon.com/Parasite-Diversity-Diversification-Evolutionary-Phylogenetics/dp/1107037654
+    subtitle: Dittmar K, <b>Zhu Q</b>, Hastriter MW, Whiting MF
+    kicker: 2015, <i>Parasite Diversity and Diversification - Evolutionary Ecology Meets Phylogenetics</i>. Ed. Morand S, Krasnov BR, Littlewood DTJ. Cambridge University Press
+
 ---
 
 Find our papers at <i class='ai ai-google-scholar ai-lg'></i> [Google Scholar](https://scholar.google.com/citations?user=mjkV0pUAAAAJ) or <i class='ai ai-pubmed ai-lg'></i> [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Qiyun+Zhu[Author]).
 
 ## Preprints
 
-- **Secaira-Morocho H**, **Chede A**, Gonzalez-de-Salceda L, Garcia-Pichel F, **Zhu Q**. [An evolutionary optimum amid moderate heritability in prokaryotic cell size.](https://www.biorxiv.org/content/10.1101/2023.12.18.571935v1)
-- Jiang Y, **Aton M**, **Zhu Q**, Lu YY. [MIOSTONE: Modeling microbiome-trait associations with taxonomy-adaptive neural networks.](https://www.biorxiv.org/content/10.1101/2023.11.04.565596v1)
-- Martino C, Kellman BP, Sandoval DR, Clausen TM, Marotz CA, Song SJ, Wandro S, Zaramela LS, Salido RA, **Zhu Q**, Armingol E, Vázquez-Baeza Y, McDonald D, Sorrentino JT, Taylor B, Belda-Ferre P, Liang C, Zhang Y, Schifanella L, Klatt NR, Havulinna AS, Jousilahti P, Huang S, Haiminen N, Parida L, Kim HC, Swafford AD, Zengler K, Cheng S, Inouye M, Niiranen T, Jain M, Salomaa V, Esko JD, Lewis NE, Knight R. [Bacterial modification of the host glycosaminoglycan heparan sulfate modulates SARS-CoV-2 infectivity.](https://www.biorxiv.org/content/10.1101/2020.08.17.238444v1)
+<div class="paper-list">
+  {% include feature_row id="preprints" %}
+</div>
 
 ## 2024
 
-- Griffiths JA, Yoo BB, Thuy-Boun PS, Cantu V, Weldon KC, Challis C, Sweredoski MJ, Chan KY, Thron TM, Sharon G, Moradian A, Humphrey G, **Zhu Q**, Shaffer J, Wolan DW, Dorrestein PC, Knight R, Gradinaru V, Mazmanian SK. [Peripheral Neuronal Activation Shapes the Microbiome and Alters Gut Physiology.](https://www.sciencedirect.com/science/article/pii/S221112472400281X) **_Cell Reports_**. 2024. 43(4):113953.
-- Liu Y, Ritchie S, Teo SM, Ruuskanen MO, Kambur O, **Zhu Q**, Sanders J, Vazquez-Baeza Y, Verspoor K, Jousilahti P, Lahti L, Niiranen T, Salomaa V, Havulinna A, Knight R, Méric G, Inouye M. [Integration of polygenic and gut metagenomic risk prediction for common diseases.](https://www.nature.com/articles/s43587-024-00590-7) **_Nature Aging_**. 2024. doi: 10.1038/s43587-024-00590-7.
-- Sepich-Poore GD, McDonald D, Kopylova E, Guccione C, **Zhu Q**, Austin G, Carpenter C, Fraraccio S, Wandro S, Kosciolek T, Janssen S, Metcalf JL, Song SJ, Kanbar J, Miller-Montgomery S, Heaton R, Mckay R, Patel SP, Swafford AD, Korem T, Knight R. [Robustness of cancer microbiome signals over a broad range of methodological variation.](https://www.nature.com/articles/s41388-024-02974-w) **_Oncogene_**. 2024. 43(15):1127-48.
-- Burcham Z, Belk AD, McGivern BB, Bouslimani A, Ghadermazi P, Martino C, Shenhav L, Zhang AR, Shi Z, Emmons A, Deel HL, Xu ZZ, Nieciecki V, **Zhu Q**, Shaffer M, Panitchpakdi M, Weldon KC, Cantrell K, Ben-Hur A, Reed SC, Humphry GC, Ackermann G, McDonald D, Chan SHJ, Conner M, Boyd D, Smith J, Watson JMS, Vidoli G, Steadman D, Lynne AM, Bucheli S, Dorrestein PC, Wrighton KC, Carter DO, Knight R, Metcalf JL. [A conserved interdomain microbial network underpins cadaver decomposition despite environmental variables.](https://www.nature.com/articles/s41564-023-01580-y) **_Nature Microbiology_** (**cover paper**). 2024. 9(3):595-613.
-  - Featured in [Decomposer communities are universal in death](https://www.nature.com/articles/s41564-023-01576-8) by Strickland MS and Lynch L in **_Nature Microbiology_**.
+<div class="paper-list">
+  {% include feature_row id="year2024" %}
+</div>
 
 ## 2023
 
-- Fu T, Huan T, Rahman G, Zhi H, Xu Z, Oh TG, Guo J, Coulter S, Tripathi A, Martino C, McCarville JL, **Zhu Q**, Cayabyab F, He M, Xing S, Vargas F, Yu RT, Atkins AR, Liddle C, Ayres J, Raffatellu M, Dorrestein PC, Downes M, Knight R, Evans RM. [Paired microbiome and metabolome analyses associate bile acid changes with colorectal cancer progression.](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01008-2) **_Cell Reports_**. 2023. 42(8):112997.
-- Pavia MJ, **Chede A**, Wu Z, Cadillo-Quiroz H, **Zhu Q**. [BinaRena: a dedicated interactive platform for human-guided exploration and binning of metagenomes.](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01625-8) **_Microbiome_**. 2023. 11(1):186.
-- Balaban M, Jiang Y, **Zhu Q**, McDonald D, Knight R, Mirarab S. [Generation of accurate, expandable phylogenomic trees with uDANCE.](https://www.nature.com/articles/s41587-023-01868-8) **_Nature Biotechnology_**. 2023. doi: 10.1038/s41587-023-01868-8.
-- McDonald D, Jiang Y, Balaban M, Cantrell K, **Zhu Q**, Gonzalez A, Morton JT, Nicolaou G, Parks DH, Karst SM, Albertsen M, Hugenholtz P, DeSantis T, Song SJ, Bartko A, Havulinna AS, Jousilahti P, Cheng S, Inouye M, Niiranen T, Jain M, Salomaa V, Lahti L, Mirarab S, Knight R. [Greengenes2 unifies microbial data in a single reference tree.](https://www.nature.com/articles/s41587-023-01845-1) **_Nature Biotechnology_**. 2023. doi: 10.1038/s41587-023-01845-1.
-- Wang Z, Dalton KR, Lee M, Parks CG, Beane Freeman LE, **Zhu Q**, González A, Knight R, Zhao S, Motsinger-Reif AA, London SJ. [Metagenomics reveals novel microbial signatures of farm exposures in house dust.](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1202194/full) **_Frontiers in Microbiology_**. 2023. 14:1202194.
-- Morton JT, Jin DM, Mills RH, Shao Y, Rahman G, McDonald D, **Zhu Q**, Balaban M, Jiang Y, Cantrell K, Gonzalez A, Carmel J, Frankiensztajn LM, Martin-Brevet S, Berding K, Needham BD, Zurita MF, David M, Averina OV, Kovtun AS, Noto A, Mussap M, Wang M, Frank DN, Li E, Zhou W, Fanos V, Danilenko VN, Wall DP, Cárdenas P, Baldeón ME, Jacquemont S, Koren O, Elliott E, Xavier RJ, Mazmanian SK, Knight R, Gilbert JA, Donovan SM, Lawley TD, Carpenter B, Bonneau R, Taroncher-Oldenburg G. [Multi-level analysis of the gut–brain axis shows autism spectrum disorder-associated molecular and microbial profiles.](https://www.nature.com/articles/s41593-023-01361-0) **_Nature Neuroscience_**. 2023. 26(7):1208-17.
-  - Featured in [Microbiome alterations in autism spectrum disorder](https://www.nature.com/articles/s41564-023-01455-2) by Coley-O'Rourke & Hsaio in **_Nature Microbiology_**.
-- Singh K, Pituch P, **Zhu Q**, Gu H, Ernst B, Tofthagen C, Brewer M, Kober KM, Cooper BA, Paul SM, Conley YP, Hammer M, Levine JD, Miaskowski C. [Distinct Nausea Profiles Are Associated With Gastrointestinal Symptoms In Oncology Patients Receiving Chemotherapy.](https://journals.lww.com/cancernursingonline/Abstract/9000/Distinct_Nausea_Profiles_Are_Associated_With.98738.aspx) **_Cancer Nursing_**. 2023. 46(2):92-102.
-- Jiang Y, Balaban M, **Zhu Q**, Mirarab S. [DEPP: Deep Learning Enables Extending Species Trees using Single Genes.](https://academic.oup.com/sysbio/article/72/1/17/6575921) **_Systematic Biology_**. 2023. 72(1):17-34.
+<div class="paper-list">
+  {% include feature_row id="year2023" %}
+</div>
 
 ## 2022
 
-- Liu Y, Teo SM, Meric G, Tang HHF, **Zhu Q**, Sanders JG, Vazquez-Baeza Y, Verspoor K, Vartiainen VA, Jousilahti P, Lahti L, Niiranen T, Havulinna AS, Knight R, Salomaa V, Inouye M. [The gut microbiome is a significant risk factor for future chronic lung disease.](https://www.sciencedirect.com/science/article/pii/S0091674922025775) **_Journal of Allergy and Clinical Immunology_**. 2022. 151(4):943-52.
-- Shaffer JP, Nothias LF, Thompson LR, Sanders JG, Salido RA, Couvillion SP, Brejnrod AD, Lejzerowicz F, Haiminen N, Huang S, Lutz HL, **Zhu Q**, Martino C, Morton JT, Karthikeyan S, Nothias-Esposito M, Dührkop K, Böcker S, Kim HW, Aksenov AA, Bittremieux W, Minich JJ, Marotz C, Bryant MM, Sanders K, Schwartz T, Humphrey G, Vásquez-Baeza Y, Tripathi A, Parida L, Carrieri AP, Beck KL, Das P, González A, McDonald D, Karst SM, Albertsen M, Ackermann G, DeReus J, Thomas T, Petras D, Shade A, Stegen J, Song SJ, Metz TO, Swafford AD, Dorrestein PC, Jansson JK, Gilbert JA, Knight R; Earth Microbiome Project 500 (EMP500) Consortium. [Standardized multi-omics of Earth’s microbiomes reveals microbial and metabolite diversity.](https://www.nature.com/articles/s41564-022-01266-x) **_Nature Microbiology_**. 2022. 7(12):2128-50.
-- Haziza LN, Sepich-Poore GD, Livyatan I, Asraf O, Martino C, Nejman D, Gavert N, Stajich JE, Amit G, González A, Wandro S, Perry G, Ariel R, Meltser A, Shaffer JP, **Zhu Q**, Balint-Lahat N, Barshack I, Dadiani M, Gal-Yam EN, Patel SP, Bashan A, Swafford AD, Pilpel Y, Knight R, Straussman R. [Pan-cancer analyses reveal cancer type-specific fungal ecologies and bacteriome interactions.](https://www.sciencedirect.com/science/article/pii/S0092867422011278) **_Cell_** (**cover paper**). 2022. 185(20):3789-806.e17.
-- Hakim D, Wandro S, Zengler K, Zaramela L, Nowinski B, Swafford A, **Zhu Q**, Song SJ, González A, McDonald D, Knight R. [Zebra: Static and Dynamic Genome Cover Thresholds with Overlapping References.](https://journals.asm.org/doi/10.1128/msystems.00758-22) **_mSystems_**. 2022. e00758-22.
-- Gonzalez CG, Mills RH, **Zhu Q**, Sauceda C, Knight R, Dulai PS, Gonzalez DJ. [Location-Specific Signatures of Crohn’s Disease at a Multi-omics Scale.](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01331-x) **_Microbiome_**. 2022. 10(1):133.
-- Gauglitz JM, West KA, Bittremieux W, Williams CL, Weldon KC, Panitchpakdi M, Di Ottavio F, Aceves CM, Brown E, Sikora NC, Jarmusch AK, Martino C, Tripathi A, Meehan MJ, Dorrestein K, Shaffer JP, Coras R, Vargas F, Goldasich LD, Schwartz T, Bryant M, Humphrey G, Johnson AJ, Spengler K, Belda-Ferre P, Diaz E, McDonald D, **Zhu Q**, Elijah EO, Wang M, Marotz C, Sprecher KE, Vargas-Robles D, Withrow D, Ackermann G, Herrera L, Bradford BJ, Marques LMM, Amaral JG, Silva RM, Veras FP, Cunha TM, Oliveira RDR, Louzada-Junior P, Mills RH, Piotrowski PK, Servetas SL, Da Silva SM, Jones CM, Lin NJ, Lippa KA, Jackson SA, Daouk RK, Galasko D, Dulai PS, Kalashnikova TI, Wittenberg C, Terkeltaub R, Doty MM, Kim JH, Rhee KE, Beauchamp-Walters J, Wright KP Jr, Dominguez-Bello MG, Manary M, Oliveira MF, Boland BS, Lopes NP, Guma M, Swafford AD, Dutton RJ, Knight R, Dorrestein PC. [Enhancing untargeted metabolomics using metadata-based source annotation.](https://www.nature.com/articles/s41587-022-01368-1) **_Nature Biotechnology_**. 2022. 40(12):1774-9.
-- **Zhu Q** (**co-corresponding**), Huang S, Gonzalez A, McGrath I, McDonald M, Haiminen N, Armstrong G, Vázquez-Baeza Y, **Yu J**, Kuczynski J, Sepich-Poore GD, Swafford AD, Das P, Shaffer JP, Lejzerowicz F, Belda-Ferre P, Havulinna AS, Méric G, Niiranen T, Lahti L, Salomaa V, Kim HC, Jain M, Inouye M, Gilbert JA, Knight R. [Phylogeny-aware analysis of metagenome community ecology based on matched reference genomes while bypassing taxonomy.](https://journals.asm.org/doi/10.1128/msystems.00167-22) **_mSystems_**. 2022. e00167-22.
-- Armstrong G, Martino C, Morris J, Khaleghi B, Kang J, Dereus J, **Zhu Q**, **Roush D**, McDonald D, Gonzalez A, Shaffer J, Carpenter C, Estaki M, Wandro S, Eilert S, Akel A, Eno J, Curewitz K, Swafford A, Moshiri N, Rosing T, Knight R. [Swapping metagenomics preprocessing pipeline components offers speed and sensitivity increases.](https://journals.asm.org/doi/full/10.1128/msystems.01378-21) **_mSystems_**. 2022. e01378-21.
-- Liu Y, Meric G, Havulinna AS, Teo SM, Aberg F, Ruuskanen M, Sanders J, **Zhu Q**, Tripathi A, Verspoor K, Cheng S, Jain M, Jousilahti P, Vazquez-Baeza Y, Loomba R, Lahti L, Niiranen T, Salomaa V, Knight R, Inouye M. [Early prediction of incident liver disease using conventional risk factors and gut microbiome-augmented gradient boosting.](https://www.sciencedirect.com/science/article/pii/S1550413122000900) **_Cell Metabolism_**. 2022. 34(5):719-30.e4.cmet.2022.03.002.
-- Gonzalez CG, Mills RH, Kordahi M, Carrillo-Terrazas M, **Secaira-Morocho H**, Widjaja CE, Tsai MS, Mittal Y, Yee BA, Vargas F, Weldon K, Gauglitz JM, Delaroque C, Sauceda C, Rossitto LA, Ackermann G, Humphrey G, Swafford AD, Siegel CA, Buckey Jr JC, Raffals LE, Sadler C, Lindholm P, Fisch KM, Valaseck M, Suriawinata A, Yeo GW, Ghosh P, Chang JT, Chu H, Dorrestein P, **Zhu Q**, Chassaing B, Knight R, Gonzalez DJ, Dulai PS. [The Host-Microbiome Response to Hyperbaric Oxygen Therapy in Ulcerative Colitis Patients.](https://www.sciencedirect.com/science/article/pii/S2352345X22000601) **_Cellular and Molecular Gastroenterology and Hepatology_**. 2022. 14(1):35-53.
-- Jasbi P, Mohr AE, Shi X, Mahmood T, **Zhu Q**, Bruening M, Gu H, Whisner C. [Microbiome and metabolome profiles of high screen time in a cohort of healthy college students.](https://www.nature.com/articles/s41598-022-07381-3) **_Scientific Reports_**. 2022. 12(1):1-17.
-- Needham BD, Funabashi M, Adame MD, Wang Z, Boktor JC, Haney J, Wu WL, Rabut C, Ladinsky MS, Hwang SJ, Guo Y, **Zhu Q**, Griffiths JA, Knight R, Bjorkman PJ, Shapiro MG, Geschwind DH, Holschneider DP, Fischbach MA, Mazmanian SK. [A gut-derived metabolite alters brain activity and anxiety behavior in mice.](https://www.nature.com/articles/s41586-022-04396-8) **_Nature_**. 2022. 602(7898):647-53.
-- Qin Y, Havulinna AS, Liu Y, Jousilahti P, Ritchie SC, Tokolyi A, Sanders JG, Valsta L, Brożyńska M, **Zhu Q**, Tripathi A, Vázquez-Baeza Y, Loomba R, Cheng S, Jain M, Niiranen T, Lahti L, Knight R, Salomaa V, Inouye M, Méric G. [Combined effects of host genetics and diet on human gut microbiota and incident disease in a single population cohort.](https://www.nature.com/articles/s41588-021-00991-z) **_Nature Genetics_**. 2022. 54(2):134-42.
-- Mills RH, Dulai PS, Vázquez-Baeza Y, Sauceda C, Daniel N, Gerner RR, Batachari LE, Malfavon M, **Zhu Q**, Weldon K, Humphrey G, Carrillo-Terrazas M, Goldasich LD, Bryant M, Raffatellu M, Quinn RA, Gewirtz AT, Chassaing B, Chu H, Sandborn WJ, Dorrestein PC, Knight R, Gonzalez DJ. [Multi-omics analyses of the ulcerative colitis gut microbiome link _Bacteroides vulgatus_ proteases with disease severity.](https://www.nature.com/articles/s41564-021-01050-3) **_Nature Microbiology_**. 2022. 7(2):262-76.
-- Balaban M, Jiang Y, **Roush D**, **Zhu Q**, Mirarab S. [Fast and Accurate Distance‐based Phylogenetic Placement using Divide and Conquer.](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13527) **_Molecular Ecology Resources_**. 2022. 22(3):1213-27.
-- Singh KP, Kober KM, Ernst B, Sachdev J, Brewer M, Zhu Q, Gu H, Melisko M, Paul SM, Cooper BA, Hammer M, Conley YP, Levine JD, Miaskowski C. [Multiple Gastrointestinal Symptoms Are Associated With Chemotherapy-Induced Nausea In Patients With Breast Cancer.](https://journals.lww.com/cancernursingonline/Abstract/9000/Multiple_Gastrointestinal_Symptoms_Are_Associated.98832.aspx) **_Cancer Nursing_**. 2022. 45(3):181-89.
+<div class="paper-list">
+  {% include feature_row id="year2022" %}
+</div>
 
 ## 2021
 
-- Armstrong G, Cantrell K, Huang S, McDonald D, Haiminen N, Carrieri AP, **Zhu Q**, Gonzalez A, McGrath I, Beck K, Hakim D, Havulinna AS, Méric G, Niiranen T, Lahti L, Salomaa V, Jain M, Inouye M, Swafford AD, Kim HC, Parida L, Vázquez-Baeza Y, Knight R. [Efficient computation of Faith’s phylogenetic diversity with applications in characterizing microbiomes.](https://genome.cshlp.org/content/early/2021/09/03/gr.275777.121) **_Genome Research_**. 2021. 31(11):2131-37.
-- **Zhu Q**, Hou Q, Huang S, Ou Q, Huo D, Vázquez-Baeza Y, Cen C, Cantu V, Estaki M, Chang H, Belda-Ferre P, Kim HC, Chen K, Knight R, Zhang J. [Compositional and genetic alterations in Graves’ disease gut microbiome reveal specific diagnostic biomarkers.](https://www.nature.com/articles/s41396-021-01016-7) **_The ISME Journal_**. 2021. 15(11):3399-411.
-- Huang S, Jiang S, Huo D, Allaband C, Estaki M, Cantu V, Belda-Ferre P, Vázquez-Baeza Y, **Zhu Q**, Ma C, Li C, Zarrinpar A, Liu YY, Knight R, Zhang J. [Candidate probiotic _Lactiplantibacillus plantarum_ HNU082 rapidly and convergently evolves within human, mice, and zebrafish gut but differentially influences the resident microbiome.](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01102-0) **_Microbiome_**. 2021. 9(1):151.
-- Sun Z, Huang S, Zhang M, **Zhu Q**, Haiminen M, Carrieri AP, Vázquez-Baeza Y, Parida L, Kim HC, Knight R, Liu YY. [Challenges in Benchmarking Metagenomic Profilers.](https://www.nature.com/articles/s41592-021-01141-3) **_Nature Methods_**. 2021. 18(6):618-26.
-- Jiao JY, Fu L, Hua ZS, Liu L, Salam N, Liu PF, Lv AP, Wu G, Xian WD, **Zhu Q**, Zhou EM, Fang BZ, Oren A, Hedlund BP, Jiang HC, Knight R, Cheng L, Li WJ. [Insight into the function and evolution of Wood-Ljungdahl pathway in Actinobacteria.](https://www.nature.com/articles/s41396-021-00935-9) **_The ISME Journal_**. 2021. 15(10):3005-18.
-- Karst SM, Ziels RM, Kirkegaard RH, Sørensen EA, McDonald D, **Zhu Q**, Knight R, Albertsen M. [High-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing.](https://www.nature.com/articles/s41592-020-01041-y) **_Nature Methods_**. 2021. 18(2):165-9.
-- Tripathi A, Vazquez-Baeza Y, Gauglitz JM, Wang M, Duhrkop K, Esposito-Nothias M, Acharya DD, Ernst M, van der Hooft JJ, **Zhu Q**, McDonald D, Brejnrod AD, Gonzalez A, Handelsman J, Fleischauer M, Ludwig M, Böcker S, Nothias LF, Knight R, Dorrestein PC. [Chemically informed analyses of metabolomics mass spectrometry data with Qemistree.](https://www.nature.com/articles/s41589-020-00677-3) **_Nature Chemical Biology_**. 2021. 17(2):146-51.
-- Cantrell K, Fedarko MW, Rahman G, McDonald D, Yang Y, Zaw T, Gonzalez A, Janssen S, Estaki M, Haiminen N, Beck KL, **Zhu Q**, Sayyari E, Morton JT, Armstrong G, Tripathi A, Gauglitz JM, Marotz C, Matteson NL, Martino C, Sanders JG, Carrieri AP, Song SJ, Swafford AD, Dorrestein PC, Andersen KG, Parida L, Kim HC, Vázquez-Baeza Y, Knight R. [EMPress Enables Tree-Guided, Interactive, and Exploratory Analyses of Multi-omic Data Sets.](https://journals.asm.org/doi/10.1128/msystems.01216-20) **_mSystems_**. 2021. 6(2):e01216-20.
-- Bhagwat G, **Zhu Q**, O'Connor W, Subashchandrabose S, Grainge, I, Knight R, Palanisami T. [Exploring the Composition and Functions of Plastic Microbiome Using Whole-Genome Sequencing.](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c07952) **_Environmental Science & Technology_**. 2021. 55(8):4899-913.
-- Leão T, Wang M, Moss N, da Silva R, Sanders J, Nurk S, Gurevich A, Humphrey G, Reher R, **Zhu Q**, Belda-Ferre P, Glukhov E, Whitner S, Alexander KL, Rex R, Pevzner P, Dorrestein PC, Knight R, Bandeira N, Gerwick WH, Gerwick L. [A Multi-Omics Characterization of the Natural Product Potential of Tropical Filamentous Marine Cyanobacteria.](https://www.mdpi.com/1660-3397/19/1/20) **_Marine Drugs_**. 2021. 19(1):20.
+<div class="paper-list">
+  {% include feature_row id="year2021" %}
+</div>
 
 ## 2020
 
-- Lin W, Zhang W, Paterson GA, **Zhu Q**, Zhao X, Knight R, Bazylinski DA, Roberts AP, Pan Y. Expanding magnetic organelle biogenesis in the domain Bacteria. [_Microbiome_](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00931-9). 2020. 8(1):152.
-- Asnicar F, Thomas AM, Beghini F, Mengoni C, Manara S, Manghi P, **Zhu Q**, Bolzan M, Cumbo F, May U, Sanders JG, Zolfo M, Kopylova E, Pasolli E, Knight R, Mirarab S, Huttenhower C, Segata N. Precise phylogenetic analysis of microbial isolates and genomes from metagenomes using PhyloPhlAn 3.0. [_Nature Communications_](https://www.nature.com/articles/s41467-020-16366-7). 2020. 11(1):2500.
-- Hillmann B, Al-Ghalith GA, Shields-Cutler RR, **Zhu Q**, Knight R, Knights D. SHOGUN: a modular, accurate, and scalable framework for microbiome quantification. [_Bioinformatics_](https://academic.oup.com/bioinformatics/article-abstract/36/13/4088/5828930). 2020. 36(13):4088-90.
-- Estaki M, Jiang L, Bokulich NA, McDonald D, González A, Kosciolek T, Martino C, **Zhu Q**, Birmingham A, Vázquez-Baeza Y, Dillon MR, Bolyen E, Caporaso JG, Knight R. QIIME 2 enables comprehensive end-to-end analysis of diverse microbiome data and comparative studies with publicly available data. [_Current Protocols in Bioinformatics_](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpbi.100). 2020. 70(1):e100.
-- Poore GD, Kopylova E, **Zhu Q**, Carpenter C, Fraraccio S, Wandro S, Kosciolek T, Janssen S, Metcalf J, Song SJ, Kanbar J, Miller-Montgomery S, Heaton R, Mckay R, Patel SP, Swafford AD, Patel SP, Knight R. Microbiome analyses of blood and tissues suggest cancer diagnostic approach. [_Nature_](https://www.nature.com/articles/s41586-020-2095-1). 2020. 579(7800):567-74.
-- McCall L, Callewaert C, **Zhu Q** (**co-first**), Song SJ, Bouslimani A, Minich JJ, Ernst M, Ruiz-Calderon JF, Cavallin H, Pereira HS, Novoselac A, Hernandez J, Rios R, Branch OH, Blaser MJ, Paulino LC, Dorrestein PC, Knight R, Dominguez-Bello MG. Home chemical and microbial transitions across urbanization. [_Nature Microbiology_](https://www.nature.com/articles/s41564-019-0593-4). 2020. 5(1):108-15.
+<div class="paper-list">
+  {% include feature_row id="year2020" %}
+</div>
 
 ## 2019
 
-- **Zhu Q**, Mai U, Pfeiffer W, Janssen S, Asnicar F, Sanders JG, Belda-Ferre P, Al-Ghalith GA, Kopylova E, McDonald D, Kosciolek T, Yin JB, Huang S, Salam N, Jiao J, Wu Z, Xu ZZ, Sayyari E, Morton JT, Podell S, Knights D, Li W, Huttenhower C, Segata N, Smarr L, Mirarab S, Knight R. Phylogenomics of 10,575 genomes reveals evolutionary proximity between domains Bacteria and Archaea. [_Nature Communications_](https://www.nature.com/articles/s41467-019-13443-4). 2019. 10(1):5477.
-- Sanders JG, Nurk S, Salido RA, Minich J, Xu ZZ, **Zhu Q**, Martino C, Fedarko M, Arthur TD, Chen F, Boland BS, Humphrey GC, Brennan C, Sanders K, Gaffney J, Jepsen K, Khosroheidari M, Green C, Liyanage M, Dang JW, Phelan VV, Quinn RA, Bankevich A, Chang JT, Rana TM, Conrad DJ, Sandborn WJ, Smarr L, Dorrestein PC, Pevzner PA, Knight R. Optimizing sequencing protocols for leaderboard metagenomics by combining long and short reads. [_Genome Biology_](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1834-9). 2019. 20(1):226.
-- Bolyen E, Rideout JR, Dillon MR, Bokulich NA, Abnet CC, Al-Ghalith GA, Alexander H, Alm EJ, Arumugam M, Asnicar F, Bai Y, Bisanz JE, Bittinger K, Brejnrod A, Brislawn CJ, Brown CT, Callahan BJ, Caraballo-Rodríguez AM, Chase J, Cope EK, Da Silva R, Diener C, Dorrestein PC, Douglas GM, Durall DM, Duvallet C, Edwardson CF, Ernst M, Estaki M, Fouquier J, Gauglitz JM, Gibbons SM, Gibson DL, Gonzalez A, Gorlick K, Guo J, Hillmann B, Holmes S, Holste H, Huttenhower C, Huttley GA, Janssen S, Jarmusch AK, Jiang L, Kaehler BD, Kang KB, Keefe CR, Keim P, Kelley ST, Knights D, Koester I, Kosciolek T, Kreps J, Langille MGI, Lee J, Ley R, Liu YX, Loftfield E, Lozupone C, Maher M, Marotz C, Martin BD, McDonald D, McIver LJ, Melnik AV, Metcalf JL, Morgan SC, Morton JT, Naimey AT, Navas-Molina JA, Nothias LF, Orchanian SB, Pearson T, Peoples SL, Petras D, Preuss ML, Pruesse E, Rasmussen LB, Rivers A, Robeson MS nd, Rosenthal P, Segata N, Shaffer M, Shiffer A, Sinha R, Song SJ, Spear JR, Swafford AD, Thompson LR, Torres PJ, Trinh P, Tripathi A, Turnbaugh PJ, Ul-Hasan S, van der Hooft JJJ, Vargas F, Vázquez-Baeza Y, Vogtmann E, von Hippel M, Walters W, Wan Y, Wang M, Warren J, Weber KC, Williamson CHD, Willis AD, Xu ZZ, Zaneveld JR, Zhang Y, **Zhu Q**, Knight R, Caporaso JG. Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2. [_Nature Biotechnology_](https://www.nature.com/articles/s41587-019-0209-9). 2019. 37(8):852-57.
-- Fu T, Coulter S, Yoshihara E, Oh TG, Fang S, Cayabyab F, **Zhu Q**, Zhang T, Leblanc M, Liu S, He M, Waizenegger W, Gasser E, Schnabl B, Atkins AR, Yu RT, Knight R, Liddle C, Downes M, Evans RM. FXR Regulates Intestinal Cancer Stem Cell Proliferation. [_Cell_](https://www.cell.com/cell/fulltext/S0092-8674(19)30099-6). 2019. 176(5):1098-1112.e18.
-- Mills RH, Vázquez-Baeza Y, **Zhu Q**, Jiang L, Gaffney J, Humphrey G, Smarr L, Knight R, Gonzalez DJ. Evaluating Metagenomic Prediction of the Metaproteome in a 4.5-Year Study of a Patient with Crohn's Disease. [_mSystems_](https://journals.asm.org/doi/10.1128/msystems.00337-18). 2019. 4(1):e00337-18.
-- Xu ZZ, Amir A, Sanders J, **Zhu Q**, Morton JT, Bletz MC, Tripathi A, Huang S, McDonald D, Jiang L, Knight R. Calour: an Interactive, Microbe-Centric Analysis Tool. [_mSystems_](https://journals.asm.org/doi/10.1128/msystems.00269-18). 2019. 4(1):e00269-18.
+<div class="paper-list">
+  {% include feature_row id="year2019" %}
+</div>
 
 ## 2018
 
-- **Zhu Q**, Dupont CL, Jones MB, Pham KM, Jiang ZD, DuPont HL, Highlander SK. Visualization-assisted binning of metagenome assemblies reveals potential new pathogenic profiles in idiopathic travelers' diarrhea. [_Microbiome_](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0579-0). 2018. 6(1):201.
-- Fang X, Monk J, Nurk S, Akseshina M, **Zhu Q**, Gemmell C, Gianetto-Hill C, Leung N, Szubin R, Sanders J, Beck PL, Li W, Sandborn WJ, Gray-Owen SD, Knight R, Allen-Vercoe E, Palsson BO, Smarr L. Metagenomics-based, strain-level analysis of Escherichia coli from a time-series of microbiome samples from a Crohn’s disease patient. [_Frontiers in Microbiology_](https://www.frontiersin.org/articles/10.3389/fmicb.2018.02559/full). 2018. 9:2559.
-- Hillmann B, Al-Ghalith G, Shields-Cutler R, **Zhu Q**, Gohl D, Beckman K, Knight R, Knights D. Evaluating the information content of shallow shotgun metagenomics. [_mSystems_](https://msystems.asm.org/content/3/6/e00069-18). 2018. 3(6):e00069-18.
-- Minich JJ, **Zhu Q**, Xu ZZ, Amir A, Ngochera M, Simwaka M, Allen EE, Zidana H, Knight R. Microbial effects of livestock manure fertilization on freshwater aquaculture ponds rearing tilapia (_Oreochromis shiranus_) and North African catfish (_Clarias gariepinus_). [_MicrobiologyOpen_](https://onlinelibrary.wiley.com/doi/full/10.1002/mbo3.716). 2018. e00716.
-- Tripathi A, Marotz C, Gonzalez A, Vázquez-Baeza Y, Song SJ, Bouslimani A, McDonald D, **Zhu Q**, Sanders JG, Smarr L, Dorrestein PC, Knight R. Are microbiome studies ready for hypothesis-driven research? [_Current Opinion in Microbiology_](https://www.sciencedirect.com/science/article/abs/pii/S1369527418300511). 2018. 44:61-69.
-- Hua ZS, Qu YN, **Zhu Q**, Zhou EM, Qi YL, Yin YR, Rao YZ, Tian Y, Li YX, Liu L, Castelle CJ, Hedlund BP, Shu WS, Knight R, Li WJ. Genomic inference of the metabolism and evolution of the archaeal phylum Aigarchaeota. [_Nature Communications_](https://www.nature.com/articles/s41467-018-05284-4). 2018. 9(1):2832.
-- McDonald D, Hyde E, Debelius JW, Morton JT, Gonzalez A, Ackermann G, Aksenov AA, Behsaz B, Brennan C, Chen Y, Goldasich LD, Dorrestein PC, Dunn RR, Fahimipour AK, Gaffney J, Gilbert JA, Gogul G, Green JL, Hugenholtz P, Humphrey G, Huttenhower C, Jackson MA, Janssen S, Jeste DV, Jiang L, Kelley ST, Knights D, Kosciolek T, Ladau J, Leach J, Marotz C, Meleshko D, Melnik AV, Metcalf JL, Mohimani H, Montassier E, Navas-Molina J, Nguyen TT, Peddada S, Pevzner P, Pollard KS, Rahnavard G, Robbins-Pianka A, Sangwan N, Shorenstein J, Smarr L, Song SJ, Spector T, Swafford AD, Thackray VG, Thompson LR, Tripathi A, Vázquez-Baeza Y, Vrbanac A, Wischmeyer P, Wolfe E, **Zhu Q**, The American Gut Consortium, Knight R. American Gut: an Open Platform for Citizen Science Microbiome Research. [_mSystems_](https://journals.asm.org/doi/10.1128/msystems.00031-18). 3(3):e00031-18.
-- He Y, Kosciolek T, Tang J, Zhou Y, Li Z, Ma X, **Zhu Q**, Yuan N, Yuan L, Li C, Jin K, Knight R, Tsuang MT, Chen X. Gut microbiome and magnetic resonance spectroscopy study of subjects at ultra-high risk for psychosis may support the membrane hypothesis. [_European Psychiatry_](https://www.sciencedirect.com/science/article/abs/pii/S0924933818301068). 2018. 53:37-45.
-- Washburne AD, Morton JT, Sanders J, McDonald D, **Zhu Q**, Oliverio AM, Knight R. Methods for phylogenetic analysis of microbiome data. [_Nature Microbiology_](https://www.nature.com/articles/s41564-018-0156-0). 2018. 3(6):652.
-- Knight R, Vrbanac A, Taylor BC, Aksenov A, Callewaert C, Debelius J, Gonzalez A, Kosciolek T, McCall LI, McDonald D, Melnik AV, Morton JT, Navas J, Quinn RA, Sanders JG, Swafford AD, Thompson LR, Tripathi A, Xu ZZ, Zaneveld JR, **Zhu Q**, Caporaso JG, Dorrestein PC. Best practices for analysing microbiomes. [_Nature Reviews Microbiology_](https://www.nature.com/articles/s41579-018-0029-9). 2018. 16(7):410-422.
-- Minich JJ, **Zhu Q**, Janssen S, Hendrickson R, Amir A, Vetter R, Hyde J, Doty MM, Stillwell K, Benardini J, Kim JH, Allen EE, Venkateswaran K, Knight R. KatharoSeq Enables High-Throughput Microbiome Analysis from Low-Biomass Samples. [_mSystems_](https://journals.asm.org/doi/10.1128/msystems.00218-17). 2018. 3(3):e00218-17.
-- Kapono CA, Morton JT, Bouslimani A, Melnik AV, Orlinsky K, Knaan TL, Garg N, Vázquez-Baeza Y, Protsyuk I, Janssen S, **Zhu Q**, Alexandrov T, Smarr L, Knight R, Dorrestein PC. Creating a 3D microbial and chemical snapshot of a human habitat. [_Scientific Reports_](https://www.nature.com/articles/s41598-018-21541-4). 2018. 8(1):3669.
+<div class="paper-list">
+  {% include feature_row id="year2018" %}
+</div>
 
 ## 2017 and before
 
-- Thompson LR, Sanders JG, McDonald D, Amir A, Ladau J, Locey KJ, Prill RJ, Tripathi A, Gibbons SM, Ackermann G, Navas-Molina JA, Janssen S, Kopylova E, Vázquez-Baeza Y, González A, Morton JT, Mirarab S, Zech Xu Z, Jiang L, Haroon MF, Kanbar J, **Zhu Q**, Jin Song S, Kosciolek T, Bokulich NA, Lefler J, Brislawn CJ, Humphrey G, Owens SM, Hampton-Marcell J, Berg-Lyons D, McKenzie V, Fierer N, Fuhrman JA, Clauset A, Stevens RL, Shade A, Pollard KS, Goodwin KD, Jansson JK, Gilbert JA, Knight R, The Earth Microbiome Project Consortium. A communal catalogue reveals Earth’s multiscale microbial diversity. [_Nature_](https://www.nature.com/articles/nature24621). 2017. 551(7681):457-63.
-- Lin W, Paterson GA, **Zhu Q**, Wang Y, Kopylov E, Li Y, Knight R, Bazylinski DA, Zhu R, Kirschvink JL, Pan Y. Origin of microbial biomineralization and magnetotaxis during the Archean. [_Proceedings of the National Academy of Sciences_](https://www.pnas.org/content/114/9/2171). 2017. 114(9):2171-76.
-- Yang Y, **Zhu Q**, Liu S, Zhao C, Wu C. The origin of Chinese domestic horses revealed with novel mtDNA variants. [_Animal Science Journal_](https://www.onlinelibrary.wiley.com/doi/abs/10.1111/asj.12583). 2017. 88(1):19-26.
-- Li W, Richter RA, Jung Y, **Zhu Q**, Li RW. Web-based bioinformatics workflows for end-to-end RNA-seq data computation and analysis in agricultural animal species. [_BMC Genomics_](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3118-z). 2016. 17(1):761.
-- Dittmar K, **Zhu Q**, Hastriter MW, Whiting MF: On the probability of dinosaur fleas. [_BMC Evolutionary Biology_](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-015-0568-x). 2016. 16(1):9.
-- Liu Y, Yu Y, Duan W, Qu Q, Zhang Q, Zhao M, **Zhu Q**. Home storage significantly impairs Bifidobacteria survival in powered formula for infants and young children in the Chinese market. [_International Journal of Dairy Technology_](https://www.onlinelibrary.wiley.com/doi/10.1111/1471-0307.12262). 2015. 68(4):495-502.
-- Han X, Chen Y, Wang L, Fang W, Zhang N, **Zhu Q**. RNA: an expanding view of function and evolution. [_Evolutionary Bioinformatics_](https://journals.sagepub.com/doi/full/10.4137/EBO.S38105). 2015. Suppl. 1:77-9.
-- **Zhu Q**, Hastriter MW, Whiting MF, Dittmar K. Fleas (Siphonaptera) are Cretaceous, and evolved with Theria. [_Molecular Phylogenetics and Evolution_](https://www.sciencedirect.com/science/article/abs/pii/S1055790315001293). 2015. 90:129-39.
-- Brook CE, Bai Y, Dobson AP, Osikowicz LM, Ranaivoson HC, **Zhu Q**, Kosoy MY, Dittmar K. _Bartonella_ spp. in fruit bats and blood-feeding ectoparasites in Madagascar. [_PLOS Neglected Tropical Diseases_](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003532). 2015. 9(2):e0003532.
-- **Zhu Q** (**co-corresponding**), Kosoy M, Dittmar K. HGTector: an automated method facilitating genome-wide discovery of putative horizontal gene transfers. [_BMC Genomics_](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-717). 2014. 15:717.
-- **Zhu Q** (**co-corresponding**), Kosoy M, Olival KJ, Dittmar K. Horizontal transfers and gene losses in the phospholipid pathway of _Bartonella_ reveal clues about early ecological niches. [_Genome Biology and Evolution_](https://academic.oup.com/gbe/article/6/8/2156/2939846). 2014. 6(8):2156-69.
-- Kazemian M, **Zhu Q**, Halfon MS, Sinha S. Improved accuracy of supervised CRM discovery with interpolated Markov models and cross-species comparison. [_Nucleic Acids Research_](https://academic.oup.com/nar/article/39/22/9463/2409012). 2011. 39(22):9463-72.
-- Kantorovitz MR, Kazemian M, Kinston S, Miranda-Saavedra D, **Zhu Q**, Robinson GE, Göttgens B, Halfon MS, Sinha S. Motif-blind, genome-wide discovery of _cis_-regulatory modules in _Drosophila_ and mouse. [_Developmental Cell_](https://www.sciencedirect.com/science/article/pii/S1534580709003840). 2009. 17(4):568-79.
-- Liu Y, **Zhu Q** (**co-first**), Zhu N. Recent duplication and positive selection of the _GAGE_ gene family. [_Genetica_](https://link.springer.com/article/10.1007/s10709-007-9179-9). 2008. 133(1):31-5.
-- Liu Y, **Zhu Q**, Zhu N. Rapid HLA-DR fluorotyping based on melting curve analysis. [_Immunological Investigations_](https://www.tandfonline.com/doi/full/10.1080/08820130701366425). 2007. 36(4):507-21.
+<div class="paper-list">
+  {% include feature_row id="year2017-n-before" %}
+</div>
 
 ## Book chapters
 
-- **Zhu Q** (**corresponding**), Mirarab S. [Assembling a Reference Phylogenomic Tree of Bacteria and Archaea by Summarizing Many Gene Phylogenies.](https://link.springer.com/protocol/10.1007/978-1-0716-2691-7_7) In _Environmental Microbial Evolution - Methods in Molecular Biology_. Ed. Luo H. pp. 137-165. Humana, New York, NY. 2022.
-- Dittmar K, **Zhu Q**, Hastriter MW, Whiting MF. [Evolutionary history of Siphonaptera: fossils, origins, vectors.](https://www.amazon.com/Parasite-Diversity-Diversification-Evolutionary-Phylogenetics/dp/1107037654) In _Parasite Diversity and Diversification - Evolutionary Ecology Meets Phylogenetics_. Ed. Morand S, Krasnov BR, Littlewood DTJ. Cambridge University Press. 2015.
+<div class="paper-list">
+  {% include feature_row id="book-chapters" %}
+</div>

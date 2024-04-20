@@ -21,8 +21,17 @@
 
         <div class="archive__item-body">
 
+          <!-- add kicker -->
+          <!-- see: https://github.com/mmistakes/minimal-mistakes/issues/3103 -->
+          {% if f.kicker %}
+            <p class="archive__item-kicker">
+              <span>{{ f.kicker }}</span>
+              <!-- <a class="btn--success">{{ f.kicker | markdownify }}</a> -->
+            </p>
+          {% endif %}
+
           <!-- let title be link -->
-          <!-- refer to: https://github.com/mmistakes/minimal-mistakes/issues/1626 -->
+          <!-- see: https://github.com/mmistakes/minimal-mistakes/issues/1626 -->
           {% if f.title %}
             {% if f.url %}
               <h2 class="archive__item-title"><a href="{{ f.url | relative_url }}">{{ f.title }}</a></h2>
@@ -35,10 +44,10 @@
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %} -->
 
-          <!-- added subtitle -->
-          <!-- refer to: https://github.com/mmistakes/minimal-mistakes/discussions/3103 -->
+          <!-- add subtitle -->
+          <!-- see: https://github.com/mmistakes/minimal-mistakes/issues/3103 -->
           {% if f.subtitle %}
-            <div class="comment__date">
+            <div class="archive__item-subtitle">
               {{ f.subtitle }}
             </div>
           {% endif %}
@@ -49,6 +58,7 @@
             </div>
           {% endif %}
 
+          <!-- remove button -->
           <!-- {% if f.url %}
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %} -->

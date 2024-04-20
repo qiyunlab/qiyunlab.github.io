@@ -1,6 +1,6 @@
 ---
 title: News
-main:
+feature_row:
 
   - title: "Study: Combining info on genes, gut bacteria enhances early disease detection"
     url: https://news.asu.edu/20240328-science-and-technology-study-combining-info-genes-gut-bacteria-enhances-early-disease
@@ -24,7 +24,7 @@ main:
     url: https://genomicscience.energy.gov/compbioawards2023/#Expanding
     subtitle: Aug 15, 2023 | U.S. Department of Energy
     excerpt: >
-      Multi-institutional team led by Dr. Zhu is funded by DOE to expand Python library [scikit-bio](https://scikit.bio) for efficient multiomic data integration and complex community modeling.
+      Multi-institutional team led by Dr. Zhu is funded by the U.S. Department of Energy to expand Python library [scikit-bio](https://scikit.bio) for efficient multiomic data integration and complex community modeling.
 
   - title: Finding New Ways to Analyze the Microbiome
     url: https://ieeexplore.ieee.org/abstract/document/9931510
@@ -63,4 +63,4 @@ main:
       Dr. Zhu among new faculty members joining the Biodesign Institute at Arizona State University.
 ---
 
-{% include feature_row id="main" %}
+{% include feature_row %}

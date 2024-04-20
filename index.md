@@ -9,11 +9,13 @@ classes:
 header:
   overlay_color: '#000'
   overlay_filter: 0.1
-  overlay_image: /assets/images/splash.jpg
+  overlay_image: assets/images/splash.jpg
+  caption: Image by <a href="https://www.freepik.com/free-ai-image/molecular-structure-cancer-cells-magnification-generated-by-ai_41668216.htm">vecstock</a>
   actions:
     - label: Join Us!
       url: people#join-us
-  caption: Image by <a href="https://www.freepik.com/free-ai-image/molecular-structure-cancer-cells-magnification-generated-by-ai_41668216.htm">vecstock</a>
+    - label: Contact
+      url: contact
 excerpt: Computational Microbiomics
 ---
 
