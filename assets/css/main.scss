@@ -1,0 +1,216 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+/* ==========================================================================
+   Customizations
+   ========================================================================== */
+
+@charset "utf-8";
+
+
+/**
+ * Custom skin.
+ * Original settings are in: _sass/minimal-mistakes/_variables.scss
+ */
+
+// $link-color: #951d40;
+
+
+/**
+ * Theme defaults.
+ */
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+/**
+ * General styles.
+ * Make default font size smaller.
+ * @see {@link https://github.com/mmistakes/minimal-mistakes/issues/1219}
+ */
+ html {
+    font-size: 12px; // originally 16px
+    @include breakpoint($medium) {
+      font-size: 14px; // originally 18px
+    }
+  
+    @include breakpoint($large) {
+      font-size: 16px; // originally 20px
+    }
+  
+    @include breakpoint($x-large) {
+      font-size: 18px; // originally 22px
+    }
+  }
+  
+  h4 {
+    font-size: $type-size-5;
+    font-style: italic;
+  }
+  
+  .page__content {
+    p, li, dl {
+      font-size: 0.95em;
+    }
+  }
+  
+  
+  /**
+   * Make image caption more visible.
+   */
+  
+  .page__hero-caption,
+  .archive__item-caption {
+    opacity: 0.75;
+    font-family: $global-font-family;
+    font-size: $type-size-6;
+    a {
+      text-decoration: inherit;
+    }
+  }
+  
+  
+  /**
+   * Make notice text larger.
+   */
+  @mixin notice($notice-color) {
+    font-size: 1em !important;
+  }
+  
+  
+  /**
+   * Feature row styles.
+   */
+  .feature__item {
+  
+    // Make text larger.
+    .archive__item-excerpt {
+      font-size: 0.9em;
+    }
+    &--left, &--right {
+      .archive__item-excerpt {
+        font-size: 0.9em;
+      }
+    }
+  
+    // Kicker class
+    .archive__item-kicker {
+      color: $muted-text-color;
+      font-family: $sans-serif;
+      font-size: $type-size-8;
+      line-height: 1.75em;
+      margin-top: 2em;
+      margin-bottom: -1.25em;
+  
+      // Spans are like tags.
+      & span {
+        background-color: $primary-color;
+        color: white;
+        display: inline-block;
+        border-radius: 3px;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+      }
+    }
+  
+    // Subtitle class (similar to page__meta).
+    .archive__item-subtitle {
+      margin-top: 0;
+      color: $muted-text-color;
+      font-family: $sans-serif;
+      font-size: $type-size-6;
+    }
+  }
+  
+  
+  /**
+   * Footer styles.
+   * Make default font size smaller.
+   * @see {@link https://github.com/mmistakes/minimal-mistakes/issues/1219}
+   */
+  .page__footer {
+    footer {
+      text-align: center;
+    }
+  }
+  
+  
+  /**
+   * Hide side bar by default.
+   * @see {@link https://github.com/mmistakes/minimal-mistakes/issues/1322#issuecomment-571208318}
+   */
+  .fullwidth {
+    .page {
+      float: left;
+      width: 100%;
+  
+      @include breakpoint($large) {
+        padding-left: 0;
+      }
+  
+      @include breakpoint($x-large) {
+        padding-left: 0;
+      }
+    }
+  
+    .page__related {
+      @include breakpoint($large) {
+        padding-left: 0;
+      }
+  
+      @include breakpoint($x-large) {
+        padding-left: 0;
+      }
+    }
+  }
+  
+  
+  /**
+   * Paper list style.
+   * Only used in papers.md.
+   * Original settings are in: _sass/minimal-mistakes/_archive.scss
+   */
+  .paper-list {
+  
+    // Remove bottom space.
+    .feature__wrapper {
+      margin-bottom: 0;
+    }
+  
+    .feature__item {
+  
+      // Stretch to full width.
+      @include breakpoint($small) {
+        width: span(12 of 12);
+        &:nth-child(n) {
+          clear: both;
+          margin-left: 0;
+        }
+      }
+  
+      // Reduce title font size.
+      .archive__item-title {
+        font-size: $type-size-5;
+      }
+  
+      // Render excerpt as list items.
+      .archive__item-excerpt {
+        margin-top: 0.5em;
+        display: list-item;
+        margin-left: 1em;
+        text-indent: 0.5em;
+      }
+
+      // Render journal names as italic.
+      .archive__item-kicker {
+        & span {
+          font-style: italic;
+        }
+      }
+
+    }
+  
+  }
+  
