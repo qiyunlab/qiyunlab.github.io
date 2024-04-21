@@ -82,8 +82,9 @@ undergrad:
 alumni:
   - title: Daniel Roush
     image_path: assets/images/people/Daniel_Roush.jpg
+    subtitle: Postdoc, Fall 2020 - Fall 2022
     excerpt: >
-      Daniel (postdoc, Fall 2020 - Fall 2022) did his Ph.D. work with [Dr. Ferran Garcia-Pichel](https://www.garcia-pichellab.com/) at ASU. He made significant contributions to the development and adaptation of bioinformatics approaches for microbiome analysis (most notably the Woltka project), the study of host-associated and environmental microbiomes, and the management of lab activities and facilities. He also continued to study Cyanobacteria diversity and phylogeny. After completing postdoc training, he joined Native Microbials, Inc as a Microbiome Field Scientist.
+      Daniel did his Ph.D. work with [Dr. Ferran Garcia-Pichel](https://www.garcia-pichellab.com/) at ASU. He made significant contributions to the development and adaptation of bioinformatics approaches for microbiome analysis (most notably the Woltka project), the study of host-associated and environmental microbiomes, and the management of lab activities and facilities. He also continued to study Cyanobacteria diversity and phylogeny. After completing postdoc training, he joined [Native Microbials](https://www.nativemicrobials.com/) as a Microbiome Field Scientist.
       <br /><br />
       [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=oNXQvWkAAAAJ)&nbsp;&nbsp;
       [<i class='ai ai-orcid-square ai-2x'></i>](https://orcid.org/0000-0001-8025-2117)&nbsp;&nbsp;
@@ -91,39 +92,45 @@ alumni:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/dwroush/)
   - title: Abhinav Chede
     image_path: assets/images/people/Abhinav_Chede.jpg
+    subtitle: High school student, Fall 2021 - Fall 2022
     excerpt: >
-      Abhinav (high school student, Fall 2021 - Fall 2022) was from the BASIS Chandler high school. With his interest and skills in machine learning, data mining and software development, he made valuable contributions to the projects of cell size evolution and metagenome binning in the Qiyun lab. He was admitted to Brown University in 2023.
+      Abhinav was from the BASIS Chandler high school. With his interest and skills in machine learning, data mining and software development, he made valuable contributions to the projects of cell size evolution and metagenome binning in the Qiyun lab. He was admitted to Brown University in 2023.
       <br /><br />
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/AbhinavChede)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/abhinav-chede-012777206/)
   - title: Wanxiang Liu
     image_path: assets/images/people/Wanxiang_Liu.jpg
+    subtitle: Graduate student, Fall 2022
     excerpt: >
-      Wanxiang (graduate student, Fall 2022) obtained an M.S. in Bioinformatics and Computational Biology at Saint Louis University. He performed sequence data processing, microbiome community analysis and host trait prediction using a phylogenetic tree. He continued to explore opportunities in the Evolutionary Biology Ph.D. program at ASU.
+      Wanxiang obtained an M.S. in Bioinformatics and Computational Biology at Saint Louis University. He performed sequence data processing, microbiome community analysis and host trait prediction using a phylogenetic tree. He continued to explore opportunities in the Evolutionary Biology Ph.D. program at ASU.
       <br /><br />
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/wanxiang-liu-273673b8/)
   - title: Hasti Asrari
     image_path: assets/images/people/Hasti_Asrari.jpg
+    subtitle: Undergraduate student, Fall 2022
     excerpt: >
-      Hasti (undergraduate student, Fall 2022) had a short experience in the Qiyun Lab, contributing to literature review and education regarding host-associated microbiomes. Meanwhile she studied black widow spider microbiomes under [Dr. Chad Johnson](https://search.asu.edu/profile/912806)'s mentorship. She received the honor of New College's Outstanding Undergraduate ([spotlight video](https://www.youtube.com/watch?v=OhnO7btlGmo)). After graduation, she started her Ph.D. study in Marine and Environmental Biology in the University of Southern California.
+      Hasti had a short experience in the Qiyun Lab, contributing to literature review and education regarding host-associated microbiomes. Meanwhile she studied black widow spider microbiomes under [Dr. Chad Johnson](https://search.asu.edu/profile/912806)'s mentorship. She received the honor of New College's Outstanding Undergraduate ([spotlight video](https://www.youtube.com/watch?v=OhnO7btlGmo)). After graduation, she started her Ph.D. study in Marine and Environmental Biology in the University of Southern California.
       <br /><br />
       [<i class='fab fa-twitter-square fa-2x'></i>](https://twitter.com/ha_microworld)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Hasrari)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/hastiasrari/)
   - title: Noah Pacheco
     image_path: assets/images/people/Noah_Pacheco.jpg
+    subtitle: Undergraduate student, Spring - Fall 2022
     excerpt: >
-      Noah (undergraduate student, Spring – Fall 2022) majored in biochemistry (medicinal chemistry). He studied the methodology of molecular phylogenetics. He was exploring a career in biomedical sciences.
+      Noah majored in biochemistry (medicinal chemistry). He studied the methodology of molecular phylogenetics. He was exploring a career in biomedical sciences.
   - title: Ping-Han Huang
     image_path: assets/images/people/Ping-Han_Huang.jpg
+    subtitle: Intern, Summer 2022
     excerpt: >
-      Ping-Han (intern, Summer 2022) is a Ph.D. student in Statistics at ASU School of Mathematical and Statistical Sciences. Her area of focus is functional data analysis and experimental design. In addition to her work in statistics, She has research experience in analyzing gene expression data and investigating the relationship between metastatic cancer and human endogenous retrovirus. She looks forward to expanding horizons in bioinformatics and exploring the gene-disease associations through various statistical models.
+      Ping-Han is a Ph.D. student in Statistics at ASU School of Mathematical and Statistical Sciences. Her area of focus is functional data analysis and experimental design. In addition to her work in statistics, She has research experience in analyzing gene expression data and investigating the relationship between metastatic cancer and human endogenous retrovirus. She looks forward to expanding horizons in bioinformatics and exploring the gene-disease associations through various statistical models.
       <br /><br />
       [<i class='fab fa-linkedin fa-2x'></i>](www.linkedin.com/in/ping-han-huang)
   - title: Julian Yu
     image_path: assets/images/people/Julian_Yu.jpg
+    subtitle: Postdoc, Fall 2020 - Spring 2021
     excerpt: >
-      Julian (postdoc, Fall 2020 - Spring 2021) did her Ph.D. work with [Dr. C Ryan Penton](https://biodesign.asu.edu/c-ryan-penton) at ASU. Her work in the Qiyun Lab included the development of a bioinformatics approach for community analysis of metagenomic data, the analysis of honey bee metagenomes, and the setup of a molecular biology lab. She became a Bioinformatician and Microbiome Scientist at Heliae Development, LLC.
+      Julian did her Ph.D. work with [Dr. C Ryan Penton](https://biodesign.asu.edu/c-ryan-penton) at ASU. Her work in the Qiyun Lab included the development of a bioinformatics approach for community analysis of metagenomic data, the analysis of honey bee metagenomes, and the setup of a molecular biology lab. She became a Bioinformatician and Microbiome Scientist at [Heliae Development](https://phycoterra.com/).
       <br /><br />
       [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=PT0_hHYAAAAJ)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/yujulian0168)&nbsp;&nbsp;
