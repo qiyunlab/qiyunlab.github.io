@@ -19,67 +19,67 @@ year2024:
 
   - title: Peripheral Neuronal Activation Shapes the Microbiome and Alters Gut Physiology
     url: https://www.sciencedirect.com/science/article/pii/S221112472400281X
-    kicker: Cell Reports
     subtitle: Griffiths JA, Yoo BB, Thuy-Boun PS, Cantu V, Weldon KC, Challis C, Sweredoski MJ, Chan KY, Thron TM, Sharon G, Moradian A, Humphrey G, <b>Zhu Q</b>, Shaffer J, Wolan DW, Dorrestein PC, Knight R, Gradinaru V, Mazmanian SK
+    kicker: Cell Reports
 
   - title: Integration of polygenic and gut metagenomic risk prediction for common diseases
     url: https://www.nature.com/articles/s43587-024-00590-7
-    kicker: Nature Aging
     subtitle: Liu Y, Ritchie S, Teo SM, Ruuskanen MO, Kambur O, <b>Zhu Q</b>, Sanders J, Vazquez-Baeza Y, Verspoor K, Jousilahti P, Lahti L, Niiranen T, Salomaa V, Havulinna A, Knight R, Méric G, Inouye M
+    kicker: Nature Aging
 
   - title: Robustness of cancer microbiome signals over a broad range of methodological variation
     url: https://www.nature.com/articles/s41388-024-02974-w
-    kicker: Oncogene
     subtitle: Sepich-Poore GD, McDonald D, Kopylova E, Guccione C, <b>Zhu Q</b>, Austin G, Carpenter C, Fraraccio S, Wandro S, Kosciolek T, Janssen S, Metcalf JL, Song SJ, Kanbar J, Miller-Montgomery S, Heaton R, Mckay R, Patel SP, Swafford AD, Korem T, Knight R
+    kicker: Oncogene
 
   - title: A conserved interdomain microbial network underpins cadaver decomposition despite environmental variables
     url: https://www.nature.com/articles/s41564-023-01580-y
-    kicker: Nature Microbiology (cover paper)
     subtitle: Burcham Z, Belk AD, McGivern BB, Bouslimani A, Ghadermazi P, Martino C, Shenhav L, Zhang AR, Shi Z, Emmons A, Deel HL, Xu ZZ, Nieciecki V, <b>Zhu Q</b>, Shaffer M, Panitchpakdi M, Weldon KC, Cantrell K, Ben-Hur A, Reed SC, Humphry GC, Ackermann G, McDonald D, Chan SHJ, Conner M, Boyd D, Smith J, Watson JMS, Vidoli G, Steadman D, Lynne AM, Bucheli S, Dorrestein PC, Wrighton KC, Carter DO, Knight R, Metcalf JL
     excerpt: Featured in [Decomposer communities are universal in death](https://www.nature.com/articles/s41564-023-01576-8) by Strickland MS and Lynch L
+    kicker: Nature Microbiology (cover paper)
 
 year2023:
 
   - title: Paired microbiome and metabolome analyses associate bile acid changes with colorectal cancer progression
     url: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01008-2
-    kicker: Cell Reports
     subtitle: Fu T, Huan T, Rahman G, Zhi H, Xu Z, Oh TG, Guo J, Coulter S, Tripathi A, Martino C, McCarville JL, <b>Zhu Q</b>, Cayabyab F, He M, Xing S, Vargas F, Yu RT, Atkins AR, Liddle C, Ayres J, Raffatellu M, Dorrestein PC, Downes M, Knight R, Evans RM
+    kicker: Cell Reports
 
   - title: "BinaRena: a dedicated interactive platform for human-guided exploration and binning of metagenomes"
     url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01625-8
-    kicker: Microbiome
     subtitle: Pavia MJ, <b>Chede A</b>, Wu Z, Cadillo-Quiroz H, <b>Zhu Q</b>
+    kicker: Microbiome
 
   - title: Generation of accurate, expandable phylogenomic trees with uDANCE
     url: https://www.nature.com/articles/s41587-023-01868-8
-    kicker: Nature Biotechnology
     subtitle: Balaban M, Jiang Y, <b>Zhu Q</b>, McDonald D, Knight R, Mirarab S
+    kicker: Nature Biotechnology
 
   - title: Greengenes2 unifies microbial data in a single reference tree
     url: https://www.nature.com/articles/s41587-023-01845-1
-    kicker: Nature Biotechnology
     subtitle: McDonald D, Jiang Y, Balaban M, Cantrell K, <b>Zhu Q</b>, Gonzalez A, Morton JT, Nicolaou G, Parks DH, Karst SM, Albertsen M, Hugenholtz P, DeSantis T, Song SJ, Bartko A, Havulinna AS, Jousilahti P, Cheng S, Inouye M, Niiranen T, Jain M, Salomaa V, Lahti L, Mirarab S, Knight R
+    kicker: Nature Biotechnology
 
   - title: Metagenomics reveals novel microbial signatures of farm exposures in house dust
     url: https://www.frontiersin.org/articles/10.3389/fmicb.2023.1202194/full
-    kicker: Frontiers in Microbiology
     subtitle: Wang Z, Dalton KR, Lee M, Parks CG, Beane Freeman LE, <b>Zhu Q</b>, González A, Knight R, Zhao S, Motsinger-Reif AA, London SJ
+    kicker: Frontiers in Microbiology
 
   - title: Multi-level analysis of the gut–brain axis shows autism spectrum disorder-associated molecular and microbial profiles
     url: https://www.frontiersin.org/articles/10.3389/fmicb.2023.1202194/full
-    kicker: Nature Neuroscience
     subtitle: Morton JT, Jin DM, Mills RH, Shao Y, Rahman G, McDonald D, <b>Zhu Q</b>, Balaban M, Jiang Y, Cantrell K, Gonzalez A, Carmel J, Frankiensztajn LM, Martin-Brevet S, Berding K, Needham BD, Zurita MF, David M, Averina OV, Kovtun AS, Noto A, Mussap M, Wang M, Frank DN, Li E, Zhou W, Fanos V, Danilenko VN, Wall DP, Cárdenas P, Baldeón ME, Jacquemont S, Koren O, Elliott E, Xavier RJ, Mazmanian SK, Knight R, Gilbert JA, Donovan SM, Lawley TD, Carpenter B, Bonneau R, Taroncher-Oldenburg G
     excerpt: Featured in [Microbiome alterations in autism spectrum disorder](https://www.nature.com/articles/s41564-023-01455-2) by Coley-O'Rourke & Hsaio
+    kicker: Nature Neuroscience
 
   - title: Distinct Nausea Profiles Are Associated With Gastrointestinal Symptoms In Oncology Patients Receiving Chemotherapy
     url: https://journals.lww.com/cancernursingonline/Abstract/9000/Distinct_Nausea_Profiles_Are_Associated_With.98738.aspx
-    kicker: Cancer Nursing
     subtitle: Singh K, Pituch P, <b>Zhu Q</b>, Gu H, Ernst B, Tofthagen C, Brewer M, Kober KM, Cooper BA, Paul SM, Conley YP, Hammer M, Levine JD, Miaskowski C
+    kicker: Cancer Nursing
 
   - title: "DEPP: Deep Learning Enables Extending Species Trees using Single Genes"
     url: https://academic.oup.com/sysbio/article/72/1/17/6575921
-    kicker: Systematic Biology
     subtitle: Jiang Y, Balaban M, <b>Zhu Q</b>, Mirarab S
+    kicker: Systematic Biology
 
 year2022:
 
@@ -253,6 +253,7 @@ year2019:
     url: https://www.nature.com/articles/s41467-019-13443-4
     subtitle: <b>Zhu Q</b>, Mai U, Pfeiffer W, Janssen S, Asnicar F, Sanders JG, Belda-Ferre P, Al-Ghalith GA, Kopylova E, McDonald D, Kosciolek T, Yin JB, Huang S, Salam N, Jiao J, Wu Z, Xu ZZ, Sayyari E, Morton JT, Podell S, Knights D, Li W, Huttenhower C, Segata N, Smarr L, Mirarab S, Knight R
     kicker: Nature Communications
+    excerpt: Among [top 50](https://www.nature.com/collections/acdgdeedhi) life and biological sciences articles of the journal in 2019.
 
   - title: Optimizing sequencing protocols for leaderboard metagenomics by combining long and short reads
     url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1834-9
