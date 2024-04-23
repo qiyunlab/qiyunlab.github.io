@@ -13,7 +13,7 @@ header:
   caption: Image by <a href="https://www.freepik.com/free-ai-image/molecular-structure-cancer-cells-magnification-generated-by-ai_41668216.htm">vecstock</a>
   actions:
     - label: Join Us!
-      url: people#join-us
+      url: join
     - label: Contact
       url: contact
 excerpt: Computational Microbiomics
