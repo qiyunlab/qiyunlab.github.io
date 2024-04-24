@@ -4,7 +4,7 @@ pi:
   - title: Qiyun Zhu
     image_path: assets/images/people/Qiyun_Zhu.jpg
     excerpt: >
-        This is Qiyun (pronounced as "chee-yeun"), an Assistant Professor at the School of Life Sciences, Arizona State University, since August 2020. Prior to this appointment, I completed postdoctoral training at UC San Diego with [Dr. Rob Knight](https://knightlab.ucsd.edu/). My academic background is multidisciplinary, with research experience and interest in bioinformatics, phylogenetics, microbiology, comparative genomics and molecular biology. I study both computational and biological questions, and strive to expand understanding of the microbial world through its multiple levels: genes, genomes, lineages, communities, hosts, and environments.
+        This is Qiyun (pronounced as "chee-yeun"), an Assistant Professor at the School of Life Sciences, Arizona State University, since August 2020. Prior to this appointment, I completed postdoctoral training at UC San Diego with Dr. Rob Knight. My academic background is multidisciplinary, with research experience and interest in bioinformatics, phylogenetics, microbiology, comparative genomics and molecular biology. I study both computational and biological questions, and strive to expand understanding of the microbial world through its multiple levels: genes, genomes, lineages, communities, hosts, and environments.
         <br /><br />
         [<i class='fa fa-envelope-square fa-2x'></i>](mailto:Qiyun.Zhu@asu.edu)&nbsp;&nbsp;
         [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=mjkV0pUAAAAJ)&nbsp;&nbsp;
@@ -33,7 +33,7 @@ graduate:
   - title: Henry Secaira Morocho
     image_path: assets/images/people/Henry_Secaira.jpg
     excerpt: >
-      I joined Qiyun lab in the 2021 Fall for my Ph.D. research. I am a biologist with a multidisciplinary background, which has shaped my interests at the interface of evolution, bioinformatics, microbiology, and systems biology. Currently, I am Bioinformatics and Computational Biology master's student in Spain, and I am working on a research project that focuses on the network analysis of deep sequencing data to understand the adaptive responses of viral populations to varying environments under the supervision of [Dr. Susanna Manrubia.](https://auditore.cab.inta-csic.es/manrubia/)
+      I joined Qiyun lab in the 2021 Fall for my Ph.D. research. I am a biologist with a multidisciplinary background, which has shaped my interests at the interface of evolution, bioinformatics, microbiology, and systems biology. Currently, I am Bioinformatics and Computational Biology master's student in Spain, and I am working on a research project that focuses on the network analysis of deep sequencing data to understand the adaptive responses of viral populations to varying environments under the supervision of Dr. Susanna Manrubia.
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:hsecaira@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/HSecaira)&nbsp;&nbsp;
@@ -51,7 +51,7 @@ undergrad:
   - title: Hibah Usmani
     image_path: assets/images/people/Hibah_Usmani.jpg
     excerpt: >
-      I am an undergraduate student studying Mathematics and pursuing a certificate in Computational Life Sciences. As a part of this lab, I hope to expand my knowledge on bioinformatics and apply it to my honors thesis. This thesis is related to the evolution of halogenases in cyanobacteria with [Dr. Brett Neilan](https://www.newcastle.edu.au/profile/brett-neilan) from the University of Newcastle.
+      I am an undergraduate student studying Mathematics and pursuing a certificate in Computational Life Sciences. As a part of this lab, I hope to expand my knowledge on bioinformatics and apply it to my honors thesis. This thesis is related to the evolution of halogenases in cyanobacteria with Dr. Brett Neilan from the University of Newcastle.
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:husmani@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/hibah-usmani/)
@@ -84,7 +84,7 @@ alumni:
     image_path: assets/images/people/Daniel_Roush.jpg
     subtitle: Postdoc, Fall 2020 - Fall 2022
     excerpt: >
-      Daniel did his Ph.D. work with [Dr. Ferran Garcia-Pichel](https://www.garcia-pichellab.com/) at ASU. He made significant contributions to the development and adaptation of bioinformatics approaches for microbiome analysis (most notably the Woltka project), the study of host-associated and environmental microbiomes, and the management of lab activities and facilities. He also continued to study Cyanobacteria diversity and phylogeny. After completing postdoc training, he joined [Native Microbials](https://www.nativemicrobials.com/) as a Microbiome Field Scientist.
+      Daniel did his Ph.D. work with [Dr. Ferran Garcia-Pichel](https://www.garcia-pichellab.com/) at ASU. He made significant contributions to the development and adaptation of bioinformatics approaches for microbiome analysis (most notably the Woltka project), the study of host-associated and environmental microbiomes, and the management of lab activities and facilities. He also continued to study Cyanobacteria diversity and phylogeny. After completing postdoc training, he joined Native Microbials as a Microbiome Field Scientist.
       <br /><br />
       [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=oNXQvWkAAAAJ)&nbsp;&nbsp;
       [<i class='ai ai-orcid-square ai-2x'></i>](https://orcid.org/0000-0001-8025-2117)&nbsp;&nbsp;
@@ -109,7 +109,7 @@ alumni:
     image_path: assets/images/people/Hasti_Asrari.jpg
     subtitle: Undergraduate student, Fall 2022
     excerpt: >
-      Hasti had a short experience in the Qiyun Lab, contributing to literature review and education regarding host-associated microbiomes. Meanwhile she studied black widow spider microbiomes under [Dr. Chad Johnson](https://search.asu.edu/profile/912806)'s mentorship. She received the honor of New College's Outstanding Undergraduate ([spotlight video](https://www.youtube.com/watch?v=OhnO7btlGmo)). After graduation, she started her Ph.D. study in Marine and Environmental Biology in the University of Southern California.
+      Hasti had a short experience in the Qiyun Lab, contributing to literature review and education regarding host-associated microbiomes. Meanwhile she studied black widow spider microbiomes under Dr. Chad Johnson's mentorship. She received the honor of New College's Outstanding Undergraduate ([spotlight video](https://www.youtube.com/watch?v=OhnO7btlGmo)). After graduation, she started her Ph.D. study in Marine and Environmental Biology in the University of Southern California.
       <br /><br />
       [<i class='fab fa-twitter-square fa-2x'></i>](https://twitter.com/ha_microworld)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Hasrari)&nbsp;&nbsp;
@@ -130,13 +130,15 @@ alumni:
     image_path: assets/images/people/Julian_Yu.jpg
     subtitle: Postdoc, Fall 2020 - Spring 2021
     excerpt: >
-      Julian did her Ph.D. work with [Dr. C Ryan Penton](https://biodesign.asu.edu/c-ryan-penton) at ASU. Her work in the Qiyun Lab included the development of a bioinformatics approach for community analysis of metagenomic data, the analysis of honey bee metagenomes, and the setup of a molecular biology lab. She became a Bioinformatician and Microbiome Scientist at [Heliae Development](https://phycoterra.com/).
+      Julian did her Ph.D. work with Dr. C Ryan Penton at ASU. Her work in the Qiyun Lab included the development of a bioinformatics approach for community analysis of metagenomic data, the analysis of honey bee metagenomes, and the setup of a molecular biology lab. She became a Bioinformatician and Microbiome Scientist at Heliae Development.
       <br /><br />
       [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=PT0_hHYAAAAJ)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/yujulian0168)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/julian-yu-38836a141)
 
 ---
+
+Check out [open positions](join) in our research group!
 
 ## Principal Investigator
 
