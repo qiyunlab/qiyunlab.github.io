@@ -40,6 +40,14 @@ graduate:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)
 
 undergrad:
+  - title: Paarth Batra
+    image_path: assets/images/people/Paarth_Batra.jpg
+    excerpt: >
+      I'm currently an undergraduate pursuing a BS in Computer Science. Strong passion for deep learning and neural networks, and mature programming experience through personal projects and internships at DoS. New researcher for Qiyun Lab (S24) developing and maintaining scikit-bio, focused on integration of LLM technologies with existing library features.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:pbatra6@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/paarth-b)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/paarth-batra/)
   - title: Chris Tapo
     image_path: assets/images/people/Chris_Tapo.jpg
     excerpt: >
