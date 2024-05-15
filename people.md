@@ -40,6 +40,12 @@ graduate:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)
 
 undergrad:
+  - title: Nirmitha Hamsanipally
+    image_path: assets/images/people/Nirmitha_Hamsanipally.jpg
+    excerpt: >
+      I am an undergraduate student majoring in Data Science, with a focus in Mathematics. As a past pre-health student, I am particularly fascinated by how machine learning algorithms can be applied to analyze complex biological data, uncovering patterns that can lead to new insights. I also enjoy creating intuitive visualizations that make data more accessible and understandable. Currently I am working on improving scikit-bio as a Barrett College Fellow.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:nhamsani@asu.edu)
   - title: Paarth Batra
     image_path: assets/images/people/Paarth_Batra.jpg
     excerpt: >
