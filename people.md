@@ -40,6 +40,16 @@ graduate:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)
 
 undergrad:
+
+  - title: Aryan Vinod Keluskar
+    image_path: assets/images/people/Aryan_Keluskar.jpg
+    excerpt: >
+      I am a rising junior majoring in Computer Science, with a minor in Statistics. I love to meet wonderful people; develop impactful software; and to innovate & inspire! What started out as exploring my interest, coding has allowed me to meet the most soulful people of my life, as well as contribute to the social good of the communities that raise dreamers such as myself. Writing code for scikit-bio is certainly a stepping stone for me to understand the nuances of professional software development and developing libraries for the community.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:akeluska@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/aryankeluskar)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/aryankeluskar/)&nbsp;&nbsp;
+      [<i class='fab fa-twitter-square fa-2x'></i>](https://twitter.com/aryankeluskar6)
   - title: Nirmitha Hamsanipally
     image_path: assets/images/people/Nirmitha_Hamsanipally.jpg
     excerpt: >
