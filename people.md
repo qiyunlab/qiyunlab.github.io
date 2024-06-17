@@ -40,7 +40,13 @@ graduate:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)
 
 undergrad:
-
+  - title: Raeed Azom
+    image_path: assets/images/people/Raeed_Azom.jpg
+    excerpt: >
+      I'm a senior studying Computer Science. As a Barrett Fellow at the Qiyun Lab, I'm currently working on enhancing the scikit-bio software. I love tackling complex problems through the medium of code, and working on scikit-bio allows me to engage with these kinds of problems daily. It's a ton of fun, and knowing that our work will benefit researchers not just at ASU but throughout the larger scientific community makes working on this project all the more rewarding.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:razom@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/RaeedA)
   - title: Aryan Vinod Keluskar
     image_path: assets/images/people/Aryan_Keluskar.jpg
     excerpt: >
