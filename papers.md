@@ -237,11 +237,6 @@ year2020:
     subtitle: Estaki M, Jiang L, Bokulich NA, McDonald D, González A, Kosciolek T, Martino C, <b>Zhu Q</b>, Birmingham A, Vázquez-Baeza Y, Dillon MR, Bolyen E, Caporaso JG, Knight R
     kicker: Current Protocols in Bioinformatics
 
-  - title: Microbiome analyses of blood and tissues suggest cancer diagnostic approach
-    url: https://www.nature.com/articles/s41586-020-2095-1
-    subtitle: Poore GD, Kopylova E, <b>Zhu Q</b>, Carpenter C, Fraraccio S, Wandro S, Kosciolek T, Janssen S, Metcalf J, Song SJ, Kanbar J, Miller-Montgomery S, Heaton R, Mckay R, Patel SP, Swafford AD, Patel SP, Knight R
-    kicker: Nature
-
   - title: Home chemical and microbial transitions across urbanization
     url: https://www.nature.com/articles/s41564-019-0593-4
     subtitle: McCall L, Callewaert C, <b>Zhu Q</b> (<b>co-first</b>), Song SJ, Bouslimani A, Minich JJ, Ernst M, Ruiz-Calderon JF, Cavallin H, Pereira HS, Novoselac A, Hernandez J, Rios R, Branch OH, Blaser MJ, Paulino LC, Dorrestein PC, Knight R, Dominguez-Bello MG
