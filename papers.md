@@ -3,10 +3,6 @@ title: Papers
 
 preprints:
 
-  - title: An evolutionary optimum amid moderate heritability in prokaryotic cell size
-    url: https://www.biorxiv.org/content/10.1101/2023.12.18.571935v1
-    subtitle: <b>Secaira-Morocho H</b>, <b>Chede A</b>, Gonzalez-de-Salceda L, Garcia-Pichel F, <b>Zhu Q</b>
-
   - title: "MIOSTONE: Modeling microbiome-trait associations with taxonomy-adaptive neural networks"
     url: https://www.biorxiv.org/content/10.1101/2023.11.04.565596v1
     subtitle: Jiang Y, <b>Aton M</b>, <b>Zhu Q</b>, Lu YY
@@ -16,6 +12,11 @@ preprints:
     subtitle: Martino C, Kellman BP, Sandoval DR, Clausen TM, Marotz CA, Song SJ, Wandro S, Zaramela LS, Salido RA, <b>Zhu Q</b>, Armingol E, Vázquez-Baeza Y, McDonald D, Sorrentino JT, Taylor B, Belda-Ferre P, Liang C, Zhang Y, Schifanella L, Klatt NR, Havulinna AS, Jousilahti P, Huang S, Haiminen N, Parida L, Kim HC, Swafford AD, Zengler K, Cheng S, Inouye M, Niiranen T, Jain M, Salomaa V, Esko JD, Lewis NE, Knight R
 
 year2024:
+
+  - title: An evolutionary optimum amid moderate heritability in prokaryotic cell size
+    url: https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00596-5
+    subtitle: <b>Secaira-Morocho H</b>, <b>Chede A</b>, Gonzalez-de-Salceda L, Garcia-Pichel F, <b>Zhu Q</b>
+    kicker: Cell Reports
 
   - title: Peripheral Neuronal Activation Shapes the Microbiome and Alters Gut Physiology
     url: https://www.sciencedirect.com/science/article/pii/S221112472400281X
