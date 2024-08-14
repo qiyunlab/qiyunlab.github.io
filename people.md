@@ -114,10 +114,10 @@ undergrad:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/seth-rn/)
 
 alumni:
-
   - title: Zhu Xing
     image_path: assets/images/people/Zhu_Xing.jpg
-    excerpt: > Undergraduate & M.S. student, Spring 2021 - Spring 2024
+    subtitle: B.S. and M.S. student, Spring 2021 - Spring 2024
+    excerpt: >
       Zhu obtained B.S. in Biological Sciences and Global Health, and then M.S. in Microbiology at ASU. She conducted multiple research projects including studies of microbiomes in breast cancer and alzheimer's disease, evaluation of phylogenetic alpha diversity metrics, and prompt engineering for metagenomics. After completing her study at ASU in 2024, she became a Ph.D. student at the University of North Carolina at Chapel Hill.
       <br /><br />
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Zhu288)&nbsp;&nbsp;
@@ -185,6 +185,10 @@ Check out [open positions](join) in our research group!
 ## Principal Investigator
 
 {% include feature_row id="pi" type="left" %}
+
+## Staff
+
+{% include feature_row id="staff" type="left" %}
 
 ## Graduate Students
 
