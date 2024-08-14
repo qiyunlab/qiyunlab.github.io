@@ -14,7 +14,26 @@ pi:
         [<i class='fab fa-twitter-square fa-2x'></i>](https://twitter.com/zhuqiyun/)&nbsp;&nbsp;
         [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/QiyunZhu_CV_Mar2022.pdf)
 
+staff:
+  - title: Matt Aton
+    image_path: assets/images/people/Matt_Aton.jpg
+    excerpt: >
+      I am currently a software engineer in the lab, where I am maintaining and developing the open source Python package scikit-bio. Previously, I worked as an undergraduate researcher in the lab while earning a bachelor's degree in molecular biology with a minor in data science. In my free time I enjoy playing drums and making music, and being out in nature.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:maton@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/mataton)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/mattaton/)
+
 graduate:
+  - title: Naif Ganadily
+    image_path: assets/images/people/Naif_Ganadily.jpg
+    excerpt: >
+    I am starting my first year as a PhD Student in Biomedical Informatics. With an M.S. degree from the University of Washington and industrial experience as an AI Consultant, I specialize in generative AI, NLP, and computer vision. I'm passionate about using health-related data to solve important problems in areas such as healthcare, health policy, and health security. My primary ambition is to ensure that emerging health technologies have a positive and beneficial impact.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](naif.ganadily@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Naif-Ganadily)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/naif-ganadily/)&nbsp;&nbsp;
+      [<i class='fa fa-globe fa-2x'></i>](https://www.naifganadily.com)
   - title: Sai Jahnavi Vemula
     image_path: assets/images/people/Sai_Jahnavi_Vemula.jpg
     excerpt: >
@@ -22,14 +41,6 @@ graduate:
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:svemul28@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/saijahnavivemula/)
-  - title: Zhu Xing
-    image_path: assets/images/people/Zhu_Xing.jpg
-    excerpt: >
-      I am an undergraduate student majoring in Biological Science (Genetics, Cell and Developmental Biology) and Global Health. I am a new member of the Qiyun lab. I am interested to learn about microbiology and bioinformatics. I am still exploring possible future careers with an interest in biomedical science. Currently, I am assisting Daniel with the Cydrasil project.
-      <br /><br />
-      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:zxing16@asu.edu)&nbsp;&nbsp;
-      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Zhu288)&nbsp;&nbsp;
-      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/zhu-xing-a734661b5/)
   - title: Henry Secaira Morocho
     image_path: assets/images/people/Henry_Secaira.jpg
     excerpt: >
@@ -101,16 +112,16 @@ undergrad:
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:sricenul@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/sethrn)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/seth-rn/)
-  - title: Matt Aton
-    image_path: assets/images/people/Matt_Aton.jpg
-    excerpt: >
-      I am an undergraduate student majoring in Molecular Biosciences and Biotechnology and minoring in Data Science. I am interested in developing my bioinformatics skillset specifically with regards to software development, statistical analysis, and machine learning. My future is wide open, and I am currently working on a project involving feature engineering for machine learning applied to microbiome datasets.
-      <br /><br />
-      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:maton@asu.edu)&nbsp;&nbsp;
-      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/mataton)&nbsp;&nbsp;
-      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/mattaton/)
 
 alumni:
+
+  - title: Zhu Xing
+    image_path: assets/images/people/Zhu_Xing.jpg
+    excerpt: > Undergraduate & M.S. student, Spring 2021 - Spring 2024
+      Zhu obtained B.S. in Biological Sciences and Global Health, and then M.S. in Microbiology at ASU. She conducted multiple research projects including studies of microbiomes in breast cancer and alzheimer's disease, evaluation of phylogenetic alpha diversity metrics, and prompt engineering for metagenomics. After completing her study at ASU in 2024, she became a Ph.D. student at the University of North Carolina at Chapel Hill.
+      <br /><br />
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Zhu288)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/zhu-xing-a734661b5/)
   - title: Daniel Roush
     image_path: assets/images/people/Daniel_Roush.jpg
     subtitle: Postdoc, Fall 2020 - Fall 2022
