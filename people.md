@@ -28,7 +28,7 @@ graduate:
   - title: Naif Ganadily
     image_path: assets/images/people/Naif_Ganadily.jpg
     excerpt: >
-    I am starting my first year as a PhD Student in Biomedical Informatics. With an M.S. degree from the University of Washington and industrial experience as an AI Consultant, I specialize in generative AI, NLP, and computer vision. I'm passionate about using health-related data to solve important problems in areas such as healthcare, health policy, and health security. My primary ambition is to ensure that emerging health technologies have a positive and beneficial impact.
+      I am starting my first year as a PhD Student in Biomedical Informatics. With an M.S. degree from the University of Washington and industrial experience as an AI Consultant, I specialize in generative AI, NLP, and computer vision. I'm passionate about using health-related data to solve important problems in areas such as healthcare, health policy, and health security. My primary ambition is to ensure that emerging health technologies have a positive and beneficial impact.
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](naif.ganadily@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Naif-Ganadily)&nbsp;&nbsp;
