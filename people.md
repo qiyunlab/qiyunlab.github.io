@@ -34,6 +34,15 @@ graduate:
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Naif-Ganadily)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/naif-ganadily/)&nbsp;&nbsp;
       [<i class='fa fa-globe fa-2x'></i>](https://www.naifganadily.com)
+  - title: Andy Marinelarena
+    image_path: assets/images/people/Andy_Marinelarena.jpg
+    excerpt: >
+      I joined Qiyun Lab summer 2024. I graduated from California State university San Marcos with a degree in Biological Sciences (Molecular and Cell). I am currently pursuing a Masters of Science in Computational life Sciences. I am interested in implementing and developing multi-omic methods to further characterize human health, disease and  microbial ecology.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:damarin3@asu.edu)&nbsp;&nbsp;
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:amarine9331@gmail.com)&nbsp;&nbsp;
+      [<i class='fab fa-twitter-square fa-2x'></i>](https://twitter.com/Amarine9331)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Amarine9331)
   - title: Sai Jahnavi Vemula
     image_path: assets/images/people/Sai_Jahnavi_Vemula.jpg
     excerpt: >
