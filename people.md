@@ -60,6 +60,22 @@ graduate:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)
 
 undergrad:
+  - title: Anton Sazonov
+    image_path: assets/images/people/Anton_Sazonov.jpg
+    excerpt: >
+      I am an undergraduate student pursuing a degree in Computer Science with a minor in Mathematics. I have a passion for machine learning & deep learning, and in particular I’m interested in tackling optimization problems. Within the Qiyun Lab, I’m researching ways to improve efficiency of the protein language models used in scikit-bio.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:asazono1@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/anton-sazonov-60789a252/)
+  - title: Rudresh Bhandari
+    image_path: assets/images/people/Rudresh_Bhandari.jpg
+    excerpt: >
+      I am an undergraduate Computer Science student at ASU with a strong passion for machine learning and software development. My experiences include developing cross-platform mobile applications, refining machine learning models, and creating innovative projects at hackathons. I am driven by a desire to create software that helps communities and makes a meaningful impact. In my free time, I enjoy reading, playing basketball, and am a proud 49ers fan.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:rbhanda8@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/likeMike001)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/rudresh-bhandari-0817481aa/)&nbsp;&nbsp;
+      [<i class='fa fa-globe fa-2x'></i>](https://likemike001.github.io/mike-port/)
   - title: Raeed Azom
     image_path: assets/images/people/Raeed_Azom.jpg
     excerpt: >
@@ -99,13 +115,6 @@ undergrad:
       [<i class='fa fa-envelope-square fa-2x'></i>](mailto:ctapo@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/christapo)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/chris-tapo-2a08a42b2/)
-  - title: Hibah Usmani
-    image_path: assets/images/people/Hibah_Usmani.jpg
-    excerpt: >
-      I am an undergraduate student studying Mathematics and pursuing a certificate in Computational Life Sciences. As a part of this lab, I hope to expand my knowledge on bioinformatics and apply it to my honors thesis. This thesis is related to the evolution of halogenases in cyanobacteria with Dr. Brett Neilan from the University of Newcastle.
-      <br /><br />
-      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:husmani@asu.edu)&nbsp;&nbsp;
-      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/hibah-usmani/)
   - title: Ruhie Bakshi
     image_path: assets/images/people/Ruhie_Bakshi.jpg
     excerpt: >
@@ -123,6 +132,13 @@ undergrad:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/seth-rn/)
 
 alumni:
+  - title: Hibah Usmani
+    image_path: assets/images/people/Hibah_Usmani.jpg
+    subtitle: B.S. student, Summer 2023 - Spring 2024
+    excerpt: >
+      Hibah got a B.S. in Mathematics and a certificate in Computational Life Sciences. Co-advised by Dr. Brett Neilan from the University of Newcastle, she studied the diversity and function of halogenases in cyanobacteria. After graduation, she continued to pursue an M.S. degree in Statistics at ASU.
+      <br /><br />
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/hibah-usmani/)
   - title: Zhu Xing
     image_path: assets/images/people/Zhu_Xing.jpg
     subtitle: B.S. and M.S. student, Spring 2021 - Spring 2024
