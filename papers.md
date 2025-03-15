@@ -3,20 +3,53 @@ title: Papers
 
 preprints:
 
-  - title: "MIOSTONE: Modeling microbiome-trait associations with taxonomy-adaptive neural networks"
-    url: https://www.biorxiv.org/content/10.1101/2023.11.04.565596v1
+  - title: Modeling microbiome-trait associations with taxonomy-adaptive neural networks
+    url: https://www.biorxiv.org/content/10.1101/2023.11.04.565596v4.full
     subtitle: Jiang Y, <b>Aton M</b>, <b>Zhu Q</b>, Lu YY
 
-  - title: Bacterial modification of the host glycosaminoglycan heparan sulfate modulates SARS-CoV-2 infectivity
-    url: https://www.biorxiv.org/content/10.1101/2020.08.17.238444v1
-    subtitle: Martino C, Kellman BP, Sandoval DR, Clausen TM, Marotz CA, Song SJ, Wandro S, Zaramela LS, Salido RA, <b>Zhu Q</b>, Armingol E, Vázquez-Baeza Y, McDonald D, Sorrentino JT, Taylor B, Belda-Ferre P, Liang C, Zhang Y, Schifanella L, Klatt NR, Havulinna AS, Jousilahti P, Huang S, Haiminen N, Parida L, Kim HC, Swafford AD, Zengler K, Cheng S, Inouye M, Niiranen T, Jain M, Salomaa V, Esko JD, Lewis NE, Knight R
+year2025:
+
+  - title: Identification of diverse bacteriophages associated with bees and hoverflies
+    url: https://www.mdpi.com/1999-4915/17/2/201
+    subtitle: Bandoo RA, Kraberger S, Ozturk C, Lund MC, <b>Zhu Q</b>, Cook C, Smith B, Varsani A
+    kicker: Viruses
+
+  - title: SARS-CoV-2 infectivity can be modulated through bacterial grooming of the glycocalyx
+    url: https://journals.asm.org/doi/10.1128/mbio.04015-24
+    subtitle: Martino C, Kellman BP, Sandoval DR, Clausen TM, Cooper R, Benjdia A, Soualmia F, Clark AE, Garretson AF, Marotz CA, Song SJ, Wandro S, Zaramela LS, Salido RA, <b>Zhu Q</b>, Armingol E, Vázquez-Baeza Y, McDonald D, Sorrentino JT, Taylor B, Belda-Ferre P, Das P, Ali F, Liang C, Zhang Y, Schifanella L, Covizzi A, Lai A, Riva A, Basting C, Broedlow CA, Havulinna AS, Jousilahti P, Estaki M, Kosciolek T, Kuplicki R, Victor TA, Paulus MP, Savage KE, Benbow JL, Spielfogel ES, Anderson CAM, Martinez ME, Lacey Jr JV, Huang S, Haiminen N, Parida L, Kim HC, Gilbert JA, Sweeney DA, Allard SM, Swafford AD, Cheng S, Inouye M, Niiranen T, Jain M, Salomaa V, Zengler K, Klatt NR, Hasty J, Berteau O, Carlin AF, Esko JD, Lewis NE, Knight R
+    kicker: mBio
+
+  - title: PhyloMix: Enhancing microbiome-trait association prediction through phylogeny-mixing augmentation
+    url: https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf014/7952016
+    subtitle: Jiang Y, Liao D, <b>Zhu Q</b>, Lu YY
+    kicker: Bioinformatics
 
 year2024:
+
+  - title: The prevalence of motility related genes within the human oral microbiota
+    url: https://journals.asm.org/doi/10.1128/spectrum.01264-24
+    subtitle: Rocha ST, Shah DD, <b>Zhu Q</b>, Shrivastava A
+    kicker: Microbiology Spectrum
+
+  - title: Diverse microviruses circulating in invertebrates within a lake ecosystem
+    url: https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.002049
+    subtitle: Lund MC, Hopkins A, Dayaram A, Galatowitsch ML, Stainton D, Harding JS, Lefeuvre P, <b>Zhu Q</b>, Kraberger S, Varsani A
+    kicker: Journal of General Virology
+
+  - title: The dichotomous roles of microbial modified bile acids, 7-oxo-DCA and isoDCA in intestinal tumorigenesis
+    url: https://www.pnas.org/doi/10.1073/pnas.2317596121
+    subtitle: Dong X, Sun F, <b>Secaira-Morocho H</b>, Hui A, Wang K, Cai C, Udgata S, Low B, Wei S, Chen X, Pasch CA, Xu W, Jiang J, <b>Zhu Q</b>, Huan T, Deming DA, Fu T
+    kicker: Proceedings of the National Academy of Sciences
 
   - title: An evolutionary optimum amid moderate heritability in prokaryotic cell size
     url: https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00596-5
     subtitle: <b>Secaira-Morocho H</b>, <b>Chede A</b>, Gonzalez-de-Salceda L, Garcia-Pichel F, <b>Zhu Q</b>
     kicker: Cell Reports
+
+  - title: House dust metagenome and pulmonary function in a U.S. farming population
+    url: https://link.springer.com/article/10.1186/s40168-024-01823-y
+    subtitle: Lee M, Kaul A, Ward JM, <b>Zhu Q</b>, Richards M, Wang Z, González A, Parks CG, Beane Freeman LE, Umbach DM, Motsinger-Reif AA, Knight R, London SJ
+    kicker: Microbiome
 
   - title: Peripheral Neuronal Activation Shapes the Microbiome and Alters Gut Physiology
     url: https://www.sciencedirect.com/science/article/pii/S221112472400281X
@@ -39,6 +72,16 @@ year2024:
     excerpt: Featured in [Decomposer communities are universal in death](https://www.nature.com/articles/s41564-023-01576-8) by Strickland MS and Lynch L
     kicker: Nature Microbiology (cover paper)
 
+  - title: Generation of accurate, expandable phylogenomic trees with uDANCE
+    url: https://www.nature.com/articles/s41587-023-01868-8
+    subtitle: Balaban M, Jiang Y, <b>Zhu Q</b>, McDonald D, Knight R, Mirarab S
+    kicker: Nature Biotechnology
+
+  - title: Greengenes2 unifies microbial data in a single reference tree
+    url: https://www.nature.com/articles/s41587-023-01845-1
+    subtitle: McDonald D, Jiang Y, Balaban M, Cantrell K, <b>Zhu Q</b>, Gonzalez A, Morton JT, Nicolaou G, Parks DH, Karst SM, Albertsen M, Hugenholtz P, DeSantis T, Song SJ, Bartko A, Havulinna AS, Jousilahti P, Cheng S, Inouye M, Niiranen T, Jain M, Salomaa V, Lahti L, Mirarab S, Knight R
+    kicker: Nature Biotechnology
+
 year2023:
 
   - title: Paired microbiome and metabolome analyses associate bile acid changes with colorectal cancer progression
@@ -50,16 +93,6 @@ year2023:
     url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01625-8
     subtitle: Pavia MJ, <b>Chede A</b>, Wu Z, Cadillo-Quiroz H, <b>Zhu Q</b>
     kicker: Microbiome
-
-  - title: Generation of accurate, expandable phylogenomic trees with uDANCE
-    url: https://www.nature.com/articles/s41587-023-01868-8
-    subtitle: Balaban M, Jiang Y, <b>Zhu Q</b>, McDonald D, Knight R, Mirarab S
-    kicker: Nature Biotechnology
-
-  - title: Greengenes2 unifies microbial data in a single reference tree
-    url: https://www.nature.com/articles/s41587-023-01845-1
-    subtitle: McDonald D, Jiang Y, Balaban M, Cantrell K, <b>Zhu Q</b>, Gonzalez A, Morton JT, Nicolaou G, Parks DH, Karst SM, Albertsen M, Hugenholtz P, DeSantis T, Song SJ, Bartko A, Havulinna AS, Jousilahti P, Cheng S, Inouye M, Niiranen T, Jain M, Salomaa V, Lahti L, Mirarab S, Knight R
-    kicker: Nature Biotechnology
 
   - title: Metagenomics reveals novel microbial signatures of farm exposures in house dust
     url: https://www.frontiersin.org/articles/10.3389/fmicb.2023.1202194/full
@@ -435,6 +468,12 @@ Find our papers at <i class='ai ai-google-scholar ai-lg'></i> [Google Scholar](h
 
 <div class="paper-list">
   {% include feature_row id="preprints" %}
+</div>
+
+## 2025
+
+<div class="paper-list">
+  {% include feature_row id="year2025" %}
 </div>
 
 ## 2024

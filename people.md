@@ -12,7 +12,7 @@ pi:
         [<i class='fab fa-github-square fa-2x'></i>](https://github.com/qiyunzhu/)&nbsp;&nbsp;
         [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/qiyunzhu/)&nbsp;&nbsp;
         [<i class='fab fa-twitter-square fa-2x'></i>](https://twitter.com/zhuqiyun/)&nbsp;&nbsp;
-        [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/QiyunZhu_CV_Mar2022.pdf)
+        [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/QiyunZhu_CV_Mar2025.pdf)
 
 staff:
   - title: Matt Aton
