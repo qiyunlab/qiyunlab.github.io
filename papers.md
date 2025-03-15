@@ -19,7 +19,7 @@ year2025:
     subtitle: Martino C, Kellman BP, Sandoval DR, Clausen TM, Cooper R, Benjdia A, Soualmia F, Clark AE, Garretson AF, Marotz CA, Song SJ, Wandro S, Zaramela LS, Salido RA, <b>Zhu Q</b>, Armingol E, Vázquez-Baeza Y, McDonald D, Sorrentino JT, Taylor B, Belda-Ferre P, Das P, Ali F, Liang C, Zhang Y, Schifanella L, Covizzi A, Lai A, Riva A, Basting C, Broedlow CA, Havulinna AS, Jousilahti P, Estaki M, Kosciolek T, Kuplicki R, Victor TA, Paulus MP, Savage KE, Benbow JL, Spielfogel ES, Anderson CAM, Martinez ME, Lacey Jr JV, Huang S, Haiminen N, Parida L, Kim HC, Gilbert JA, Sweeney DA, Allard SM, Swafford AD, Cheng S, Inouye M, Niiranen T, Jain M, Salomaa V, Zengler K, Klatt NR, Hasty J, Berteau O, Carlin AF, Esko JD, Lewis NE, Knight R
     kicker: mBio
 
-  - title: PhyloMix: Enhancing microbiome-trait association prediction through phylogeny-mixing augmentation
+  - title: "PhyloMix: Enhancing microbiome-trait association prediction through phylogeny-mixing augmentation"
     url: https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf014/7952016
     subtitle: Jiang Y, Liao D, <b>Zhu Q</b>, Lu YY
     kicker: Bioinformatics
