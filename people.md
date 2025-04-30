@@ -131,6 +131,16 @@ undergrad:
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/sethrn)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/seth-rn/)
 
+visitor:
+  - title: Muhammad Atif Nisar
+    image_path: assets/images/people/Muhammad_Atif_Nisar.jpg
+    excerpt: >
+      I did my PhD under the supervision of Professor Harriet Whiley from Flinders University, Australia. My PhD research work focused on Legionella pneumophila and free-living amoebae in engineered water systems. At Arizona State University, my research focuses on microbiology and environmental health.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:mnisar12@asu.edu)&nbsp;&nbsp;
+      [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=xt_nwf0AAAAJ)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/muhammad-atif-nisar-348012222/)
+
 alumni:
   - title: Hibah Usmani
     image_path: assets/images/people/Hibah_Usmani.jpg
@@ -222,6 +232,10 @@ Check out [open positions](join) in our research group!
 ## Undergraduate students
 
 {% include feature_row id="undergrad" type="left" %}
+
+## Visiting scholars
+
+{% include feature_row id="visitor" type="left" %}
 
 ## Alumni
 
