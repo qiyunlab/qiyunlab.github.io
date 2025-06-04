@@ -3,11 +3,16 @@ title: Papers
 
 preprints:
 
-  - title: Modeling microbiome-trait associations with taxonomy-adaptive neural networks
-    url: https://www.biorxiv.org/content/10.1101/2023.11.04.565596v4.full
-    subtitle: Jiang Y, <b>Aton M</b>, <b>Zhu Q</b>, Lu YY
+  - title: Augmenting microbial phylogenomic signal with tailored marker gene sets
+    url: https://www.biorxiv.org/content/10.1101/2025.03.13.643052v1
+    subtitle: <b>Secaira-Morocho H</b>, Jiang X, <b>Zhu Q</b>
 
 year2025:
+
+  - title: Modeling microbiome-trait associations with taxonomy-adaptive neural networks
+    url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02080-3
+    subtitle: Jiang Y, <b>Aton M</b>, <b>Zhu Q</b>, Lu YY
+    kicker: Microbiome
 
   - title: Identification of diverse bacteriophages associated with bees and hoverflies
     url: https://www.mdpi.com/1999-4915/17/2/201
@@ -20,7 +25,7 @@ year2025:
     kicker: mBio
 
   - title: "PhyloMix: Enhancing microbiome-trait association prediction through phylogeny-mixing augmentation"
-    url: https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf014/7952016
+    url: https://academic.oup.com/bioinformatics/article/41/2/btaf014/7952016
     subtitle: Jiang Y, Liao D, <b>Zhu Q</b>, Lu YY
     kicker: Bioinformatics
 
@@ -449,6 +454,11 @@ year2017-n-before:
     kicker: 2007, Immunological Investigations
 
 book-chapters:
+
+  - title: Pipelines and Databases -- Microbiome Analysis
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/9781683674597.ch22
+    subtitle: Sanders J, Lin H, <b>Zhu Q</b>, Morton JT
+    kicker: 2022, <i>Manual of Molecular Microbiology&#58; Fundamentals and Applications</i>. Ed. Hayden RT, et al. pp. 296-313. John Wiley & Sons, Hoboken, NJ
 
   - title: Assembling a Reference Phylogenomic Tree of Bacteria and Archaea by Summarizing Many Gene Phylogenies
     url: https://link.springer.com/protocol/10.1007/978-1-0716-2691-7_7

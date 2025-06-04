@@ -3,8 +3,15 @@ title: Photos of the Lab
 ---
 
 <figure style="float: left; width: 600px; margin: 10px;">
-  <a href="assets/images/photos/Party_2024.jpg">
-    <img src="assets/images/photos/Party_2024.jpg" alt="Party 2024">
+  <a href="assets/images/photos/Party_2024_winter.jpg">
+    <img src="assets/images/photos/Party_2024_winter.jpg" alt="Party 2024 winter">
+  </a>
+  <figcaption>Lab party at Gangnam Sushi & Grill (Dec 2024) </figcaption>
+</figure>
+
+<figure style="float: left; width: 600px; margin: 10px;">
+  <a href="assets/images/photos/Party_2024_summer.jpg">
+    <img src="assets/images/photos/Party_2024_summer.jpg" alt="Party 2024 summer">
   </a>
   <figcaption>Lab party at Kungfu Kitchen (Apr 2024) </figcaption>
 </figure>
