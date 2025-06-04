@@ -15,6 +15,13 @@ pi:
         [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/QiyunZhu_CV_Mar2025.pdf)
 
 staff:
+  - title: Zijun Wu
+    image_path: assets/images/people/Zijun_Wu.jpg
+    excerpt: >
+      I joined Qiyun Lab as a research assistant and will continue as a postdoc from Summer 2025. Previously, I completed BS and MS from UC San Diego. I am currently pursuing a PhD at the Georgia Institute of Technology, focusing on deep learning algorithms and statistical methods on gene regulatory network construction. I aim to survive under the existential pressure of being replaced by AI, and therefore, commit to improve the applicability and interpretability of computational models in biological data.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:zijunwu3@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/iiiime)
   - title: Matt Aton
     image_path: assets/images/people/Matt_Aton.jpg
     excerpt: >
