@@ -32,6 +32,13 @@ staff:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/mattaton/)
 
 graduate:
+  - title: Yongjiang Xu
+    image_path: assets/images/people/Naif_Ganadily.jpg
+    excerpt: >
+      I joined Qiyun Lab in Fall 2025 as a first-year Ph.D. student in Environmental Life Sciences. Both my undergraduate and master’s degrees are in Environmental Engineering. My research focuses on developing methods to analyze large environmental datasets, aiming to uncover patterns that advance academic understanding. Earth’s environment and biology offer abundant data, and in the era of AI, it is important to consider how we can work alongside AI and continue contributing human insight and wisdom.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](YongjiangXu@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Xu-Yongjiang)
   - title: Naif Ganadily
     image_path: assets/images/people/Naif_Ganadily.jpg
     excerpt: >
