@@ -67,6 +67,13 @@ graduate:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/henry-secaira-morocho-7a080a146)
 
 undergrad:
+  - title: Jenna Chiaramonte
+    image_path: assets/images/people/Jenna_Chiaramonte.jpg
+    excerpt: >
+      I am an undergraduate studying Data Science with a focus on Computer Science and Artificial Intelligence. I'm especially passionate about natural language processing, neural networks, and large language models, and I'm excited about applying these technologies across domains to create innovative and efficient solutions. Outside of academics, I enjoy learning languages and ballet.
+      <br /><br />
+      [<i class='fa fa-envelope-square fa-2x'></i>](mailto:jlchiara@asu.edu)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/jenna-chiaramonte-074202292)
   - title: Renee Cardoza Leon
     image_path: assets/images/people/Renee_Cardoza_Leon.jpg
     excerpt: >
