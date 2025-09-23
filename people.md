@@ -6,14 +6,12 @@ pi:
     excerpt: >
         This is Qiyun (pronounced as "chee-yeun"), an Assistant Professor at the School of Life Sciences, Arizona State University, since August 2020. Prior to this appointment, I completed postdoctoral training at UC San Diego with Dr. Rob Knight. My academic background is multidisciplinary, with research experience and interest in bioinformatics, phylogenetics, microbiology, comparative genomics and molecular biology. I study both computational and biological questions, and strive to expand understanding of the microbial world through its multiple levels: genes, genomes, lineages, communities, hosts, and environments.
         <br /><br />
-        [<i class='fa fa-envelope-square fa-2x'></i>](mailto:Qiyun.Zhu@asu.edu)&nbsp;|&nbsp;
+        [<i class='fa fa-envelope-square fa-2x'></i>](mailto:Qiyun.Zhu@asu.edu)&nbsp;&nbsp;
         [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=mjkV0pUAAAAJ)&nbsp;&nbsp;
-        [<i class='ai ai-clarivate-square ai-2x'></i>](https://www.webofscience.com/wos/author/record/ABH-8959-2020)&nbsp;&nbsp;
-        [<i class='ai ai-orcid-square ai-2x'></i>](http://orcid.org/0000-0003-0490-1175)&nbsp;|&nbsp;
+        [<i class='ai ai-orcid-square ai-2x'></i>](http://orcid.org/0000-0003-0490-1175)&nbsp;&nbsp;
         [<i class='fab fa-github-square fa-2x'></i>](https://github.com/qiyunzhu/)&nbsp;&nbsp;
         [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/qiyunzhu/)&nbsp;&nbsp;
         [<i class='fab fa-twitter-square fa-2x'></i>](https://twitter.com/zhuqiyun/)&nbsp;&nbsp;
-        [<i class='fa-brands fa-square-bluesky fa-2x'></i>](https://bsky.app/profile/zhuqiyun.bsky.social)&nbsp;|&nbsp;
         [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/QiyunZhu_CV_Sep2025.pdf)
 
 staff:
