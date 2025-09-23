@@ -9,6 +9,16 @@ preprints:
 
 year2025:
 
+  - title: The Microbial Bile Acid Metabolite 3-oxo-LCA Inhibits Colorectal Cancer Progression
+    url: https://aacrjournals.org/cancerres/article-abstract/doi/10.1158/0008-5472.CAN-24-3898/765328/The-Microbial-Bile-Acid-Metabolite-3-oxo-LCA
+    subtitle: Sun F, Wang K, Dong X, <b>Secaira-Morocho H</b>, Hui A, Cai C, Sze JJ, Low B, Udgata S, Pasch CA, Huan T, Deming DA, <b>Zhu Q</b>, Jiang J, Fu T
+    kicker: Cancer Research
+
+  - title: Diurnal Characterization of Metatranscriptomics Yields Bacterial Transgenes with Pronounced Metabolic Effects
+    url: https://www.cell.com/cell-host-microbe/abstract/S1931-3128(25)00207-0
+    subtitle: Flores-Ramos S, Siguenza N, Zhong W, Mohanty I, Lingaraju A, Richter RA, Karthikeyan S, Lukowski AL, <b>Zhu Q</b>, Nunes WDG, Zemlin J, Xu ZZ, Hasty J, Dorrestein PC, Panda S, Knight R, Zarrinpar A
+    kicker: Cell Host & Microbe
+
   - title: Modeling microbiome-trait associations with taxonomy-adaptive neural networks
     url: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02080-3
     subtitle: Jiang Y, <b>Aton M</b>, <b>Zhu Q</b>, Lu YY
