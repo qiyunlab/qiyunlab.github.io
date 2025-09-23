@@ -6,13 +6,15 @@ pi:
     excerpt: >
         This is Qiyun (pronounced as "chee-yeun"), an Assistant Professor at the School of Life Sciences, Arizona State University, since August 2020. Prior to this appointment, I completed postdoctoral training at UC San Diego with Dr. Rob Knight. My academic background is multidisciplinary, with research experience and interest in bioinformatics, phylogenetics, microbiology, comparative genomics and molecular biology. I study both computational and biological questions, and strive to expand understanding of the microbial world through its multiple levels: genes, genomes, lineages, communities, hosts, and environments.
         <br /><br />
-        [<i class='fa fa-envelope-square fa-2x'></i>](mailto:Qiyun.Zhu@asu.edu)&nbsp;&nbsp;
+        [<i class='fa fa-envelope-square fa-2x'></i>](mailto:Qiyun.Zhu@asu.edu)&nbsp;|&nbsp;
         [<i class='ai ai-google-scholar-square ai-2x'></i>](https://scholar.google.com/citations?user=mjkV0pUAAAAJ)&nbsp;&nbsp;
-        [<i class='ai ai-orcid-square ai-2x'></i>](http://orcid.org/0000-0003-0490-1175)&nbsp;&nbsp;
+        [<i class='ai ai-clarivate-square ai-2x'></i>](https://www.webofscience.com/wos/author/record/ABH-8959-2020)&nbsp;&nbsp;
+        [<i class='ai ai-orcid-square ai-2x'></i>](http://orcid.org/0000-0003-0490-1175)&nbsp;|&nbsp;
         [<i class='fab fa-github-square fa-2x'></i>](https://github.com/qiyunzhu/)&nbsp;&nbsp;
         [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/qiyunzhu/)&nbsp;&nbsp;
         [<i class='fab fa-twitter-square fa-2x'></i>](https://twitter.com/zhuqiyun/)&nbsp;&nbsp;
-        [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/QiyunZhu_CV_Mar2025.pdf)
+        [<i class='fa-brands fa-square-bluesky fa-2x'></i>](https://bsky.app/profile/zhuqiyun.bsky.social)&nbsp;|&nbsp;
+        [<i class='ai ai-cv-square ai-2x'></i>](assets/files/people/QiyunZhu_CV_Sep2025.pdf)
 
 staff:
   - title: Zijun Wu
@@ -39,15 +41,6 @@ graduate:
       <br /><br />
       [<i class='fa fa-envelope-square fa-2x'></i>](YongjiangXu@asu.edu)&nbsp;&nbsp;
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Xu-Yongjiang)
-  - title: Naif Ganadily
-    image_path: assets/images/people/Naif_Ganadily.jpg
-    excerpt: >
-      I am starting my first year as a PhD Student in Biomedical Informatics. With an M.S. degree from the University of Washington and industrial experience as an AI Consultant, I specialize in generative AI, NLP, and computer vision. I'm passionate about using health-related data to solve important problems in areas such as healthcare, health policy, and health security. My primary ambition is to ensure that emerging health technologies have a positive and beneficial impact.
-      <br /><br />
-      [<i class='fa fa-envelope-square fa-2x'></i>](naif.ganadily@asu.edu)&nbsp;&nbsp;
-      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Naif-Ganadily)&nbsp;&nbsp;
-      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/naif-ganadily/)&nbsp;&nbsp;
-      [<i class='fa fa-globe fa-2x'></i>](https://www.naifganadily.com)
   - title: Andy Marinelarena
     image_path: assets/images/people/Andy_Marinelarena.jpg
     excerpt: >
@@ -140,6 +133,14 @@ visitor:
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/muhammad-atif-nisar-348012222/)
 
 alumni:
+  - title: Naif Ganadily
+    image_path: assets/images/alumni/Naif_Ganadily.jpg
+    subtitle: Fall 2024 - Summer 2025
+    excerpt: >
+      Naif is a PhD student in Biomedical Informatics. He had an M.S. degree from the University of Washington and industrial experience as an AI Consultant, He specializes in generative AI, NLP, and computer vision. He is passionate about using health-related data to solve important problems in areas such as healthcare, health policy, and health security.
+      <br /><br />
+      [<i class='fab fa-github-square fa-2x'></i>](https://github.com/Naif-Ganadily)&nbsp;&nbsp;
+      [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/naif-ganadily/)
   - title: Raeed Azom
     image_path: assets/images/alumni/Raeed_Azom.jpg
     subtitle: Summer 2024 - Spring 2025
@@ -152,7 +153,7 @@ alumni:
     image_path: assets/images/alumni/Chris_Tapo.jpg
     subtitle: Spring - Fall 2024
     excerpt: >
-      Chris was an undergraduate student majoring in Mathematics. He had a strong passion for combinatorics and algebra, and their applications in bioinformatics. He contributed to the tree module of scikit-bio, focusing on the minimum evolution algorithms for phylogenetic inference. After graduating, Chris continued his academic journey in the Mathematics M.S. program at the University of Akron.
+      Chris was an undergraduate student majoring in Mathematics. He had a strong passion for combinatorics and algebra, and their applications in bioinformatics. He contributed to the tree module of scikit-bio, focusing on the minimum evolution algorithms for phylogenetic inference. After graduation, Chris continued his academic journey in the Mathematics M.S. program at the University of Akron.
       <br /><br />
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/christapo)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/chris-tapo-2a08a42b2/)
@@ -160,7 +161,7 @@ alumni:
     image_path: assets/images/alumni/Ruhie_Bakshi.jpg
     subtitle: Spring - Fall 2024
     excerpt: >
-      Ruhie was an undergraduate student, pursuing degrees in Molecular Biosciences and Biotechnology, as well as Data Science. Using a combination of experimental and computational approaches, she contributed to a study on bacterial therapies for colorectal cancer.
+      Ruhie was an undergraduate student, studying Molecular Biosciences and Biotechnology, as well as Data Science. She contributed to a study on bacterial therapies for colorectal cancer using a combination of experimental and computational approaches. After graduation, Ruhie became a clinical researcher at Castle Biosciences.
       <br /><br />
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/ruhie-bakshi-10a16020a/)&nbsp;&nbsp;
       [<i class='fa fa-graduation-cap fa-2x'></i>](https://keep.lib.asu.edu/items/199797/)
@@ -175,7 +176,7 @@ alumni:
     image_path: assets/images/alumni/Seth_Rice_Nulty.jpg
     subtitle: Spring 2023 - Spring 2024
     excerpt: >
-      Seth was an undergraduate student pursuing Neuroscience and Computer Science degrees. He was interested in the complex role of the microbiome-gut-brain axis in brain functions and neurodegenerative diseases. He contributed to a machine learning framework for feature engineering to enhance metagenomic data analysis.
+      Seth was an undergraduate student pursuing Neuroscience and Computer Science degrees. He was interested in the complex role of the microbiome-gut-brain axis in brain functions and neurodegenerative diseases. He contributed to a machine learning framework for feature engineering to enhance metagenomic data analysis. He joined Blue Yonder as a software engineer after graduation.
       <br /><br />
       [<i class='fab fa-github-square fa-2x'></i>](https://github.com/sethrn)&nbsp;&nbsp;
       [<i class='fab fa-linkedin fa-2x'></i>](https://www.linkedin.com/in/seth-rn/)&nbsp;&nbsp;
