@@ -9,12 +9,22 @@ preprints:
 
 year2025:
 
+  - title: CaDAVEr: a metagenome-assembled genome catalog of microbial decomposers across vertebrate environments
+    url: https://journals.asm.org/doi/10.1128/mra.01323-24
+    subtitle: Seitz VA, McGivern BB, Shaffer M, Borton MA, Belk AD, Ghadermazi P, Martino C, Shenhav L, Zhang AR, Shi P, Emmons A, Deel H, Xu ZZ, Nieciecki V, <b>Zhu Q</b>, Cantrell K, Ben-Hur A, Reed SC, Humphry GC, Ackermann G, McDonald D, Joshua Chan SH, Connor M, Boyd DA, Smith J, Watson JMS, Vidoli G, Steadman D, Lynne AM, Bucheli S, Carter DO, Burcham ZM, Knight R, Wrighton KC, Metcalf JL
+    kicker: Microbiology Resource Announcements
+
+  - title: Associations between relative abundances of <i>Bifidobacterium</i> species in the gut and DNA methylation of cortisol-related genes in a pediatric population
+    url: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1558809/full
+    subtitle: Harker SA, Bonham KS, McCann SH, Volpe AR, <b>Zhu Q</b>, D'Sa V, Koinis-Mitchell D, Deoni SCL, Klepac-Ceraj V, Lewis CR.
+    kicker: Frontiers in Microbiology
+
   - title: The Microbial Bile Acid Metabolite 3-oxo-LCA Inhibits Colorectal Cancer Progression
     url: https://aacrjournals.org/cancerres/article-abstract/doi/10.1158/0008-5472.CAN-24-3898/765328/The-Microbial-Bile-Acid-Metabolite-3-oxo-LCA
     subtitle: Sun F, Wang K, Dong X, <b>Secaira-Morocho H</b>, Hui A, Cai C, Sze JJ, Low B, Udgata S, Pasch CA, Huan T, Deming DA, <b>Zhu Q</b>, Jiang J, Fu T
     kicker: Cancer Research
 
-  - title: Diurnal Characterization of Metatranscriptomics Yields Bacterial Transgenes with Pronounced Metabolic Effects
+  - title: Metatranscriptomics uncovers diurnal functional shifts in bacterial transgenes with profound metabolic effects
     url: https://www.cell.com/cell-host-microbe/abstract/S1931-3128(25)00207-0
     subtitle: Flores-Ramos S, Siguenza N, Zhong W, Mohanty I, Lingaraju A, Richter RA, Karthikeyan S, Lukowski AL, <b>Zhu Q</b>, Nunes WDG, Zemlin J, Xu ZZ, Hasty J, Dorrestein PC, Panda S, Knight R, Zarrinpar A
     kicker: Cell Host & Microbe
