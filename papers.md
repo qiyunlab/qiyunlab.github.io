@@ -9,7 +9,7 @@ preprints:
 
 year2025:
 
-  - title: CaDAVEr: a metagenome-assembled genome catalog of microbial decomposers across vertebrate environments
+  - title: "CaDAVEr: a metagenome-assembled genome catalog of microbial decomposers across vertebrate environments"
     url: https://journals.asm.org/doi/10.1128/mra.01323-24
     subtitle: Seitz VA, McGivern BB, Shaffer M, Borton MA, Belk AD, Ghadermazi P, Martino C, Shenhav L, Zhang AR, Shi P, Emmons A, Deel H, Xu ZZ, Nieciecki V, <b>Zhu Q</b>, Cantrell K, Ben-Hur A, Reed SC, Humphry GC, Ackermann G, McDonald D, Joshua Chan SH, Connor M, Boyd DA, Smith J, Watson JMS, Vidoli G, Steadman D, Lynne AM, Bucheli S, Carter DO, Burcham ZM, Knight R, Wrighton KC, Metcalf JL
     kicker: Microbiology Resource Announcements
