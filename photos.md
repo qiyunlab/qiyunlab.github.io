@@ -3,6 +3,13 @@ title: Photos of the Lab
 ---
 
 <figure style="float: left; width: 600px; margin: 10px;">
+  <a href="assets/images/photos/Paarth_NeLLi.jpg">
+    <img src="assets/images/photos/Paarth_NeLLi.jpg" alt="Paarth 2025 NeLLi">
+  </a>
+  <figcaption>Paarth Batra presenting his research of protein language models in the NeLLi Symposium (Nov 2025) </figcaption>
+</figure>
+
+<figure style="float: left; width: 600px; margin: 10px;">
   <a href="assets/images/photos/Party_2024_winter.jpg">
     <img src="assets/images/photos/Party_2024_winter.jpg" alt="Party 2024 winter">
   </a>
